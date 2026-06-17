@@ -1,0 +1,1638 @@
+mandt,spras,anlkl,txk20,txk50,txt50,txa50,xltxid,operation_flag,is_deleted,recordstamp
+100,D,00005000,GWG,Geringwertige Wirtschaftsgüter,,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,E,00002000,Machinery,Machinery,,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,D,00001000,Grundstuecke,"Grundstuecke, grundstuecksgleiche Rechte",,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,D,00003200,EDV / Hardware,EDV / Hardware,,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,E,00007000,Formation expense,Formation expense,,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,E,00004001,Investment measure,AuC as investment measure,,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,E,00004000,Assets under const.,Assets under construction,,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,E,00003000,Fixtures & fittings,Fixtures and fittings,,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,D,00003000,Betr.-und Geschäfts.,Betriebs- und Geschäftsausstattung,,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,E,00005000,LVA,Low-value assets,,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,D,00003100,Fuhrpark,Fuhrpark,,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,D,00001100,Gebäude,Gebäude,,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,D,00008200,Goodwill,Goodwill,,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,E,00008200,Goodwill,Goodwill,,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,E,00003100,Vehicles,Vehicles,,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,E,00001100,Buildings,Buildings,,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,D,00002000,Maschinen,Maschinen,,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,E,00001000,Real estate,Real estate and similar rights,,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,D,00008000,Kunstobjekte,Kunstobjekte,,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,E,00003200,DP / Hardware,DP / Hardware,,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,D,00004000,Anlagen im Bau,Anlagen im Bau,,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,E,00008000,Objects of art,Objects of art,,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,D,00006000,Leasing (Oper.),Geleaste Anlagen (Operational Lease),,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,E,00006000,Leasing (oper.),Leased assets (operating lease),,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,D,00008100,Vorauszahlungen,Vorauszahlungen,,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,E,00008100,Advance payments,Advance payments,,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,D,00007000,Gründungsaufwand,Gründungsaufwand,,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,D,00006100,Leasing (Capital),Geleaste Anlagen (Capital Lease),,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,E,00006100,Leasing (capital),Leased assets (capital lease),,,,I,False,2022-04-21 14:40:42.650360+00:00
+100,D,00004001,Investitionsmaßnahme,AiB als Investitionsmaßnahme,,,,I,False,2022-04-21 14:40:42.650360+00:00
+000,D,00005000,GWG,Geringwertige Wirtschaftsgüter,,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,D,00005000,GWG,Geringwertige Wirtschaftsgüter,,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,D,00005000,GWG,Geringwertige Wirtschaftsgüter,,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,D,00005000,GWG,Geringwertige Wirtschaftsgüter,,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,D,00005000,GWG,Geringwertige Wirtschaftsgüter,,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,D,00005000,GWG,Geringwertige Wirtschaftsgüter,,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,E,00002000,Machinery,Machinery,,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,E,00002000,Machinery,Machinery,,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,E,00002000,Machinery,Machinery,,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,E,00002000,Machinery,Machinery,,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,E,00002000,Machinery,Machinery,,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,E,00002000,Machinery,Machinery,,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,D,00001000,Grundstuecke,"Grundstuecke, grundstuecksgleiche Rechte",,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,D,00001000,Grundstuecke,"Grundstuecke, grundstuecksgleiche Rechte",,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,D,00001000,Grundstuecke,"Grundstuecke, grundstuecksgleiche Rechte",,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,D,00001000,Grundstuecke,"Grundstuecke, grundstuecksgleiche Rechte",,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,D,00001000,Grundstuecke,"Grundstuecke, grundstuecksgleiche Rechte",,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,D,00001000,Grundstuecke,"Grundstuecke, grundstuecksgleiche Rechte",,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,D,00003200,EDV / Hardware,EDV / Hardware,,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,D,00003200,EDV / Hardware,EDV / Hardware,,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,D,00003200,EDV / Hardware,EDV / Hardware,,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,D,00003200,EDV / Hardware,EDV / Hardware,,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,D,00003200,EDV / Hardware,EDV / Hardware,,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,D,00003200,EDV / Hardware,EDV / Hardware,,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,E,00007000,Formation expense,Formation expense,,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,E,00007000,Formation expense,Formation expense,,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,E,00007000,Formation expense,Formation expense,,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,E,00007000,Formation expense,Formation expense,,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,E,00007000,Formation expense,Formation expense,,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,E,00007000,Formation expense,Formation expense,,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,E,00004001,Investment measure,AuC as investment measure,,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,E,00004001,Investment measure,AuC as investment measure,,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,E,00004001,Investment measure,AuC as investment measure,,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,E,00004001,Investment measure,AuC as investment measure,,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,E,00004001,Investment measure,AuC as investment measure,,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,E,00004001,Investment measure,AuC as investment measure,,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,E,00004000,Assets under const.,Assets under construction,,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,E,00004000,Assets under const.,Assets under construction,,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,E,00004000,Assets under const.,Assets under construction,,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,E,00004000,Assets under const.,Assets under construction,,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,E,00004000,Assets under const.,Assets under construction,,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,E,00004000,Assets under const.,Assets under construction,,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,E,00003000,Fixtures & fittings,Fixtures and fittings,,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,E,00003000,Fixtures & fittings,Fixtures and fittings,,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,E,00003000,Fixtures & fittings,Fixtures and fittings,,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,E,00003000,Fixtures & fittings,Fixtures and fittings,,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,E,00003000,Fixtures & fittings,Fixtures and fittings,,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,E,00003000,Fixtures & fittings,Fixtures and fittings,,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,D,00003000,Betr.-und Geschäfts.,Betriebs- und Geschäftsausstattung,,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,D,00003000,Betr.-und Geschäfts.,Betriebs- und Geschäftsausstattung,,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,D,00003000,Betr.-und Geschäfts.,Betriebs- und Geschäftsausstattung,,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,D,00003000,Betr.-und Geschäfts.,Betriebs- und Geschäftsausstattung,,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,D,00003000,Betr.-und Geschäfts.,Betriebs- und Geschäftsausstattung,,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,D,00003000,Betr.-und Geschäfts.,Betriebs- und Geschäftsausstattung,,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,E,00005000,LVA,Low-value assets,,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,E,00005000,LVA,Low-value assets,,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,E,00005000,LVA,Low-value assets,,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,E,00005000,LVA,Low-value assets,,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,E,00005000,LVA,Low-value assets,,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,E,00005000,LVA,Low-value assets,,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,D,00003100,Fuhrpark,Fuhrpark,,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,D,00003100,Fuhrpark,Fuhrpark,,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,D,00003100,Fuhrpark,Fuhrpark,,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,D,00003100,Fuhrpark,Fuhrpark,,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,D,00003100,Fuhrpark,Fuhrpark,,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,D,00003100,Fuhrpark,Fuhrpark,,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,D,00001100,Gebäude,Gebäude,,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,D,00001100,Gebäude,Gebäude,,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,D,00001100,Gebäude,Gebäude,,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,D,00001100,Gebäude,Gebäude,,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,D,00001100,Gebäude,Gebäude,,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,D,00001100,Gebäude,Gebäude,,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,D,00008200,Goodwill,Goodwill,,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,E,00008200,Goodwill,Goodwill,,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,D,00008200,Goodwill,Goodwill,,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,E,00008200,Goodwill,Goodwill,,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,D,00008200,Goodwill,Goodwill,,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,E,00008200,Goodwill,Goodwill,,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,D,00008200,Goodwill,Goodwill,,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,E,00008200,Goodwill,Goodwill,,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,D,00008200,Goodwill,Goodwill,,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,E,00008200,Goodwill,Goodwill,,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,D,00008200,Goodwill,Goodwill,,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,E,00008200,Goodwill,Goodwill,,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,E,00003100,Vehicles,Vehicles,,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,E,00003100,Vehicles,Vehicles,,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,E,00003100,Vehicles,Vehicles,,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,E,00003100,Vehicles,Vehicles,,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,E,00003100,Vehicles,Vehicles,,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,E,00003100,Vehicles,Vehicles,,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,E,00001100,Buildings,Buildings,,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,E,00001100,Buildings,Buildings,,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,E,00001100,Buildings,Buildings,,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,E,00001100,Buildings,Buildings,,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,E,00001100,Buildings,Buildings,,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,E,00001100,Buildings,Buildings,,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,D,00002000,Maschinen,Maschinen,,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,D,00002000,Maschinen,Maschinen,,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,D,00002000,Maschinen,Maschinen,,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,D,00002000,Maschinen,Maschinen,,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,D,00002000,Maschinen,Maschinen,,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,D,00002000,Maschinen,Maschinen,,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,E,00001000,Real estate,Real estate and similar rights,,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,E,00001000,Real estate,Real estate and similar rights,,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,E,00001000,Real estate,Real estate and similar rights,,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,E,00001000,Real estate,Real estate and similar rights,,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,E,00001000,Real estate,Real estate and similar rights,,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,E,00001000,Real estate,Real estate and similar rights,,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,D,00008000,Kunstobjekte,Kunstobjekte,,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,D,00008000,Kunstobjekte,Kunstobjekte,,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,D,00008000,Kunstobjekte,Kunstobjekte,,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,D,00008000,Kunstobjekte,Kunstobjekte,,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,D,00008000,Kunstobjekte,Kunstobjekte,,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,D,00008000,Kunstobjekte,Kunstobjekte,,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,E,00003200,DP / Hardware,DP / Hardware,,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,E,00003200,DP / Hardware,DP / Hardware,,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,E,00003200,DP / Hardware,DP / Hardware,,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,E,00003200,DP / Hardware,DP / Hardware,,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,E,00003200,DP / Hardware,DP / Hardware,,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,E,00003200,DP / Hardware,DP / Hardware,,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,D,00004000,Anlagen im Bau,Anlagen im Bau,,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,D,00004000,Anlagen im Bau,Anlagen im Bau,,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,D,00004000,Anlagen im Bau,Anlagen im Bau,,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,D,00004000,Anlagen im Bau,Anlagen im Bau,,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,D,00004000,Anlagen im Bau,Anlagen im Bau,,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,D,00004000,Anlagen im Bau,Anlagen im Bau,,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,E,00008000,Objects of art,Objects of art,,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,E,00008000,Objects of art,Objects of art,,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,E,00008000,Objects of art,Objects of art,,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,E,00008000,Objects of art,Objects of art,,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,E,00008000,Objects of art,Objects of art,,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,E,00008000,Objects of art,Objects of art,,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,D,00006000,Leasing (Oper.),Geleaste Anlagen (Operational Lease),,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,D,00006000,Leasing (Oper.),Geleaste Anlagen (Operational Lease),,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,D,00006000,Leasing (Oper.),Geleaste Anlagen (Operational Lease),,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,D,00006000,Leasing (Oper.),Geleaste Anlagen (Operational Lease),,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,D,00006000,Leasing (Oper.),Geleaste Anlagen (Operational Lease),,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,D,00006000,Leasing (Oper.),Geleaste Anlagen (Operational Lease),,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,E,00006000,Leasing (oper.),Leased assets (operating lease),,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,E,00006000,Leasing (oper.),Leased assets (operating lease),,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,E,00006000,Leasing (oper.),Leased assets (operating lease),,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,E,00006000,Leasing (oper.),Leased assets (operating lease),,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,E,00006000,Leasing (oper.),Leased assets (operating lease),,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,E,00006000,Leasing (oper.),Leased assets (operating lease),,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,D,00008100,Vorauszahlungen,Vorauszahlungen,,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,D,00008100,Vorauszahlungen,Vorauszahlungen,,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,D,00008100,Vorauszahlungen,Vorauszahlungen,,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,D,00008100,Vorauszahlungen,Vorauszahlungen,,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,D,00008100,Vorauszahlungen,Vorauszahlungen,,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,D,00008100,Vorauszahlungen,Vorauszahlungen,,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,E,00008100,Advance payments,Advance payments,,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,E,00008100,Advance payments,Advance payments,,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,E,00008100,Advance payments,Advance payments,,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,E,00008100,Advance payments,Advance payments,,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,E,00008100,Advance payments,Advance payments,,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,E,00008100,Advance payments,Advance payments,,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,D,00007000,Gründungsaufwand,Gründungsaufwand,,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,D,00007000,Gründungsaufwand,Gründungsaufwand,,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,D,00007000,Gründungsaufwand,Gründungsaufwand,,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,D,00007000,Gründungsaufwand,Gründungsaufwand,,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,D,00007000,Gründungsaufwand,Gründungsaufwand,,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,D,00007000,Gründungsaufwand,Gründungsaufwand,,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,D,00006100,Leasing (Capital),Geleaste Anlagen (Capital Lease),,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,D,00006100,Leasing (Capital),Geleaste Anlagen (Capital Lease),,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,D,00006100,Leasing (Capital),Geleaste Anlagen (Capital Lease),,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,D,00006100,Leasing (Capital),Geleaste Anlagen (Capital Lease),,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,D,00006100,Leasing (Capital),Geleaste Anlagen (Capital Lease),,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,D,00006100,Leasing (Capital),Geleaste Anlagen (Capital Lease),,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,E,00006100,Leasing (capital),Leased assets (capital lease),,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,E,00006100,Leasing (capital),Leased assets (capital lease),,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,E,00006100,Leasing (capital),Leased assets (capital lease),,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,E,00006100,Leasing (capital),Leased assets (capital lease),,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,E,00006100,Leasing (capital),Leased assets (capital lease),,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,E,00006100,Leasing (capital),Leased assets (capital lease),,,,L,False,2022-01-31 20:41:43.517301+00:00
+000,D,00004001,Investitionsmaßnahme,AiB als Investitionsmaßnahme,,,,L,False,2022-01-31 20:41:43.517301+00:00
+001,D,00004001,Investitionsmaßnahme,AiB als Investitionsmaßnahme,,,,L,False,2022-01-31 20:41:43.517301+00:00
+050,D,00004001,Investitionsmaßnahme,AiB als Investitionsmaßnahme,,,,L,False,2022-01-31 20:41:43.517301+00:00
+100,D,00004001,Investitionsmaßnahme,AiB als Investitionsmaßnahme,,,,L,False,2022-01-31 20:41:43.517301+00:00
+200,D,00004001,Investitionsmaßnahme,AiB als Investitionsmaßnahme,,,,L,False,2022-01-31 20:41:43.517301+00:00
+250,D,00004001,Investitionsmaßnahme,AiB als Investitionsmaßnahme,,,,L,False,2022-01-31 20:41:43.517301+00:00
+800,1,00008200,商誉,商誉,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,2000D,机械,机械,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,2000R,机械,机械,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,00009360,机械,机械,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,00002000,机械,机械,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,00001100,建筑物,建筑物,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,00007000,开办费,开办费,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,00002200,组资产,China / 集团资产（仅限加拿大）,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,00008100,预付款,预付款,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,UT200,Eam 资产,Eam 资产,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,NLM002,模拟 auc,模拟 auc,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,00003200,DP / 硬件,DP / 硬件,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,00003100,交通工具,交通工具,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,N4001,投资计量,在建工程资产作为投资计量,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,IN9520,投资计量,Auc 作为投资度量,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,00004001,投资计量,在建工程资产作为投资计量,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,NLM001,投资计量,在建工程资产作为投资计量,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,00008000,艺术对象,艺术对象,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,L6100,租赁(营业),已租赁资产(营业性租赁),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,00006000,租赁(营业),已租赁资产(营业性租赁),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,00006100,租赁(资本),已租赁资产(资本租赁),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,00005000,低值易耗品,低值易耗品,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,L5100,低值易耗品,低值易耗品,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,L5000,低值易耗品,低值易耗品,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,IN1600,住宅建筑物,住宅建筑,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,IN2000,工厂与机器,工厂和机械,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,IN9500,Auc （汇总）,在建资产（汇总）,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,00004000,在建工程资产,在建工程资产,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,L4000,在建工程资产,在建工程资产,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,4000R&D,在建工程资产,在建工程资产,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,IN1800,建筑物的工厂,Factory buildings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,L2220,机器，直线法,Straight-line-depr 计算机上。,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,L2210,机器，直线法,Straight-line-depr 计算机上。,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,00002100,机器，直线法,Straight-line-depr 计算机上。,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,00002110,机器，直线法,Straight-line-depr 计算机上。,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,L2000,机器，直线法,Straight-line-depr 计算机上。,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,IN4000,家具和固定装置,Furniture and fixtures,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,IN1000,自由土地保有权,自由土地保有权,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,IN9510,Auc （单个项目）,在建资产（单个项目）,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,00005001,Lva （托收管理）。,低值资产（集中管理）,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,00001100,อาคาร,อาคาร,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,00008000,งานศิลปะ,งานศิลปะ,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,00003100,ยานพาหนะ,ยานพาหนะ,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,L6100,ลีสซิ่ง (Oper.),สินทรัพย์เช่า (operational lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,00006000,ลีสซิ่ง (Oper.),สินทรัพย์เช่า (operational lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,00003200,DP/ ฮาร์ดแวร์,DP/ ฮาร์ดแวร์,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,00006100,ลีสซิ่ง (Capital),สินทรัพย์เช่า (Capital Lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,00008200,ค่าความนิยม,ค่าความนิยม,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,00002000,เครื่องจักร,เครื่องจักร,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,00004001,มาตรการการลงทุน,สินทรัพย์ระหว่างก่อสร้างที่ถือเป็นมาตรวัดการลงทุน,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,N4001,มาตรการการลงทุน,สินทรัพย์ระหว่างก่อสร้างที่ถือเป็นมาตรวัดการลงทุน,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,L4000,ส/ทระหว่างก่อสร้าง,สินทรัพย์ระหว่างก่อสร้าง,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,00004000,ส/ทระหว่างก่อสร้าง,สินทรัพย์ระหว่างก่อสร้าง,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,L5100,สินทรัพย์มูลค่าต่ำ,สินทรัพย์มูลค่าต่ำ,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,00005000,สินทรัพย์มูลค่าต่ำ,สินทรัพย์มูลค่าต่ำ,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,L5000,สินทรัพย์มูลค่าต่ำ,สินทรัพย์มูลค่าต่ำ,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,00008100,การชำระเงินล่วงหน้า,การชำระเงินล่วงหน้า,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,00007000,ค่าใช้จ่ายในการสร้าง,ค่าใช้จ่ายในการสร้าง,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,00001100,건물,건물,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,2000R,기계,기계,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,00002000,기계,기계,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,00009360,기계,기계,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,2000D,기계,기계,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,00003100,차량,차량,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,00008100,선급금,선급금,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,00008200,영업권,영업권,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,00007000,창업비,창업비,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,00004001,투자조치,설비투자관리단위 AuC,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,N4001,투자조치,설비투자관리단위 AuC,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,4000R&D,건설가계정,건설가계정,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,L4000,건설가계정,건설가계정,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,00004000,건설가계정,건설가계정,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,00006100,리스 (자산),리스자산 (자산형리스),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,00003200,DP / 하드웨어,DP / 하드웨어,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,00008000,기술오브젝트,기술오브젝트,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,L6100,리스 (운영리스),리스자산 (운영리스),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,00006000,리스 (운영리스),리스자산 (운영리스),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,00005000,MFVM,Mijloace fixe de valoare mică,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,00001100,Clădiri,Clădiri,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,00003100,Vehicule,Vehicule,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,00001000,Propr.imob.,Imobiliare şi drepturi similare,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,00009360,Adm Purchasing,Administration Purchasing,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,00008200,Fond comercial,Fond comercial,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,00003000,AccŞiObUzCurent,Accesorii şi obiecte uz curent,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,00008000,Obiecte de artă,Obiecte de artă,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,00008100,Plăţi în avans,Plăţi în avans,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,00007000,Formare cheltuieli,Formare cheltuieli,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,00002000,Unitate producţie,Unitate producţie,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,00004001,Măsură investiţie,MFîC ca măsură investiţie,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,N4001,Măsură investiţie,MFîC ca măsură investiţie,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,00004000,Mijl.fixe în constr.,Mijloace fixe în construcţie,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,00005000,DNV,Gospodarske dobrine nizke vrednosti,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,00002000,Stroji,Stroji,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,00001100,Zgradba,Zgradba,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,00008000,Umetnine,Umetnine,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,00008200,Dobro ime,Dobro ime,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,00003100,Vozni park,Vozni park,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,00001000,Zemljišča,Zemljišča in pravice iz zemljišč,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,00009360,Adm Purchasing,Administration Purchasing,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,00006100,Leasing (Kapital),Najeta sredstva (Capital Lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,00007000,Formation expenses,Formation expenses,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,00004001,Investicijski ukrep,Sredstvo v gradnji kot investicijski ukrep,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,N4001,Investicijski ukrep,Sredstvo v gradnji kot investicijski ukrep,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,00003200,EOP / strojna oprema,EOP / strojna oprema,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,00003000,Opr.obr.in posl.opr.,Oprema obrata in poslovna oprema,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,00004000,Osnov.sred.v gradnji,Osnovna sredstva v gradnji,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,00005000,IMV,Imovina nisk. vrij.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,00003100,Vozila,Vozila,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,00001100,Zgrade,Zgrade,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,00002000,Strojevi,Strojevi,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,00001000,Nekretnine,Nekretnine i slična prava,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,00003200,DP / Hardver,DP / Hardver,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,00006000,Najam (oper.),Imovina u najmu (operat.najam),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,00009360,Adm Purchasing,Administration Purchasing,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,N4001,Mjera ulaganja,Imovina u izgradnji kao investicijska mjera,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,00004001,Mjera ulaganja,Imovina u izgradnji kao investicijska mjera,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,00006100,Najam (kapital),Imovina u najmu (financ.najam),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,00003000,Uređaji i oprema,Uređaji i oprema,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,00007000,Rashodi formiranja,Rashodi formiranja,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,00004000,Imovina u izgradnji,Imovina u izgradnji,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,00008100,Plaćanja unaprijed,Plaćanja unaprijed,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,00008000,Umjetnički objekti,Umjetnički objekti,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,A,00002000,أجهزة,أجهزة,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,A,00001100,مبانٍ,مبانٍ,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,A,00001000,عقارات,عقارات وحقوق مشابهة,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,A,00003100,مركبات,مركبات,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,A,00008200,شهرة تجارية,شهرة تجارية,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,A,00008000,كائنات الفن,كائنات الفن,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,A,00006000,تأجير (تشغيل),أصول مؤجر (تشغيل الإيجار),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,A,00008100,دَفعات مقدمة,دَفعات مقدمة,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,A,00006100,تأجير (الأصول),أصول مؤجرة (استئجار الأصول),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,A,00003000,تجهيزات ولوزام,تجهيزات ولوزام,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,A,00004001,قياس الاستثمار,AuC كقياس استثمار,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,A,00007000,مصاريف التكوين,مصاريف التكوين,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,A,00003200,DP / العتاد الصلب,DP / العتاد الصلب,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,A,00004000,أصول تحت البناء,أصول تحت الإنشاء,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,A,00005000,أصول منخفضة القيمة,أصول منخفضة القيمة,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,B,00001000,"נדל""ן","נדל""ן וזכויות דומות",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,B,00003100,רכבים,רכבים,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,B,00002000,מכונות,מכונות,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,B,00008100,מקדמות,מקדמות,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,B,00001100,בניינים,בניינים,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,B,00008200,מוניטין,מוניטין,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,B,00003200,DP / חומרה,DP / חומרה,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,B,00006100,חכירה - הון,נכסים מוחכרים - החכרת הון,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,B,00004001,אמצעי השקעה,נכס בבניה כאמצעי השקעת הון,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,B,00007000,הוצאות יצירה,הוצאות יצירה,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,B,00004000,נכסים בבנייה,נכסים בבנייה,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,B,00003000,מתקנים וריהוט,מתקנים וריהוט,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,B,00006000,חכירה - תפעולית,נכסים מוחכרים - החכרה תפעולית,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,B,00008000,אובייקטי אומנות,אובייקטי אומנות,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,B,00005000,נכסים בעלי ערך נמוך,נכסים בעלי ערך נמוך,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,L5000,DIM,Drobný investiční majetek,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,00005000,DIM,Drobný investiční majetek,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,L5100,DIM,Drobný investiční majetek,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,00001100,Budova,Budova,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,00002000,Stroje,Stroje,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,00003100,Vozový park,Vozový park,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,00003200,EZD / Hardware,EZD / Hardware,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,L4000,Nedok.investice,Nedok.investice,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,00004000,Nedok.investice,Nedok.investice,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,00006100,Leasing (kapit.),IM na lesing (kapitálový leasing),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,00008000,Umělecké objekty,Umělecké objekty,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,N4001,Investiční opatření,Nedok.investice jako inv.opatření,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,00004001,Investiční opatření,Nedok.investice jako inv.opatření,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,00002200,Komplexe,Anlagenkomplexe (nur USA/KANADA),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,L7710,Lizenzen,Lizenzen (für new-GL),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,L3610,Faxgeräte,Faxgeräte  (für new-GL),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,L7810,Firmenwert,Firmenwert (für new-GL),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,L3710,Büromöbel,Büromöbel  (für new-GL),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,L3210,EDV Hardware,EDV Hardware  (für new-GL),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,L7400,EDV Software,EDV Software (für new-GL),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,L1000,Grundstücke,Grundstücke (für new-GL),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,00001000,Grundstücke,Grundstücke,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,L7510,Konzessionen,Konzessionen (für new-GL),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,00001010,Aussenanlagen,Aussenanlagen,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,L3510,Kopiergeräte,Kopiergeräte  (für new-GL),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,L3410,Telefonanlagen,Telefonanlagen  (für new-GL),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,IN1800,Produktionshall,,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,L3810,Transportmittel,Transportmittel  (für new-GL),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,IN9500,AiB (summarisch),Anlagen im Bau (summarisch),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,00005001,GWG Sammelposten,GWG Sammelposten,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,00005000,GWG bis 150 Euro,GWG bis 150 Euro,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,L5000,GWG bis 150 Euro,GWG bis 150 Euro (für New GL),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,00002100,Maschinen linear,Maschinen linear,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,L6010,Capital Lease Anl,Capital Lease Anlagen  (für new-GL),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,00006001,Capital Lease Anl,Capital Lease Anlagen,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,00003200,Personal Computer,Personal Computer,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,IN9510,AiB (Einzelposten),Anlagen im Bau (Einzelposten),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,L2210,Technische Anlagen,Technische Anlagen (für new-GL),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,00009000,Leasinggegenstände,Leasinggegenstände,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,00002000,Maschinen degressiv,Maschinen degressiv,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,2000R,Maschinen degressiv,Maschinen degressiv,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,2000D,Maschinen degressiv,Maschinen degressiv,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,L6100,Operating Lease Anl,Operating Lease  (für new-GL),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,00006000,Operating Lease Anl,Operating Lease Anlagen,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,L1150,Einbauten in Grundst,Einbauten in fremde Grundstücke (für new-GL),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,L5100,GWG Sammelposten New,GWG Sammelposten (für New GL),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,00002110,GWG Technische Anlag,GWG Technische Anlagen,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,L2220,GWGTechnische Anlage,GWG Technische Anlagen (für new-GL),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,L7610,Gerwerbliche Schutz.,Gerwerbliche Schutzrechte (für new-GL),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,N3000,Betr.-u. Geschäftsa.,Betriebs- und Geschäftsausstattung  (für new-GL),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,00003000,Betr.-u. Geschäftsa.,Betriebs- und Geschäftsausstattung,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,L3000,Betr.-u. Geschäftsa.,Betriebs- und Geschäftsausstattung  (für new-GL),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,IN1800,Factory bldg,Factory buildings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,IN9500,AuC (Summary),Assets Under Construction (Summary),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,IN1000,Freehold land,Freehold land,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,00009360,Adm Purchasing,Administration Purchasing,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,IN1600,Residential bldg,Residential buildings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,IN2000,Plant & machinery,Plant and machinery,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,IN9510,AuC (Indiv. Items),Assets Under Construction (Individual Items),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,00007000,Formation expenses,Formation expenses,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,IN9520,Investment Measure,AuC as Investment Measure,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,00003200,Personal computers,Personal computers,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,IN4000,Furniture & fixtures,Furniture and fixtures,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,N4001,NLM7 AuC for Measure,NLM7 Assets under constr. in investm. measures,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,N3000,NLM7 Fixture fitting,NLM7 - Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,00002200,Complexes,Complexes d'immob. (uniqt USA/CANADA),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,00001100,Bâtiments,Bâtiments,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,00008000,Objets d'art,Objets d'art,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,IN1000,Terre franche,Terre franche,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,IN9500,Auc (résumé),Immobilisation en cours (résumé),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,00004000,Immob. en cours,Immobilisations en cours,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,L4000,Immob. en cours,Immobilisations en cours,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,NLM002,Mesure d'invest.,Immob.en cours en tant que mesure d'investissement,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,00004001,Mesure d'invest.,Immob.en cours en tant que mesure d'investissement,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,N4001,Mesure d'invest.,Immob.en cours en tant que mesure d'investissement,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,NLM001,Mesure d'invest.,Immob.en cours en tant que mesure d'investissement,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,00003100,Parc automobiles,Parc automobiles,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,IN2000,Usine & machines,Installations techniques et machines,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,L6100,Immob. en leasing,Immob. en leasing,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,L6010,Immob. en leasing,Immob. en leasing,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,00006001,Immob. en leasing,Immob. en leasing,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,00006000,Immob. en leasing,Immob. en leasing,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,00003200,Personal Computer,Personal Computer,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,IN1800,BâtN d'entreprise,Usines,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,00008200,Ecart d'aquisition,Ecart d´acquisition,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,00007000,Frais constitution,Frais constitution,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,IN9510,Auc (postes indiv.),Immobilisation en cours (postes individuels),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,UT200,Eam immobilisations,Eam immobilisations,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,2000D,Frais de dével.IAS,Frais de développement IAS,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,4000R&D,Immob. en cours IAS,Immobilisations en cours IAS,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,00005001,BMV (gest. groupée),Biens de moindre valeur (gestion groupée),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,00005000,BMV (gestion indiv.),Biens de moindre valeur (gestion individuelle),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,L5000,BMV (gestion indiv.),Biens de moindre valeur (gestion individuelle),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,L5100,BMV (gestion indiv.),Biens de moindre valeur (gestion individuelle),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,2000R,Frais de Recher. IAS,Frais de Recherche IAS,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,00009000,Immobilisations en l,Immobilisations en leasing,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,00002110,Machines - linéaire,Machines - linéaire,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,L2000,Machines - linéaire,Machines - linéaire,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,L2220,Machines - linéaire,Machines - linéaire,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,00002100,Machines - linéaire,Machines - linéaire,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,L2210,Machines - linéaire,Machines - linéaire,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,IN9520,Mesure d'investissem,Auc tant que mesure d'investissement,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,00008100,Paiements anticipés,Paiements anticipés,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,00009360,Machines - dégressif,Machines - dégressif,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,00002000,Machines - dégressif,Machines - dégressif,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,IN4000,Mobilier et équipeme,Matériel d'installation et d'équipement,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,IN1600,Bâtiment résidentiel,Immeubles résidentiels,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,00001100,Κτίρια,Κτίρια,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,00009360,Adm Purchasing,Administration Purchasing,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,00003100,Οχήματα,Οχήματα,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,00008200,Υπεραξία,Υπεραξία,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,00002000,Μηχανήματα,Μηχανήματα,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,00008100,Προκαταβολές,Προκαταβολές,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,N4001,Μέτρο επένδυσης,AuC όπως μέτρηση επένδυσης,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,00004001,Μέτρο επένδυσης,AuC όπως μέτρηση επένδυσης,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,00006100,Χρημ.μίσθ.(κεφαλ.),Εκμισθωμένα πάγια (κεφαλοπ.εκμίσθωση),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,00001000,Ακίνητη περιουσία,Ακίνητη περιουσία και ανάλογα δικαιώματα,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,00006000,Χρηματ.μίσθ.(λειτ.),Εκμισθ.πάγια (λειτ.εκμίσθωση),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,00003000,Προσαρτ.& εγκαταστ.,Προσαρτήματα και εγκαταστάσεις,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,00008000,Αντικείμενα τέχνης,Αντικείμενα τέχνης,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,00007000,Εξοδα μορφοποίησης,Εξοδα μορφοποίησης,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,00004000,Πάγια υπό κατασκευή,Πάγια υπό κατασκευή,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,L5100,CSÉE,Csekélyértékű vagyoneszközök,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,L5000,CSÉE,Csekélyértékű vagyoneszközök,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,00005000,CSÉE,Csekélyértékű vagyoneszközök,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,2000R,Gépek,Gépek,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,2000D,Gépek,Gépek,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,00002000,Gépek,Gépek,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,00009360,Gépek,Gépek,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,00001100,Épület,Épület,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,00003100,Járművek,Járművek,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,00003200,EAF / Hardware,EAF / Hardware,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,00008000,Művészeti obj.,Művészeti obj.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,00006100,Lízing (capital),Lízingelt eszközök (capital lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,00004000,Bef.len beruházás,Befejezetlen beruházás,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,L4000,Bef.len beruházás,Befejezetlen beruházás,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,4000R&D,Bef.len beruházás,Befejezetlen beruházás,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,00006000,Lízing (operatív),Lízingelt eszközök (operatív lízing),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,L6100,Lízing (operatív),Lízingelt eszközök (operatív lízing),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,N4001,Beruházási intézked.,"Befejezetlen beruházás, mint beruházási intézkedés",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,00004001,Beruházási intézked.,"Befejezetlen beruházás, mint beruházási intézkedés",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,L5100,CVE,Cespite di valore esiguo,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,L5000,CVE,Cespite di valore esiguo,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,00005000,CVE,Cespite di valore esiguo,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,00001100,Edifici,Edifici,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,00002000,Macchine,Macchine,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,00009360,Macchine,Macchine,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,00003100,Automezzi,Automezzi,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,00008200,Avviamento,Avviamento,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,00008000,Opere d'arte,Opere d'arte,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,L4000,Inv. in corso,Investimenti in corso,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,00004000,Inv. in corso,Investimenti in corso,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,00003200,EED / Hardware,EED / Hardware,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,00004001,Misura investimento,IiC come misura d'investimento,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,N4001,Misura investimento,IiC come misura d'investimento,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,00008100,前払,前払,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,00001100,建物,建物,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,00003100,車両,車両,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,00008200,営業権,営業権,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,00008000,美術品,美術品,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,00003200,事務機器,事務機器,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,00007000,費用構成,費用構成,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,L6100,リース資産,リース資産,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,00009000,リース資産,リース資産,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,L6010,リース資産,リース資産,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,00004000,建設仮勘定,建設仮勘定,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,L4000,建設仮勘定,建設仮勘定,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,4000R&D,建設仮勘定,建設仮勘定,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,00002000,機械下落法,機械下落法,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,00009360,機械下落法,機械下落法,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,2000R,機械下落法,機械下落法,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,2000D,機械下落法,機械下落法,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,L2210,機械定額法,機械定額法,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,00002100,機械定額法,機械定額法,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,00002110,機械定額法,機械定額法,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,L2220,機械定額法,機械定額法,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,L2000,機械定額法,機械定額法,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,00002200,グループ資産,グループ資産 (USA/カナダのみ),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,IN9520,設備投資案件,設備投資案件としての建設仮勘定,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,IN1800,ファクトリ建物,Factory buildings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,00006000,リース資産 (oper.),リース資産 (オペレーティングリース),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,NLM001,資本投資メジャー,投資メジャーにおける建設仮勘定,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,NLM002,資本投資メジャー,投資メジャーにおける建設仮勘定,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,00006100,リース (キャピタル),リース資産 (キャピタルリース),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,00005001,少額資産 (集合管理),少額資産 (集合管理),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,L5000,少額資産（個別管理）,少額資産（個別管理）,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,L5100,少額資産（個別管理）,少額資産（個別管理）,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,00005000,少額資産（個別管理）,少額資産（個別管理）,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,N4001,投資規準の建設仮勘定,設備投資案件としての建設仮勘定,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,00004001,投資規準の建設仮勘定,設備投資案件としての建設仮勘定,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,00006001,リース資産 (キャピタル),リース資産 (キャピタルリース),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,00002000,Maskiner,Maskiner,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,00003100,Vognpark,Vognpark,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,00001100,Bygninger,Bygninger,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,L5100,Småaktiver,Småaktiver,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,00005000,Småaktiver,Småaktiver,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,L5000,Småaktiver,Småaktiver,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,00008000,Kunstobjekter,Kunstobjekter,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,L4000,Anlæg u. udf.,Anlæg u. udf.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,00004000,Anlæg u. udf.,Anlæg u. udf.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,00003200,EDB / hardware,EDB / hardware,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,N4001,Investeringstiltag,AuU som investeringstiltag,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,00004001,Investeringstiltag,AuU som investeringstiltag,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,L5000,NSMT,Niskocenne składniki majątku trw.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,L5100,NSMT,Niskocenne składniki majątku trw.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,00005000,NSMT,Niskocenne składniki majątku trw.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,00001100,Budynek,Budynek,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,2000R,Maszyny,Maszyny,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,2000D,Maszyny,Maszyny,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,00002000,Maszyny,Maszyny,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,00009360,Maszyny,Maszyny,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,00008000,Dzieła sztuki,Dzieła sztuki,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,00003100,Tabor pojazdów,Tabor pojazdów,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,00008200,Wartość firmy,Wartość firmy,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,4000R&D,Inwestycje rozp.,Inwestycje rozp.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,L4000,Inwestycje rozp.,Inwestycje rozp.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,00004000,Inwestycje rozp.,Inwestycje rozp.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,00006000,Leasing operacyjny,Wyleasingowane skł.maj.trw. (leasing operac.),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,L6100,Leasing operacyjny,Wyleasingowane skł.maj.trw. (leasing operac.),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,00006100,Leasing kapitałowy,Wyleasingowane skł.maj.trw.(leasing kapitał.),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,00003200,Prz.danych/sp. komp.,Prztwarzanie danych/Sprzęt komputerowy,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,N4001,Środek inwestycyjny,Inwest. rozp. jako śr. inwest.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,00004001,Środek inwestycyjny,Inwest. rozp. jako śr. inwest.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,2000D,機械,機械,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,00002000,機械,機械,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,00009360,機械,機械,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,2000R,機械,機械,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,00003100,車輛,車輛,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,00001100,建築物,建築物,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,00008000,藝術品,藝術品,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,L5100,低值資產,低值資產,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,00005000,低值資產,低值資產,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,L5000,低值資產,低值資產,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,L4000,在建資產,在建資產,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,4000R&D,在建資產,在建資產,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,00004000,在建資產,在建資產,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,N4001,投資評價,在建工程作為資本投資措施,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,00004001,投資評價,在建工程作為資本投資措施,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,00007000,Formation expenses,Formation expenses,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,00006100,租賃﹙資本）,租賃的資產﹙資本租賃,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,00003200,資料處理 / 硬體,資料處理 / 硬體,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,00006000,租賃﹙營業租賃）,租賃資產﹙營業租賃）,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,L6100,租賃﹙營業租賃）,租賃資產﹙營業租賃）,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,00001100,Gebouwen,Gebouwen,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,00002000,Machines,Machines,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,00003100,Wagenpark,Wagenpark,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,00008000,Kunstobjecten,Kunstobjecten,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,00003200,EDP / hardware,EDP / hardware,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,00004001,Invest.maatregel,AIA als investeringsmaatregel,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,N4001,Invest.maatregel,AIA als investeringsmaatregel,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,00004000,Activa in aanbouw,Activa in aanbouw,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,L4000,Activa in aanbouw,Activa in aanbouw,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,L6100,Leasing (operat.),Geleaste activa (operational lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,00006000,Leasing (operat.),Geleaste activa (operational lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,L5000,Kleine investeringen,Kleine investeringen,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,00005000,Kleine investeringen,Kleine investeringen,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,L5100,Kleine investeringen,Kleine investeringen,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,L5000,ALV,Anleggsmidler med lav verdi,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,L5100,ALV,Anleggsmidler med lav verdi,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,00005000,ALV,Anleggsmidler med lav verdi,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,00003100,Bilpark,Bilpark,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,00002000,Maskiner,Maskiner,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,00001100,Bygninger,Bygninger,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,00003200,EDB/maskinvare,EDB/maskinvare,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,00008000,Kunstgjenstander,Kunstgjenstander,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,N4001,Investeringstiltak,Anlegg under utførelse som invest.tiltak,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,00004001,Investeringstiltak,Anlegg under utførelse som invest.tiltak,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,00006100,Leasing (finansiell),Leasede anleggsmidler (finansiell leasing),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,00004000,Anl. under utførelse,Anl. under utførelse,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,L4000,Anl. under utførelse,Anl. under utførelse,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,00008200,Aviamento,Goodwill,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,00002200,Complexos,Complexos de imobilizados (apenas USA/CANADÁ),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,00003100,Veículos,Veículos,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,00001100,Edifícios,Edifícios,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,00008100,Adiantamentos,Adiantamentos,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,00008000,Objeto de arte,Objeto de arte,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,IN1800,EdifícioFábrica,Factory buildings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,4000R&D,Imob.em andamento,Imobilizado em andamento,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,00004000,Imob.em andamento,Imobilizado em andamento,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,L4000,Imob.em andamento,Imobilizado em andamento,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,00004001,Medida de invest.,Imobilizado em andamento - medidas de investimento,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,NLM001,Medida de invest.,Imobilizado em andamento - medidas de investimento,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,NLM002,Medida de invest.,Imobilizado em andamento - medidas de investimento,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,N4001,Medida de invest.,Imobilizado em andamento - medidas de investimento,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,00002110,Máquinas: linear,Máquinas: linear,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,L2210,Máquinas: linear,Máquinas: linear,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,L2220,Máquinas: linear,Máquinas: linear,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,00002100,Máquinas: linear,Máquinas: linear,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,L2000,Máquinas: linear,Máquinas: linear,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,00003200,Computador pessoal,Computador pessoal,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,L6100,Imobilizado leasing,Imobilizado de leasing,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,L6010,Imobilizado leasing,Imobilizado de leasing,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,00006000,Imobilizado leasing,Imobilizado de leasing,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,00006001,Imobilizado leasing,Imobilizado de leasing,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,IN9520,Medida investimento,Imobilizados em andamento como medida investimento,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,00005001,BBV (administr.col.),Bens de baixo valor (administração coletiva),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,L5100,BBV (administr.ind.),Bens de baixo valor (administração individual),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,L5000,BBV (administr.ind.),Bens de baixo valor (administração individual),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,00005000,BBV (administr.ind.),Bens de baixo valor (administração individual),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,00007000,Custo constituição,Custo de constituição,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,00009000,Imobilizado de leasi,Imobilizado de leasing,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,00002000,Máquinas: decrescen.,Máquinas: decrescente,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,2000R,Máquinas: decrescen.,Máquinas: decrescente,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,2000D,Máquinas: decrescen.,Máquinas: decrescente,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,00009360,Máquinas: decrescen.,Máquinas: decrescente,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,00005000,DIM,Drobný investičný majetok,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,L5100,DIM,Drobný investičný majetok,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,L5000,DIM,Drobný investičný majetok,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,00001100,Budova,Budova,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,2000D,Stroje,Stroje,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,00009360,Stroje,Stroje,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,00002000,Stroje,Stroje,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,2000R,Stroje,Stroje,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,00003100,Vozový park,Vozový park,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,00003200,ESD / Hardware,ESD / Hardware,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,00006100,Leasing (kapit.),IM na leasing (kapitálový leasing),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,00008000,Umelecké objekty,Umelecké objekty,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,L4000,Nedokonč.investícia,Nedokončená investícia,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,4000R&D,Nedokonč.investícia,Nedokončená investícia,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,00004000,Nedokonč.investícia,Nedokončená investícia,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,N4001,Investičné opatrenie,Nedok.investície ako inv.opatrenia,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,00004001,Investičné opatrenie,Nedok.investície ako inv.opatrenia,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,00001100,Здания,Здания,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,00003100,Парк ТС,Парк транспортного хоз-ва,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,00008200,Гудвилл,Гудвилл,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,00002200,Комплексы,Комплексы основных средств (только США/Канада),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,00008100,Предоплаты,Предоплаты,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,00006100,Лизинг (Capital),Лизинговые ОснСредства (Capital Lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,IN1800,Произв. помещ.,Factory buildings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,00003200,Перс. компьютер,Персональные компьютеры,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,00005000,МБП (отд. управл.),МБП (управление по отдельности),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,L5000,МБП (отд. управл.),МБП (управление по отдельности),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,L5100,МБП (отд. управл.),МБП (управление по отдельности),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,00007000,Учредит. расходы,Учредительские расходы,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,00006001,Финанс. лизинг ОС,Финансовый лизинг основных средств,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,L6010,Финанс. лизинг ОС,Финансовый лизинг основных средств,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,00009360,Станки - ускоренно,Станки - ускоренно,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,2000R,Станки - ускоренно,Станки - ускоренно,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,2000D,Станки - ускоренно,Станки - ускоренно,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,00002000,Станки - ускоренно,Станки - ускоренно,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,00005001,МБП (групп. управл.),МБП (групповое управление),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,00002130,Машины - равном. ам.,Машины - равномерная амортизация,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,00002120,Машины - равном. ам.,Машины - равномерная амортизация,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,00002110,Машины - равном. ам.,Машины - равномерная амортизация,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,00004000,НезавершКапСтроит,Незавершенное капитальное строительство,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,L4000,НезавершКапСтроит,Незавершенное капитальное строительство,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,4000R&D,НезавершКапСтроит,Незавершенное капитальное строительство,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,00001010,Внешние сооружения,Внешние сооружения,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,L6100,Оператив. лизинг ОС,Оперативный лизинг основных средств,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,00006000,Оператив. лизинг ОС,Оперативный лизинг основных средств,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,00008000,Предметы искусства,Предметы искусства,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,L2220,Станки - равномерно,Станки - равномерно,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,00002100,Станки - равномерно,Станки - равномерно,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,L2000,Станки - равномерно,Станки - равномерно,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,L2210,Станки - равномерно,Станки - равномерно,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,IN9520,Инвест. мероприятие,Незав. капит. стр-во как инвест. мероприятие,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,00009000,Лизинговые основные,Лизинговые основные средства,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,NLM002,ИнвестицМероприятие,Объекты НКС - инвестиционное мероприятия,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,NLM001,ИнвестицМероприятие,Объекты НКС - инвестиционное мероприятия,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,00004001,ИнвестицМероприятие,Объекты НКС - инвестиционное мероприятия,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,N4001,ИнвестицМероприятие,Объекты НКС - инвестиционное мероприятия,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,00002200,Complejos,Complejos de activos fijos (sólo EE.UU./Canadá),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,00001100,Edificios,Edificios,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,IN1800,Ce.producción,Factory buildings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,L6100,Act.fijos leasing,Activos fijos en leasing,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,00006000,Act.fijos leasing,Activos fijos en leasing,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,00006001,Act.fijos leasing,Activos fijos en leasing,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,L6010,Act.fijos leasing,Activos fijos en leasing,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,00008200,Fondo de comercio,Fondo de comercio,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,L2220,Máquinas: lineal,Máquinas: amortiz.lineal,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,L2210,Máquinas: lineal,Máquinas: amortiz.lineal,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,00002100,Máquinas: lineal,Máquinas: amortiz.lineal,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,00002110,Máquinas: lineal,Máquinas: amortiz.lineal,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,L2000,Máquinas: lineal,Máquinas: amortiz.lineal,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,00008100,Pagos adelantados,Pagos adelantados,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,00004000,Act.fijos en curso,Activos fijos en curso,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,4000R&D,Act.fijos en curso,Activos fijos en curso,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,L4000,Act.fijos en curso,Activos fijos en curso,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,00008000,Objetos artísticos,Objetos artísticos,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,00009000,Activos fijos arrend,Activos fijos arrendados,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,00005001,BPV (gest.colectiva),Bienes económicos poco valor (gestión colectiva),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,00003200,Computadora personal,Computadora personal,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,00007000,Gastos constitución,Gastos de constitución,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,NLM002,Medida de inversión,Activos fijos en curso: medidas de inversión,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,IN9520,Medida de inversión,AF en curso como medida de inversión,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,00004001,Medida de inversión,Activos fijos en curso: medidas de inversión,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,N4001,Medida de inversión,Activos fijos en curso: medidas de inversión,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,NLM001,Medida de inversión,Activos fijos en curso: medidas de inversión,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,2000D,Máquinas: degresiva,Máquinas: amortiz.degresiva,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,00002000,Máquinas: degresiva,Máquinas: amortiz.degresiva,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,00009360,Máquinas: degresiva,Máquinas: amortiz.degresiva,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,2000R,Máquinas: degresiva,Máquinas: amortiz.degresiva,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,00003100,Parque de vehículos,Parque de vehículos,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,L5000,BPV (gestión indiv.),Bienes económicos de poco valor (gestión indiv.),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,00005000,BPV (gestión indiv.),Bienes económicos de poco valor (gestión indiv.),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,L5100,BPV (gestión indiv.),Bienes económicos de poco valor (gestión indiv.),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,L4000,YOY,Yapılmakta olan yatırımlar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,00004000,YOY,Yapılmakta olan yatırımlar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,4000R&D,YOY,Yapılmakta olan yatırımlar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,00001100,Bina,Bina,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,L5100,DDDV,Düşük değerli duran varlıklar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,L5000,DDDV,Düşük değerli duran varlıklar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,00005000,DDDV,Düşük değerli duran varlıklar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,00009360,Makineler,Makineler,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,2000D,Makineler,Makineler,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,2000R,Makineler,Makineler,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,00002000,Makineler,Makineler,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,00003200,EDP / Donanım,EDP / Donanım,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,00008000,Sanat eserleri,Sanat eserleri,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,00003100,Nakil vasıtaları,Nakil vasıtaları,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,00006100,Fin.kiralama (srm.),Finansal kiralanmış DV (sermaye kiralama),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,N4001,Yatırım ölçüsü,Yatırım ölçüsü olarak YOY,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,00004001,Yatırım ölçüsü,Yatırım ölçüsü olarak YOY,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,L6100,Finans.kiralama(işl),Finansal kiralanmış DV (işlemsel kiralama),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,00006000,Finans.kiralama(işl),Finansal kiralanmış DV (işlemsel kiralama),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,00002000,Koneet,Koneet,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,00003100,Ajoneuvot,Ajoneuvot,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,00001100,Rakennukset,Rakennukset,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,00008000,Taide-esineet,Taide-esineet,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,L5100,Pienhyödykkeet,Pienhyödykkeet,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,00005000,Pienhyödykkeet,Pienhyödykkeet,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,L5000,Pienhyödykkeet,Pienhyödykkeet,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,00003200,ATK / laitteisto,ATK / laitteisto,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,00004000,Keskener.hankinnat,Keskeneräiset hankinnat,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,L4000,Keskener.hankinnat,Keskeneräiset hankinnat,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,N4001,Investointitoimenp.,Keskeneräinen hankinta investointitoimenpiteenä,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,00004001,Investointitoimenp.,Keskeneräinen hankinta investointitoimenpiteenä,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,00003100,Fordon,Fordon,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,00009360,Maskiner,Maskiner,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,2000R,Maskiner,Maskiner,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,2000D,Maskiner,Maskiner,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,00002000,Maskiner,Maskiner,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,00001100,Byggnader,Byggnader,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,00008000,Konstobjekt,Konst och liknande tillgångar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,00003200,EDB / hårdvara,EDB / hårdvara,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,00004000,Påg. nyanläggning,Pågående nyanläggning,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,L4000,Påg. nyanläggning,Pågående nyanläggning,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,4000R&D,Påg. nyanläggning,Pågående nyanläggning,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,N4001,Investeringsåtgärd,Pågående nyanläggning som investeringsåtgärd,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,00004001,Investeringsåtgärd,Pågående nyanläggning som investeringsåtgärd,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,NLM001,Investeringsåtgärd,Pågående nyanläggning som investeringsåtgärd,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,NLM002,Investeringsåtgärd,Pågående nyanläggning som investeringsåtgärd,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,00005000,Lågvärdeinventarier,Lågvärdeinventarier,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,L5100,Lågvärdeinventarier,Lågvärdeinventarier,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,L5000,Lågvärdeinventarier,Lågvärdeinventarier,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,00002000,Машини,Машини,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,00001100,Сгради,Сгради,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,00009360,Adm Purchasing,Administration Purchasing,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,00003200,DP / Хардуеър,DP / Хардуеър,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,00004001,Инвест. мерки,Незавърш. производство като инвестиционна мярка,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,N4001,Инвест. мерки,Незавърш. производство като инвестиционна мярка,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,00006100,Лизинг (капитал),Лизинговани активи (капиталов лизинг),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,00005000,Малоценен актив,Малоценен актив,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,00008200,Полож.репутация,Положителна репутация,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,00008100,Авансови плащания,Авансови плащания,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,00003100,Превозни средства,Превозни средства,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,00006000,Лизинг (оперативен),Лизинговани активи (оперативен лизинг),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,00003000,Оборудв. на фирмата,Оборудв. на фирмата,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,00001000,Недвиж. собственост,Недвижима собственост и сходни права,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,00004000,Незавършено произв.,Незавършено произв.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,00007000,Раходи за формиране,Раходи за формиране,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,00008000,Обекти на изкуството,Обекти на изкуството,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,00004001,Cap.invest.measure,Assets under construction in investment measures,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,N4001,Cap.invest.measure,Assets under construction in investment measures,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,00007000,Formation expenses,Formation expenses,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,00003200,Personal computers,Personal computers,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,00005000,SNV,Sredstva niskih vrednosti,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,00008100,Avansi,Avansi,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,00008200,Gudvil,Gudvil,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,00003000,Oprema,Oprema,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,00001100,Zgrade,Zgrade,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,00002000,Mašine,Mašine,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,00001000,Nekretnine,Nekretnine i slična prava,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,00003100,Vozni park,Vozni park,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,00003200,EOP / hardver,EOP / hardver,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,00009360,Adm Purchasing,Administration Purchasing,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,00006000,Lizing (oper.),Unajmljena sredstva (operativni lizing),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,00006100,Lizing (kapital),Unajmljena sredstva (lizing kapitala),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,00004001,Investicione mere,Sredstva u pripremi kao investicione mere,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,N4001,Investicione mere,Sredstva u pripremi kao investicione mere,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,00008000,Umetnički objekti,Umetnički objekti,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,00004000,Sredstva u pripremi,Sredstva u pripremi,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,00007000,Formiranje troškova,Formiranje troškova,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,IN7500,,商誉,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,IN2000,,Technische Anlagen und Maschinen,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,00009360,,Verwaltung Einkauf,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,IN4000,,Betriebs- und Geschäftsausstattung,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,IN7500,,Goodwill,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,IN7500,,Ecart d´acquisition,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,IN4000,,Furniture and fixtures,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,IN7500,,営業権,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,IN2000,,プラントおよび機械,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,IN4000,,Instalações e equipamento,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,IN2000,,Instalações técnicas e máquinas,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,IN7500,,Goodwill,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,IN7500,,Гудвилл,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,IN2000,,Технические установки и станки,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,IN4000,,Производственное и офисное оборудование,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,IN7500,,Fondo de comercio,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,IN4000,,Mobiliario y equipos de oficina,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,IN2000,,Instalaciones técnicas y maquinaria,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,L5100,LVA,저가자산,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,L5000,LVA,저가자산,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,00005000,LVA,저가자산,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,00005000,LVA,Πάγια χαμηλής αξίας,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,00001000,Mark,Mark och liknande rättigheter,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,L7610,Mark,Mark och liknande rättigheter,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,L1150,Mark,Mark och liknande rättigheter,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,L7810,Mark,Mark och liknande rättigheter,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,L7400,Mark,Mark och liknande rättigheter,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,L7710,Mark,Mark och liknande rättigheter,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,L1000,Mark,Mark och liknande rättigheter,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,L7510,Mark,Mark och liknande rättigheter,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,L1100,Mark,Mark och liknande rättigheter,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,L7710,Grunty,Grunty i prawa gruntowe,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,L1000,Grunty,Grunty i prawa gruntowe,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,L7810,Grunty,Grunty i prawa gruntowe,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,L7610,Grunty,Grunty i prawa gruntowe,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,L7510,Grunty,Grunty i prawa gruntowe,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,L1100,Grunty,Grunty i prawa gruntowe,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,L1150,Grunty,Grunty i prawa gruntowe,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,00001000,Grunty,Grunty i prawa gruntowe,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,L7400,Grunty,Grunty i prawa gruntowe,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,00001000,Telkek,"Telkek, ingatlanjellegű jogok",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,L7400,Telkek,"Telkek, ingatlanjellegű jogok",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,L7610,Telkek,"Telkek, ingatlanjellegű jogok",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,L1100,Telkek,"Telkek, ingatlanjellegű jogok",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,L7810,Telkek,"Telkek, ingatlanjellegű jogok",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,L1150,Telkek,"Telkek, ingatlanjellegű jogok",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,L7510,Telkek,"Telkek, ingatlanjellegű jogok",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,L1000,Telkek,"Telkek, ingatlanjellegű jogok",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,L7710,Telkek,"Telkek, ingatlanjellegű jogok",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,L1000,Tomter,"Tomter, andre grunnarealer",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,L7810,Tomter,"Tomter, andre grunnarealer",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,00001000,Tomter,"Tomter, andre grunnarealer",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,L1150,Tomter,"Tomter, andre grunnarealer",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,L1100,Tomter,"Tomter, andre grunnarealer",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,L7400,Tomter,"Tomter, andre grunnarealer",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,L7610,Tomter,"Tomter, andre grunnarealer",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,L7710,Tomter,"Tomter, andre grunnarealer",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,L7510,Tomter,"Tomter, andre grunnarealer",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,L7510,Arsalar,"Arsalar, benzeri haklar",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,L7400,Arsalar,"Arsalar, benzeri haklar",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,L1150,Arsalar,"Arsalar, benzeri haklar",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,00001000,Arsalar,"Arsalar, benzeri haklar",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,L7710,Arsalar,"Arsalar, benzeri haklar",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,L7810,Arsalar,"Arsalar, benzeri haklar",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,L1100,Arsalar,"Arsalar, benzeri haklar",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,L1000,Arsalar,"Arsalar, benzeri haklar",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,L7610,Arsalar,"Arsalar, benzeri haklar",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,L3610,Kalusto,Koneet ja kalusto,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,L3210,Kalusto,Koneet ja kalusto,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,L3710,Kalusto,Koneet ja kalusto,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,L3410,Kalusto,Koneet ja kalusto,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,L3510,Kalusto,Koneet ja kalusto,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,L3810,Kalusto,Koneet ja kalusto,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,00003000,Kalusto,Koneet ja kalusto,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,N3000,Kalusto,Koneet ja kalusto,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,L3110,Kalusto,Koneet ja kalusto,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,L3000,Kalusto,Koneet ja kalusto,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,L1150,Pozemky,"Pozemky, pozemkové právo",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,L7710,Pozemky,"Pozemky, pozemkové právo",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,L1000,Pozemky,"Pozemky, pozemkové právo",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,L7400,Pozemky,"Pozemky, pozemkové právo",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,L7610,Pozemky,"Pozemky, pozemkové právo",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,L7810,Pozemky,"Pozemky, pozemkové právo",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,00001000,Pozemky,"Pozemky, pozemkové právo",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,L1100,Pozemky,"Pozemky, pozemkové právo",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,L7510,Pozemky,"Pozemky, pozemkové právo",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,00001000,Pozemky,"Pozemky, pozemkové práva",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,L7710,Pozemky,"Pozemky, pozemkové práva",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,L1150,Pozemky,"Pozemky, pozemkové práva",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,L7810,Pozemky,"Pozemky, pozemkové práva",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,L7510,Pozemky,"Pozemky, pozemkové práva",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,L7400,Pozemky,"Pozemky, pozemkové práva",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,L1000,Pozemky,"Pozemky, pozemkové práva",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,L1100,Pozemky,"Pozemky, pozemkové práva",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,L7610,Pozemky,"Pozemky, pozemkové práva",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,L1000,Terreni,Terreni e diritti equivalenti,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,L1150,Terreni,Terreni e diritti equivalenti,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,L1100,Terreni,Terreni e diritti equivalenti,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,L7400,Terreni,Terreni e diritti equivalenti,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,L7710,Terreni,Terreni e diritti equivalenti,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,00001000,Terreni,Terreni e diritti equivalenti,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,L7610,Terreni,Terreni e diritti equivalenti,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,L7510,Terreni,Terreni e diritti equivalenti,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,L7810,Terreni,Terreni e diritti equivalenti,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,00003100,Fuhrpark,Fuhrpark,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,L3110,Fuhrpark,Fuhrpark  (für new-GL),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,00001100,Gebäude,Gebäude,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,L1100,Gebäude,Gebäude (für new-GL),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,00008200,Goodwill,Goodwill,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,00008200,Goodwill,Goodwill,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,00008200,Goodwill,Goodwill,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,IN7500,Goodwill,Goodwill,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,00008200,Goodwill,Goodwill,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,00008200,Goodwill,Goodwill,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,00008200,Goodwill,Goodwill,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,00008200,Goodwill,Goodwill,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,00008200,Goodwill,Goodwill,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,00008200,Goodwill,Goodwill,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,00008200,Goodwill,Goodwill,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,L7400,Terrains,Terrains,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,L7810,Terrains,Terrains,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,L1150,Terrains,Terrains,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,L7610,Terrains,Terrains,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,L1100,Terrains,Terrains,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,L1000,Terrains,Terrains,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,L7510,Terrains,Terrains,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,00001000,Terrains,Terrains,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,L7710,Terrains,Terrains,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,L7710,Terrenos,Terrenos,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,L1150,Terrenos,Terrenos,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,L7610,Terrenos,Terrenos,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,L1000,Terrenos,Terrenos,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,L7810,Terrenos,Terrenos,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,L7510,Terrenos,Terrenos,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,L1100,Terrenos,Terrenos,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,L7400,Terrenos,Terrenos,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,00001000,Terrenos,Terrenos,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,L7400,Terrenos,Terrenos,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,L7710,Terrenos,Terrenos,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,L1150,Terrenos,Terrenos,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,L1000,Terrenos,Terrenos,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,L7510,Terrenos,Terrenos,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,L1100,Terrenos,Terrenos,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,00001000,Terrenos,Terrenos,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,L7610,Terrenos,Terrenos,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,L7810,Terrenos,Terrenos,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,00003100,Vehicles,Vehicles,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,IN6000,Vehicles,Vehicles,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,00003100,Vehicles,Vehicles,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,00001100,Buildings,Buildings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,00001100,Buildings,Buildings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,L2000,Maschinen,Maschinen (für new-GL),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,L1150,Terreinen,"Terreinen, grondrechten",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,L1000,Terreinen,"Terreinen, grondrechten",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,L7810,Terreinen,"Terreinen, grondrechten",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,L1100,Terreinen,"Terreinen, grondrechten",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,L7400,Terreinen,"Terreinen, grondrechten",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,L7510,Terreinen,"Terreinen, grondrechten",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,L7710,Terreinen,"Terreinen, grondrechten",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,00001000,Terreinen,"Terreinen, grondrechten",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,L7610,Terreinen,"Terreinen, grondrechten",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,L7400,不动产,不动产和相似权利,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,L7710,不动产,不动产和相似权利,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,00001000,不动产,不动产和相似权利,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,L1150,不动产,不动产和相似权利,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,L7510,不动产,不动产和相似权利,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,L7610,不动产,不动产和相似权利,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,L1100,不动产,不动产和相似权利,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,L7810,不动产,不动产和相似权利,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,L1000,不动产,不动产和相似权利,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,L1150,不動產,不動產及類似權利,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,L1000,不動產,不動產及類似權利,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,00001000,不動產,不動產及類似權利,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,L7610,不動產,不動產及類似權利,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,L7710,不動產,不動產及類似權利,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,L1100,不動產,不動產及類似權利,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,L7400,不動產,不動產及類似權利,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,L7510,不動產,不動產及類似權利,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,L7810,不動產,不動產及類似權利,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,L1000,不動産,不動産,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,L1150,不動産,不動産,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,L1100,不動産,不動産,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,00001000,不動産,不動産,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,L7610,不動産,不動産,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,L7400,不動産,不動産,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,L7510,不動産,不動産,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,L7710,不動産,不動産,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,L7810,不動産,不動産,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,L7510,부동산,부동산과 유사권리,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,L1100,부동산,부동산과 유사권리,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,00001000,부동산,부동산과 유사권리,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,L1150,부동산,부동산과 유사권리,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,L7400,부동산,부동산과 유사권리,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,L7710,부동산,부동산과 유사권리,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,L1000,부동산,부동산과 유사권리,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,L7810,부동산,부동산과 유사권리,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,L7610,부동산,부동산과 유사권리,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,UT200,EAM Assets,EAM Assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,UT200,EAM Assets,EAM Assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,UT200,EAM Assets,EAM Assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,UT200,EAM Assets,EAM Assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,UT200,EAM Assets,EAM Assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,UT200,EAM Assets,EAM Assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,UT200,EAM Assets,EAM Assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,UT200,EAM Assets,EAM Assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,L7400,Maa-alueet,Maa-alueet ja vastaavat oikeudet,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,L1100,Maa-alueet,Maa-alueet ja vastaavat oikeudet,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,L7710,Maa-alueet,Maa-alueet ja vastaavat oikeudet,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,L7510,Maa-alueet,Maa-alueet ja vastaavat oikeudet,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,L7810,Maa-alueet,Maa-alueet ja vastaavat oikeudet,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,L1000,Maa-alueet,Maa-alueet ja vastaavat oikeudet,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,00001000,Maa-alueet,Maa-alueet ja vastaavat oikeudet,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,L7610,Maa-alueet,Maa-alueet ja vastaavat oikeudet,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,L1150,Maa-alueet,Maa-alueet ja vastaavat oikeudet,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,L1150,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,L7400,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,L7810,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,L1000,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,L1100,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,L7510,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,L7610,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,L7710,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,L1100,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,L1150,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,L7610,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,L7400,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,L7810,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,L7710,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,L1000,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,L7510,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,L7810,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,L1000,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,L1100,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,L7610,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,L7400,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,L7510,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,L1150,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,L7710,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,L7400,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,00001000,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,L7710,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,L7610,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,L1000,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,L7510,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,L1150,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,L1100,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,L7810,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,L7810,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,L7710,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,L7610,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,L1100,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,L7510,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,L1000,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,L1150,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,L7400,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,L1000,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,L7810,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,L1100,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,L7400,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,L1150,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,L7610,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,L7510,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,L7710,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,L1000,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,L1150,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,L1100,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,L7610,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,L7810,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,L7400,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,00001000,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,L7710,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,L7510,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,L1150,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,L7710,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,L7810,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,L1000,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,L7510,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,L1100,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,L7610,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,L7400,Real estate,Real estate,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,L3510,Demirbaşlar,"İşletme ve büro teçhizatı, donanım ve demirbaşları",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,L3610,Demirbaşlar,"İşletme ve büro teçhizatı, donanım ve demirbaşları",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,L3210,Demirbaşlar,"İşletme ve büro teçhizatı, donanım ve demirbaşları",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,L3810,Demirbaşlar,"İşletme ve büro teçhizatı, donanım ve demirbaşları",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,L3110,Demirbaşlar,"İşletme ve büro teçhizatı, donanım ve demirbaşları",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,L3000,Demirbaşlar,"İşletme ve büro teçhizatı, donanım ve demirbaşları",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,L3710,Demirbaşlar,"İşletme ve büro teçhizatı, donanım ve demirbaşları",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,00003000,Demirbaşlar,"İşletme ve büro teçhizatı, donanım ve demirbaşları",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,N3000,Demirbaşlar,"İşletme ve büro teçhizatı, donanım ve demirbaşları",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,T,L3410,Demirbaşlar,"İşletme ve büro teçhizatı, donanım ve demirbaşları",,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,00002200,Group assets,Group assets (USA/Canada only),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,00002200,Group assets,Group assets (USA/Canada only),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,00002200,Group assets,Group assets (USA/Canada only),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,00002200,Group assets,Group assets (USA/Canada only),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,00002200,Group assets,Group assets (USA/Canada only),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,00002200,Group assets,Group assets (USA/Canada only),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,00002200,Group assets,Group assets (USA/Canada only),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,00002200,Group assets,Group assets (USA/Canada only),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,00002200,Group assets,Group assets (USA/Canada only),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,L7510,Grundstykker,Grunde og ejendomslignende rettigheder,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,L1000,Grundstykker,Grunde og ejendomslignende rettigheder,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,L7810,Grundstykker,Grunde og ejendomslignende rettigheder,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,L7610,Grundstykker,Grunde og ejendomslignende rettigheder,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,L7400,Grundstykker,Grunde og ejendomslignende rettigheder,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,L1100,Grundstykker,Grunde og ejendomslignende rettigheder,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,L1150,Grundstykker,Grunde og ejendomslignende rettigheder,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,00001000,Grundstykker,Grunde og ejendomslignende rettigheder,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,L7710,Grundstykker,Grunde og ejendomslignende rettigheder,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,00008000,Kunstobjekte,Kunstobjekte,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,L3610,器具備品,器具備品,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,L3710,器具備品,器具備品,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,00003000,器具備品,器具備品,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,L3810,器具備品,器具備品,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,L3410,器具備品,器具備品,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,L3000,器具備品,器具備品,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,N3000,器具備品,器具備品,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,L3510,器具備品,器具備品,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,L3110,器具備品,器具備品,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,J,L3210,器具備品,器具備品,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,00003200,DP / Hardware,DP / Hardware,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,00003200,DP / Hardware,DP / Hardware,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,L3610,Instalações,Instalações,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,L3000,Instalações,Instalações,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,L3510,Instalações,Instalações,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,N3000,Instalações,Instalações,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,L3410,Instalações,Instalações,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,L3810,Instalações,Instalações,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,L3110,Instalações,Instalações,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,L3710,Instalações,Instalações,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,L3210,Instalações,Instalações,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,00003000,Instalações,Instalações,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,00006001,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,L6010,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,L6010,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,00006001,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,L6100,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,L6010,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,L6100,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,00006001,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,00006001,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,L6100,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,L6010,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,L6010,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,00006001,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,00006000,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,L6100,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,L6100,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,00006001,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,L6010,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,L6010,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,00006001,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,L6100,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,L6100,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,00006000,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,00006001,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,L6010,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,L6100,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,L6010,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,00006001,Leased assets,Leased assets,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,00004000,Anlagen im Bau,Anlagen im Bau,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,4000R&D,Anlagen im Bau,Anlagen im Bau,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,L4000,Anlagen im Bau,Anlagen im Bau  (für new-GL),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,00008000,Objects of art,Objects of art,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,00008000,Objects of art,Objects of art,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,00006000,Leasing (Oper.),Najeta sredstva (Operational Lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,00006000,Leasing (Oper.),Cespiti in leasing (Operational Lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,L6100,Leasing (Oper.),Cespiti in leasing (Operational Lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,00006000,Leasing (Oper.),Leasede anlæg (Operational Lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,L6100,Leasing (Oper.),Leasede anlæg (Operational Lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,00006000,Leasing (oper.),Mijl.fixe în leasing (contract exploatare),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,L6100,Leasing (oper.),IM na lesing (operativní leasing),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,00006000,Leasing (oper.),IM na lesing (operativní leasing),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,L6100,Leasing (oper.),Leasede anleggsmidler (operasjonell leasing),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,00006000,Leasing (oper.),Leasede anleggsmidler (operasjonell leasing),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,L6100,Leasing (oper.),IM na leasing (operatívny leasing),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,00006000,Leasing (oper.),IM na leasing (operatívny leasing),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,L6100,Leasing (oper.),Leasing-vuokratut KO-yksiköt (operational lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,00006000,Leasing (oper.),Leasing-vuokratut KO-yksiköt (operational lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,00006000,Leasing (oper.),Leasade anläggningar (operational lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,L6100,Leasing (oper.),Leasade anläggningar (operational lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,00009000,Leasing objects,Leasing objects,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,00009000,Leasing objects,Leasing objects,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,00009000,Leasing objects,Leasing objects,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,00009000,Leasing objects,Leasing objects,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,00009000,Leasing objects,Leasing objects,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,00009000,Leasing objects,Leasing objects,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,00009000,Leasing objects,Leasing objects,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,00009000,Leasing objects,Leasing objects,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,00009000,Leasing objects,Leasing objects,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,00008100,Vorauszahlungen,Vorauszahlungen,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,N3000,设备和装置,设备和装置,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,00009000,设备和装置,设备和装置,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,L3710,设备和装置,设备和装置,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,L3810,设备和装置,设备和装置,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,L3000,设备和装置,设备和装置,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,L3610,设备和装置,设备和装置,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,L3110,设备和装置,设备和装置,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,L3210,设备和装置,设备和装置,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,L3410,设备和装置,设备和装置,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,L3510,设备和装置,设备和装置,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,1,00003000,设备和装置,设备和装置,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,00008100,Advance payments,Advance payments,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,00008100,Advance payments,Advance payments,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,00008100,Advance payments,Advance payments,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,00008100,Advance payments,Advance payments,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,NLM001,AuC for Measures,Assets under construction in investment measures,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,NLM001,AuC for Measures,Assets under construction in investment measures,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,NLM001,AuC for Measures,Assets under construction in investment measures,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,NLM001,AuC for Measures,Assets under construction in investment measures,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,NLM001,AuC for Measures,Assets under construction in investment measures,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,00004001,AuC for Measures,Assets under construction in investment measures,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,NLM001,AuC for Measures,Assets under construction in investment measures,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,NLM001,AuC for Measures,Assets under construction in investment measures,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,NLM001,AuC for Measures,Assets under construction in investment measures,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,NLM001,AuC for Measures,Assets under construction in investment measures,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,00007000,Gründungsaufwand,Gründungsaufwand,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,00006100,Leasing (Capital),Geleaste Anlagen (Capital Lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,00006100,Leasing (Capital),Leased assets (capital lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,00006100,Leasing (Capital),Cespiti in leasing (Capital Lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,00006100,Leasing (Capital),Leasede anlæg (Capital Lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,P,00006100,Leasing (Capital),Imobilizado em leasing (Capital Lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,00006100,Leasing (Capital),Activos fijos en leasing (Capital Lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,00006100,Leasing (Capital),Leased assets (capital lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,00006100,Leasing (capital),Mijl.fixe în leasing (închiriere capital),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,00006100,Leasing (capital),Immobilisations en leasing (Capital Lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,00006100,Leasing (capital),Geleaste activa (capital lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,U,00006100,Leasing (capital),Leasing-vuokratut KO-yksiköt (capital lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,00006100,Leasing (capital),Leasade anläggningar (capital lease),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,NLM002,AuC for Simulation,AuC for Simulation,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,NLM002,AuC for Simulation,AuC for Simulation,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,NLM002,AuC for Simulation,AuC for Simulation,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,NLM002,AuC for Simulation,AuC for Simulation,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,NLM002,AuC for Simulation,AuC for Simulation,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,NLM002,AuC for Simulation,AuC for Simulation,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,NLM002,AuC for Simulation,AuC for Simulation,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,NLM002,AuC for Simulation,AuC for Simulation,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,NLM002,AuC for Simulation,AuC for Simulation,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,L2000,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,L2210,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,00002110,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,L2220,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,00002100,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,L2220,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,L2000,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,00002100,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,L2210,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,00002110,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,00002110,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,00002100,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,L2220,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,L2000,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,L2210,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,L2220,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,00002100,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,L2000,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,L2210,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,00002110,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,00002110,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,L2220,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,L2210,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,00002100,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,L2000,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,L2000,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,00002110,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,L2220,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,00002100,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,L2210,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,L2000,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,L2210,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,L2220,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,00002100,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,00002110,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,L2210,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,L2220,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,00002110,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,L2000,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,00002100,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,00002110,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,L2220,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,00002100,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,L2000,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,L2210,Machines str.-line,Machines straight-line-depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,L3110,Maskiner o.invent.,Inventarier,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,L3710,Maskiner o.invent.,Inventarier,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,L3410,Maskiner o.invent.,Inventarier,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,L3510,Maskiner o.invent.,Inventarier,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,N3000,Maskiner o.invent.,Inventarier,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,L3810,Maskiner o.invent.,Inventarier,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,L3000,Maskiner o.invent.,Inventarier,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,L3610,Maskiner o.invent.,Inventarier,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,00003000,Maskiner o.invent.,Inventarier,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,V,L3210,Maskiner o.invent.,Inventarier,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,L3110,Wyposaż. zakładu,Wyposażenie zakładu,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,L3210,Wyposaż. zakładu,Wyposażenie zakładu,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,L3710,Wyposaż. zakładu,Wyposażenie zakładu,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,L3000,Wyposaż. zakładu,Wyposażenie zakładu,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,L3510,Wyposaż. zakładu,Wyposażenie zakładu,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,L3610,Wyposaż. zakładu,Wyposażenie zakładu,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,L3410,Wyposaż. zakładu,Wyposażenie zakładu,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,N3000,Wyposaż. zakładu,Wyposażenie zakładu,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,00003000,Wyposaż. zakładu,Wyposażenie zakładu,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,L,L3810,Wyposaż. zakładu,Wyposażenie zakładu,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,L3210,裝置物及配件,裝置物及配件,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,N3000,裝置物及配件,裝置物及配件,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,L3610,裝置物及配件,裝置物及配件,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,L3110,裝置物及配件,裝置物及配件,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,L3000,裝置物及配件,裝置物及配件,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,L3410,裝置物及配件,裝置物及配件,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,L3810,裝置物及配件,裝置物及配件,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,L3510,裝置物及配件,裝置物及配件,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,00003000,裝置物及配件,裝置物及配件,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,M,L3710,裝置物及配件,裝置物及配件,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,L3410,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,L3210,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,L3610,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,N3000,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,L3810,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,L3000,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,L3110,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,L3510,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,L3710,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,L3000,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,L3510,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,L3610,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,N3000,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,L3210,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,L3410,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,L3710,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,L3810,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,L3110,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,N3000,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,L3510,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,L3210,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,L3410,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,L3710,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,L3610,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,L3110,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,L3000,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,L3810,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,L3510,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,L3610,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,L3810,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,L3710,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,L3410,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,L3210,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,L3110,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,00003000,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,L3000,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,L3210,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,N3000,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,L3810,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,L3510,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,L3410,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,L3000,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,L3610,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,L3110,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,L3710,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,L3510,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,L3000,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,N3000,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,L3410,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,L3210,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,L3710,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,L3810,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,L3110,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,L3610,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,L3810,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,L3000,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,L3610,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,L3410,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,L3110,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,N3000,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,L3510,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,00003000,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,L3210,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,L3710,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,N3000,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,L3510,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,L3000,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,L3210,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,L3410,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,L3610,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,L3810,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,L3710,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,L3110,Fixture and fitting,Fixture and fittings,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,L3610,Kant.- en vest.inr.,Kantoor- en vestigingsinrichting,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,N3000,Kant.- en vest.inr.,Kantoor- en vestigingsinrichting,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,00003000,Kant.- en vest.inr.,Kantoor- en vestigingsinrichting,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,L3510,Kant.- en vest.inr.,Kantoor- en vestigingsinrichting,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,L3410,Kant.- en vest.inr.,Kantoor- en vestigingsinrichting,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,L3000,Kant.- en vest.inr.,Kantoor- en vestigingsinrichting,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,L3810,Kant.- en vest.inr.,Kantoor- en vestigingsinrichting,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,L3210,Kant.- en vest.inr.,Kantoor- en vestigingsinrichting,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,L3710,Kant.- en vest.inr.,Kantoor- en vestigingsinrichting,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,N,L3110,Kant.- en vest.inr.,Kantoor- en vestigingsinrichting,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,L3110,Mat.install/équip.,Matériel d'installation et d'équipement,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,L3410,Mat.install/équip.,Matériel d'installation et d'équipement,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,L3610,Mat.install/équip.,Matériel d'installation et d'équipement,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,L3210,Mat.install/équip.,Matériel d'installation et d'équipement,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,L3510,Mat.install/équip.,Matériel d'installation et d'équipement,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,L3000,Mat.install/équip.,Matériel d'installation et d'équipement,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,00003000,Mat.install/équip.,Matériel d'installation et d'équipement,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,L3810,Mat.install/équip.,Matériel d'installation et d'équipement,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,N3000,Mat.install/équip.,Matériel d'installation et d'équipement,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,F,L3710,Mat.install/équip.,Matériel d'installation et d'équipement,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,L3810,ProdUtstyr/inventar,Fast bygningsinventar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,L3210,ProdUtstyr/inventar,Fast bygningsinventar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,L3410,ProdUtstyr/inventar,Fast bygningsinventar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,L3110,ProdUtstyr/inventar,Fast bygningsinventar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,N3000,ProdUtstyr/inventar,Fast bygningsinventar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,L3710,ProdUtstyr/inventar,Fast bygningsinventar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,L3000,ProdUtstyr/inventar,Fast bygningsinventar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,L3510,ProdUtstyr/inventar,Fast bygningsinventar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,00003000,ProdUtstyr/inventar,Fast bygningsinventar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,O,L3610,ProdUtstyr/inventar,Fast bygningsinventar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,L3000,Provoz. a kanc.vyb.,Provozní a kancelářské vybavení,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,N3000,Provoz. a kanc.vyb.,Provozní a kancelářské vybavení,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,L3410,Provoz. a kanc.vyb.,Provozní a kancelářské vybavení,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,L3510,Provoz. a kanc.vyb.,Provozní a kancelářské vybavení,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,L3110,Provoz. a kanc.vyb.,Provozní a kancelářské vybavení,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,00003000,Provoz. a kanc.vyb.,Provozní a kancelářské vybavení,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,L3610,Provoz. a kanc.vyb.,Provozní a kancelářské vybavení,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,L3210,Provoz. a kanc.vyb.,Provozní a kancelářské vybavení,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,L3710,Provoz. a kanc.vyb.,Provozní a kancelářské vybavení,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,C,L3810,Provoz. a kanc.vyb.,Provozní a kancelářské vybavení,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,4000R&D,Assets under Constr.,Assets under construction,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,L4000,Assets under Constr.,Assets under construction,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,L4000,Assets under Constr.,Assets under construction,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,4000R&D,Assets under Constr.,Assets under construction,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,L4000,Assets under Constr.,Assets under construction,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,4000R&D,Assets under Constr.,Assets under construction,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,00004000,Assets under Constr.,Assets under construction,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,4000R&D,Assets under Constr.,Assets under construction,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,L4000,Assets under Constr.,Assets under construction,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,4000R&D,Assets under Constr.,Assets under construction,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,L4000,Assets under Constr.,Assets under construction,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,4000R&D,Assets under Constr.,Assets under construction,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,L4000,Assets under Constr.,Assets under construction,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,L4000,Assets under Constr.,Assets under construction,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,4000R&D,Assets under Constr.,Assets under construction,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,00004000,Assets under Constr.,Assets under construction,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,L4000,Assets under Constr.,Assets under construction,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,4000R&D,Assets under Constr.,Assets under construction,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,L3610,Drifts- og forretn.-,Drifts- og forretningsinventar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,L3410,Drifts- og forretn.-,Drifts- og forretningsinventar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,N3000,Drifts- og forretn.-,Drifts- og forretningsinventar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,L3710,Drifts- og forretn.-,Drifts- og forretningsinventar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,L3810,Drifts- og forretn.-,Drifts- og forretningsinventar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,L3510,Drifts- og forretn.-,Drifts- og forretningsinventar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,L3110,Drifts- og forretn.-,Drifts- og forretningsinventar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,L3210,Drifts- og forretn.-,Drifts- og forretningsinventar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,L3000,Drifts- og forretn.-,Drifts- og forretningsinventar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,K,00003000,Drifts- og forretn.-,Drifts- og forretningsinventar,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,00005001,LVA (collect. mgmt.),Low value assets (collective management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,00005001,LVA (collect. mgmt.),Low value assets (collective management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,00005001,LVA (collect. mgmt.),Low value assets (collective management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,00005001,LVA (collect. mgmt.),Low value assets (collective management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,00005001,LVA (collect. mgmt.),Low value assets (collective management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,00005001,LVA (collect. mgmt.),Low value assets (collective management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,00005001,LVA (collect. mgmt.),Low value assets (collective management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,00005001,LVA (collect. mgmt.),Low value assets (collective management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,00005001,LVA (collect. mgmt.),Low value assets (collective management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,L5100,LVA (individ. mgmt.),Low value assets (individual management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,L5000,LVA (individ. mgmt.),Low value assets (individual management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,L5000,LVA (individ. mgmt.),Low value assets (individual management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,L5100,LVA (individ. mgmt.),Low value assets (individual management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,L5000,LVA (individ. mgmt.),Low value assets (individual management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,L5100,LVA (individ. mgmt.),Low value assets (individual management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,L5000,LVA (individ. mgmt.),Low value assets (individual management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,00005000,LVA (individ. mgmt.),Low value assets (individual management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,L5100,LVA (individ. mgmt.),Low value assets (individual management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,L5000,LVA (individ. mgmt.),Low value assets (individual management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,L5100,LVA (individ. mgmt.),Low value assets (individual management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,L5100,LVA (individ. mgmt.),Low value assets (individual management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,L5000,LVA (individ. mgmt.),Low value assets (individual management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,L5000,LVA (individ. mgmt.),Low value assets (individual management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,00005000,LVA (individ. mgmt.),Low value assets (individual management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,L5100,LVA (individ. mgmt.),Low value assets (individual management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,L5100,LVA (individ. mgmt.),Low value assets (individual management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,L5000,LVA (individ. mgmt.),Low value assets (individual management),,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,2000R,Machines decl. depr.,Machines declining depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,4,2000D,Machines decl. depr.,Machines declining depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,2000R,Machines decl. depr.,Machines declining depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,5,2000D,Machines decl. depr.,Machines declining depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,2000R,Machines decl. depr.,Machines declining depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,6,2000D,Machines decl. depr.,Machines declining depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,2000R,Machines decl. depr.,Machines declining depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,00002000,Machines decl. depr.,Machines declining depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,E,2000D,Machines decl. depr.,Machines declining depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,2000D,Machines decl. depr.,Machines declining depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,G,2000R,Machines decl. depr.,Machines declining depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,2000D,Machines decl. depr.,Machines declining depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,W,2000R,Machines decl. depr.,Machines declining depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,2000D,Machines decl. depr.,Machines declining depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,2000R,Machines decl. depr.,Machines declining depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,00002000,Machines decl. depr.,Machines declining depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Z,00009360,Machines decl. depr.,Machines declining depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,2000D,Machines decl. depr.,Machines declining depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,d,2000R,Machines decl. depr.,Machines declining depr.,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,L3710,Mobili/macchine uff.,Mobili e macchine d'ufficio,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,L3000,Mobili/macchine uff.,Mobili e macchine d'ufficio,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,L3810,Mobili/macchine uff.,Mobili e macchine d'ufficio,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,N3000,Mobili/macchine uff.,Mobili e macchine d'ufficio,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,L3610,Mobili/macchine uff.,Mobili e macchine d'ufficio,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,L3510,Mobili/macchine uff.,Mobili e macchine d'ufficio,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,L3110,Mobili/macchine uff.,Mobili e macchine d'ufficio,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,00003000,Mobili/macchine uff.,Mobili e macchine d'ufficio,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,L3410,Mobili/macchine uff.,Mobili e macchine d'ufficio,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,I,L3210,Mobili/macchine uff.,Mobili e macchine d'ufficio,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,L3810,Mobiliario y enseres,Mobiliario y enseres,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,00003000,Mobiliario y enseres,Mobiliario y enseres,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,N3000,Mobiliario y enseres,Mobiliario y enseres,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,L3510,Mobiliario y enseres,Mobiliario y enseres,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,L3610,Mobiliario y enseres,Mobiliario y enseres,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,L3000,Mobiliario y enseres,Mobiliario y enseres,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,L3710,Mobiliario y enseres,Mobiliario y enseres,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,L3210,Mobiliario y enseres,Mobiliario y enseres,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,L3410,Mobiliario y enseres,Mobiliario y enseres,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,S,L3110,Mobiliario y enseres,Mobiliario y enseres,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,L3410,Prevádz.a kanc.vyb.,Prevádzkové a kancelárske vybavenie,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,L3710,Prevádz.a kanc.vyb.,Prevádzkové a kancelárske vybavenie,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,L3210,Prevádz.a kanc.vyb.,Prevádzkové a kancelárske vybavenie,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,00003000,Prevádz.a kanc.vyb.,Prevádzkové a kancelárske vybavenie,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,L3810,Prevádz.a kanc.vyb.,Prevádzkové a kancelárske vybavenie,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,L3610,Prevádz.a kanc.vyb.,Prevádzkové a kancelárske vybavenie,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,N3000,Prevádz.a kanc.vyb.,Prevádzkové a kancelárske vybavenie,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,L3000,Prevádz.a kanc.vyb.,Prevádzkové a kancelárske vybavenie,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,L3110,Prevádz.a kanc.vyb.,Prevádzkové a kancelárske vybavenie,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,Q,L3510,Prevádz.a kanc.vyb.,Prevádzkové a kancelárske vybavenie,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,NLM002,Investitionsmaßnahme,Anlagen im Bau - Investitionsmaßnahmen,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,NLM001,Investitionsmaßnahme,Anlagen im Bau - Investitionsmaßnahmen,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,00004001,Investitionsmaßnahme,Anlagen im Bau - Investitionsmaßnahmen,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,N4001,Investitionsmaßnahme,Anlagen im Bau - Investitionsmaßnahmen,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,D,IN9520,Investitionsmaßnahme,AiB als Investitionsmaßnahme,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,N3000,Üzemi + irod.berend.,Üzemi és irodai berendezések,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,L3410,Üzemi + irod.berend.,Üzemi és irodai berendezések,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,00003000,Üzemi + irod.berend.,Üzemi és irodai berendezések,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,L3210,Üzemi + irod.berend.,Üzemi és irodai berendezések,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,L3710,Üzemi + irod.berend.,Üzemi és irodai berendezések,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,L3000,Üzemi + irod.berend.,Üzemi és irodai berendezések,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,L3610,Üzemi + irod.berend.,Üzemi és irodai berendezések,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,L3810,Üzemi + irod.berend.,Üzemi és irodai berendezések,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,L3510,Üzemi + irod.berend.,Üzemi és irodai berendezések,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,H,L3110,Üzemi + irod.berend.,Üzemi és irodai berendezések,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,L3610,구축물과 기계부속품,구축물과 기계부속품,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,L3000,구축물과 기계부속품,구축물과 기계부속품,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,L3510,구축물과 기계부속품,구축물과 기계부속품,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,L3110,구축물과 기계부속품,구축물과 기계부속품,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,L3710,구축물과 기계부속품,구축물과 기계부속품,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,N3000,구축물과 기계부속품,구축물과 기계부속품,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,L3410,구축물과 기계부속품,구축물과 기계부속품,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,L3210,구축물과 기계부속품,구축물과 기계부속품,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,00003000,구축물과 기계부속품,구축물과 기계부속품,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,3,L3810,구축물과 기계부속품,구축물과 기계부속품,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,L1150,Земельные участки,Земельные участки,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,L7510,Земельные участки,Земельные участки,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,00001000,Земельные участки,Земельные участки,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,L1100,Земельные участки,Земельные участки,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,L7400,Земельные участки,Земельные участки,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,L7810,Земельные участки,Земельные участки,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,L1000,Земельные участки,Земельные участки,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,L7610,Земельные участки,Земельные участки,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,L7710,Земельные участки,Земельные участки,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,L3510,ПроизводствОборудов,Производственное и офисное оборудование,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,L3210,ПроизводствОборудов,Производственное и офисное оборудование,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,L3610,ПроизводствОборудов,Производственное и офисное оборудование,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,L3710,ПроизводствОборудов,Производственное и офисное оборудование,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,L3110,ПроизводствОборудов,Производственное и офисное оборудование,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,L3810,ПроизводствОборудов,Производственное и офисное оборудование,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,N3000,ПроизводствОборудов,Производственное и офисное оборудование,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,L3000,ПроизводствОборудов,Производственное и офисное оборудование,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,00003000,ПроизводствОборудов,Производственное и офисное оборудование,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,R,L3410,ПроизводствОборудов,Производственное и офисное оборудование,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,L1000,อสังหาริมทรัพย์,อสังหาริมทรัพย์และสิทธิเทียบเท่ากัน,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,00001000,อสังหาริมทรัพย์,อสังหาริมทรัพย์และสิทธิเทียบเท่ากัน,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,L1100,อสังหาริมทรัพย์,อสังหาริมทรัพย์และสิทธิเทียบเท่ากัน,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,L7400,อสังหาริมทรัพย์,อสังหาริมทรัพย์และสิทธิเทียบเท่ากัน,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,L7710,อสังหาริมทรัพย์,อสังหาริมทรัพย์และสิทธิเทียบเท่ากัน,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,L7610,อสังหาริมทรัพย์,อสังหาริมทรัพย์และสิทธิเทียบเท่ากัน,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,L1150,อสังหาริมทรัพย์,อสังหาริมทรัพย์และสิทธิเทียบเท่ากัน,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,L7810,อสังหาริมทรัพย์,อสังหาริมทรัพย์และสิทธิเทียบเท่ากัน,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,L7510,อสังหาริมทรัพย์,อสังหาริมทรัพย์และสิทธิเทียบเท่ากัน,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,N3000,อุปกรณ์&เครื่องใช้,อุปกรณ์และเครื่องใช้สำนักงาน,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,L3110,อุปกรณ์&เครื่องใช้,อุปกรณ์และเครื่องใช้สำนักงาน,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,L3810,อุปกรณ์&เครื่องใช้,อุปกรณ์และเครื่องใช้สำนักงาน,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,00003000,อุปกรณ์&เครื่องใช้,อุปกรณ์และเครื่องใช้สำนักงาน,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,L3610,อุปกรณ์&เครื่องใช้,อุปกรณ์และเครื่องใช้สำนักงาน,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,L3510,อุปกรณ์&เครื่องใช้,อุปกรณ์และเครื่องใช้สำนักงาน,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,L3210,อุปกรณ์&เครื่องใช้,อุปกรณ์และเครื่องใช้สำนักงาน,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,L3710,อุปกรณ์&เครื่องใช้,อุปกรณ์และเครื่องใช้สำนักงาน,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,L3000,อุปกรณ์&เครื่องใช้,อุปกรณ์และเครื่องใช้สำนักงาน,,,,L,False,2021-07-27 03:11:23.530644+00:00
+800,2,L3410,อุปกรณ์&เครื่องใช้,อุปกรณ์และเครื่องใช้สำนักงาน,,,,L,False,2021-07-27 03:11:23.530644+00:00

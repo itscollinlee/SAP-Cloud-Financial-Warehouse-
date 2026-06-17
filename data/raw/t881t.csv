@@ -1,0 +1,2513 @@
+mandt,langu,rldnr,name,operation_flag,is_deleted,recordstamp
+100,D,3A,Abstimmledger,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,7R,Retail Ledger,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,7R,Retail Ledger,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,9J,HHM Finanzplan,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,0L,Leading Ledger,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,1L,Leading Ledger,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,9F,FM Payment Budget,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,90,Grants Management,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,90,Grants Management,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,0L,führendes Ledger,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,1L,führendes Ledger,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,9F,HHM Zahlungsbudget,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,9J,FM Financial Budget,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,LR,Local rollup ledger,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,10,Consolidation Ledger,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,1C,Consolidation Ledger,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,8E,Export Ledger for 8A,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,9G,FM Commitment Budget,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,8C,Rollup Profit Center,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,8C,Rollup Profit Center,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,10,Konsolidierungsledger,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,1C,Konsolidierungsledger,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,LR,Lokales Rollup-Ledger,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,3A,Reconciliation Ledger,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,8A,Profit-Center-Rechnung,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,8E, Export -Ledger für 8A,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,9G,HHM Verpflichtungsbudget,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,1M,Management consolidation,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,8A,Profit Center Accounting,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,00,Sachkonto-Verkehrszahlen,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,9C,Controlling Haushaltsmgm.,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,1M,Management-Konsolidierung,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,9M,BEE Ledger: Zahlungsbudget,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,0R,Export Ledger for Ledger 0,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,9I,FM CB Availability Control,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,9H,FM PB Availability Control,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,9D,Funds Mgmt Workflow Ledger,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,9K,GM PB Availability Control,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,3J,ISSR: Meldewesen DE Erfolg,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,3I,ISSR: Reporting DE Balance,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,3K,ISSR: Reporting DE Payable,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,0F,Umsatzkostenverfahren-Buch,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,0R,Export-Ledger für Ledger 0,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,3I,ISSR: Meldewesen DE Bestand,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,L0,Local direct posting ledger,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,09,Zusatzledger Konsolidierung,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,9C,Funds Management Controlling,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,G0,Global direct posting ledger,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,L0,Lokales Durchbuchungs-Ledger,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,9D,Workflowledger Haushaltsmgm.,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,9A,Zahlungsbudget Haushaltsmgm.,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,09,Additnal Consolidation Ledger,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,9N,Bud.Incr.Rev.: Commit. Budget,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,9M,Bud.Incr.Rev.: Payment Budget,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,0F,Cost of Sales Accounting Ldgr,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,1A,FI-LC: Direct Postng Bus.Area,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,9A,Funds Management Payment Bdgt,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,00,G/L Accnt Transaction Figures,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,G0,Globales Durchbuchungs-Ledger,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,3K,ISSR: Meldewesen DE Forderung,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,9B,Verpflichtungsb.Haushaltsmgm.,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,9N,BEE Ledger: Verpflichtungsbdgt,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,3B,Export Ledger for Recon.Ledger,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,3B,Exportledger zum Abstimmledger,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,1B,FI-LC: Dir.Pstng Bus.Ar.Rollup,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,1A,FI-LC: dir. Durchbuchung Gsber,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,1B,FI-LC: dir.Durch. Gsber Rollup,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,9B,Funds Management Commit.Budget,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,9K,GM ZB Verfügbarkeitskontrolle,I,False,2022-04-21 15:18:15.197176+00:00
+100,E,3J,ISSR: Reporting DE Profit&Loss,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,9I,HHM VB Verfügbarkeitskontrolle,I,False,2022-04-21 15:18:15.197176+00:00
+100,D,9H,HHM ZB Verfügbarkeitskontrolle,I,False,2022-04-21 15:18:15.197176+00:00
+000,D,3A,Abstimmledger,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,3A,Abstimmledger,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,3A,Abstimmledger,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,3A,Abstimmledger,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,3A,Abstimmledger,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,3A,Abstimmledger,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,7R,Retail Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,7R,Retail Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,7R,Retail Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,7R,Retail Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,7R,Retail Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,7R,Retail Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,7R,Retail Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,7R,Retail Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,7R,Retail Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,7R,Retail Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,7R,Retail Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,7R,Retail Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,9J,HHM Finanzplan,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,9J,HHM Finanzplan,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,9J,HHM Finanzplan,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,9J,HHM Finanzplan,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,9J,HHM Finanzplan,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,9J,HHM Finanzplan,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,0L,Leading Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,1L,Leading Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,0L,Leading Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,1L,Leading Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,0L,Leading Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,1L,Leading Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,0L,Leading Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,1L,Leading Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,0L,Leading Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,1L,Leading Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,0L,Leading Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,1L,Leading Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,9F,FM Payment Budget,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,9F,FM Payment Budget,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,9F,FM Payment Budget,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,9F,FM Payment Budget,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,9F,FM Payment Budget,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,9F,FM Payment Budget,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,90,Grants Management,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,90,Grants Management,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,90,Grants Management,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,90,Grants Management,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,90,Grants Management,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,90,Grants Management,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,90,Grants Management,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,90,Grants Management,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,90,Grants Management,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,90,Grants Management,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,90,Grants Management,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,90,Grants Management,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,0L,führendes Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,1L,führendes Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,0L,führendes Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,1L,führendes Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,0L,führendes Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,1L,führendes Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,0L,führendes Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,1L,führendes Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,0L,führendes Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,1L,führendes Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,0L,führendes Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,1L,führendes Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,9F,HHM Zahlungsbudget,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,9F,HHM Zahlungsbudget,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,9F,HHM Zahlungsbudget,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,9F,HHM Zahlungsbudget,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,9F,HHM Zahlungsbudget,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,9F,HHM Zahlungsbudget,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,9J,FM Financial Budget,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,9J,FM Financial Budget,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,9J,FM Financial Budget,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,9J,FM Financial Budget,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,9J,FM Financial Budget,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,9J,FM Financial Budget,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,LR,Local rollup ledger,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,LR,Local rollup ledger,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,LR,Local rollup ledger,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,LR,Local rollup ledger,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,LR,Local rollup ledger,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,LR,Local rollup ledger,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,10,Consolidation Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,1C,Consolidation Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,10,Consolidation Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,1C,Consolidation Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,10,Consolidation Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,1C,Consolidation Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,10,Consolidation Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,1C,Consolidation Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,10,Consolidation Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,1C,Consolidation Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,10,Consolidation Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,1C,Consolidation Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,8E,Export Ledger for 8A,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,8E,Export Ledger for 8A,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,8E,Export Ledger for 8A,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,8E,Export Ledger for 8A,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,8E,Export Ledger for 8A,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,8E,Export Ledger for 8A,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,9G,FM Commitment Budget,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,9G,FM Commitment Budget,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,9G,FM Commitment Budget,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,9G,FM Commitment Budget,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,9G,FM Commitment Budget,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,9G,FM Commitment Budget,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,8C,Rollup Profit Center,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,8C,Rollup Profit Center,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,8C,Rollup Profit Center,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,8C,Rollup Profit Center,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,8C,Rollup Profit Center,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,8C,Rollup Profit Center,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,8C,Rollup Profit Center,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,8C,Rollup Profit Center,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,8C,Rollup Profit Center,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,8C,Rollup Profit Center,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,8C,Rollup Profit Center,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,8C,Rollup Profit Center,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,10,Konsolidierungsledger,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,1C,Konsolidierungsledger,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,10,Konsolidierungsledger,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,1C,Konsolidierungsledger,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,10,Konsolidierungsledger,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,1C,Konsolidierungsledger,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,10,Konsolidierungsledger,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,1C,Konsolidierungsledger,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,10,Konsolidierungsledger,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,1C,Konsolidierungsledger,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,10,Konsolidierungsledger,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,1C,Konsolidierungsledger,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,LR,Lokales Rollup-Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,LR,Lokales Rollup-Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,LR,Lokales Rollup-Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,LR,Lokales Rollup-Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,LR,Lokales Rollup-Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,LR,Lokales Rollup-Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,3A,Reconciliation Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,3A,Reconciliation Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,3A,Reconciliation Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,3A,Reconciliation Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,3A,Reconciliation Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,3A,Reconciliation Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,8A,Profit-Center-Rechnung,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,8A,Profit-Center-Rechnung,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,8A,Profit-Center-Rechnung,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,8A,Profit-Center-Rechnung,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,8A,Profit-Center-Rechnung,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,8A,Profit-Center-Rechnung,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,8E, Export -Ledger für 8A,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,8E, Export -Ledger für 8A,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,8E, Export -Ledger für 8A,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,8E, Export -Ledger für 8A,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,8E, Export -Ledger für 8A,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,8E, Export -Ledger für 8A,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,9G,HHM Verpflichtungsbudget,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,9G,HHM Verpflichtungsbudget,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,9G,HHM Verpflichtungsbudget,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,9G,HHM Verpflichtungsbudget,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,9G,HHM Verpflichtungsbudget,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,9G,HHM Verpflichtungsbudget,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,1M,Management consolidation,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,1M,Management consolidation,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,1M,Management consolidation,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,1M,Management consolidation,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,1M,Management consolidation,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,1M,Management consolidation,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,8A,Profit Center Accounting,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,8A,Profit Center Accounting,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,8A,Profit Center Accounting,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,8A,Profit Center Accounting,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,8A,Profit Center Accounting,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,8A,Profit Center Accounting,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,00,Sachkonto-Verkehrszahlen,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,00,Sachkonto-Verkehrszahlen,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,00,Sachkonto-Verkehrszahlen,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,00,Sachkonto-Verkehrszahlen,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,00,Sachkonto-Verkehrszahlen,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,00,Sachkonto-Verkehrszahlen,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,9C,Controlling Haushaltsmgm.,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,9C,Controlling Haushaltsmgm.,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,9C,Controlling Haushaltsmgm.,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,9C,Controlling Haushaltsmgm.,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,9C,Controlling Haushaltsmgm.,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,9C,Controlling Haushaltsmgm.,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,1M,Management-Konsolidierung,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,1M,Management-Konsolidierung,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,1M,Management-Konsolidierung,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,1M,Management-Konsolidierung,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,1M,Management-Konsolidierung,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,1M,Management-Konsolidierung,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,9M,BEE Ledger: Zahlungsbudget,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,9M,BEE Ledger: Zahlungsbudget,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,9M,BEE Ledger: Zahlungsbudget,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,9M,BEE Ledger: Zahlungsbudget,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,9M,BEE Ledger: Zahlungsbudget,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,9M,BEE Ledger: Zahlungsbudget,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,0R,Export Ledger for Ledger 0,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,0R,Export Ledger for Ledger 0,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,0R,Export Ledger for Ledger 0,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,0R,Export Ledger for Ledger 0,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,0R,Export Ledger for Ledger 0,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,0R,Export Ledger for Ledger 0,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,9I,FM CB Availability Control,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,9I,FM CB Availability Control,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,9I,FM CB Availability Control,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,9I,FM CB Availability Control,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,9I,FM CB Availability Control,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,9I,FM CB Availability Control,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,9H,FM PB Availability Control,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,9H,FM PB Availability Control,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,9H,FM PB Availability Control,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,9H,FM PB Availability Control,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,9H,FM PB Availability Control,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,9H,FM PB Availability Control,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,9D,Funds Mgmt Workflow Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,9D,Funds Mgmt Workflow Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,9D,Funds Mgmt Workflow Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,9D,Funds Mgmt Workflow Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,9D,Funds Mgmt Workflow Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,9D,Funds Mgmt Workflow Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,9K,GM PB Availability Control,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,9K,GM PB Availability Control,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,9K,GM PB Availability Control,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,9K,GM PB Availability Control,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,9K,GM PB Availability Control,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,9K,GM PB Availability Control,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,3J,ISSR: Meldewesen DE Erfolg,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,3J,ISSR: Meldewesen DE Erfolg,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,3J,ISSR: Meldewesen DE Erfolg,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,3J,ISSR: Meldewesen DE Erfolg,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,3J,ISSR: Meldewesen DE Erfolg,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,3J,ISSR: Meldewesen DE Erfolg,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,3I,ISSR: Reporting DE Balance,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,3I,ISSR: Reporting DE Balance,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,3I,ISSR: Reporting DE Balance,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,3I,ISSR: Reporting DE Balance,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,3I,ISSR: Reporting DE Balance,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,3I,ISSR: Reporting DE Balance,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,3K,ISSR: Reporting DE Payable,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,3K,ISSR: Reporting DE Payable,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,3K,ISSR: Reporting DE Payable,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,3K,ISSR: Reporting DE Payable,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,3K,ISSR: Reporting DE Payable,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,3K,ISSR: Reporting DE Payable,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,0F,Umsatzkostenverfahren-Buch,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,0F,Umsatzkostenverfahren-Buch,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,0F,Umsatzkostenverfahren-Buch,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,0F,Umsatzkostenverfahren-Buch,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,0F,Umsatzkostenverfahren-Buch,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,0F,Umsatzkostenverfahren-Buch,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,0R,Export-Ledger für Ledger 0,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,0R,Export-Ledger für Ledger 0,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,0R,Export-Ledger für Ledger 0,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,0R,Export-Ledger für Ledger 0,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,0R,Export-Ledger für Ledger 0,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,0R,Export-Ledger für Ledger 0,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,3I,ISSR: Meldewesen DE Bestand,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,3I,ISSR: Meldewesen DE Bestand,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,3I,ISSR: Meldewesen DE Bestand,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,3I,ISSR: Meldewesen DE Bestand,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,3I,ISSR: Meldewesen DE Bestand,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,3I,ISSR: Meldewesen DE Bestand,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,L0,Local direct posting ledger,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,L0,Local direct posting ledger,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,L0,Local direct posting ledger,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,L0,Local direct posting ledger,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,L0,Local direct posting ledger,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,L0,Local direct posting ledger,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,09,Zusatzledger Konsolidierung,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,09,Zusatzledger Konsolidierung,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,09,Zusatzledger Konsolidierung,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,09,Zusatzledger Konsolidierung,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,09,Zusatzledger Konsolidierung,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,09,Zusatzledger Konsolidierung,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,9C,Funds Management Controlling,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,9C,Funds Management Controlling,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,9C,Funds Management Controlling,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,9C,Funds Management Controlling,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,9C,Funds Management Controlling,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,9C,Funds Management Controlling,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,G0,Global direct posting ledger,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,G0,Global direct posting ledger,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,G0,Global direct posting ledger,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,G0,Global direct posting ledger,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,G0,Global direct posting ledger,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,G0,Global direct posting ledger,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,L0,Lokales Durchbuchungs-Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,L0,Lokales Durchbuchungs-Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,L0,Lokales Durchbuchungs-Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,L0,Lokales Durchbuchungs-Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,L0,Lokales Durchbuchungs-Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,L0,Lokales Durchbuchungs-Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,9D,Workflowledger Haushaltsmgm.,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,9D,Workflowledger Haushaltsmgm.,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,9D,Workflowledger Haushaltsmgm.,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,9D,Workflowledger Haushaltsmgm.,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,9D,Workflowledger Haushaltsmgm.,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,9D,Workflowledger Haushaltsmgm.,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,9A,Zahlungsbudget Haushaltsmgm.,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,9A,Zahlungsbudget Haushaltsmgm.,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,9A,Zahlungsbudget Haushaltsmgm.,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,9A,Zahlungsbudget Haushaltsmgm.,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,9A,Zahlungsbudget Haushaltsmgm.,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,9A,Zahlungsbudget Haushaltsmgm.,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,09,Additnal Consolidation Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,09,Additnal Consolidation Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,09,Additnal Consolidation Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,09,Additnal Consolidation Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,09,Additnal Consolidation Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,09,Additnal Consolidation Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,9N,Bud.Incr.Rev.: Commit. Budget,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,9N,Bud.Incr.Rev.: Commit. Budget,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,9N,Bud.Incr.Rev.: Commit. Budget,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,9N,Bud.Incr.Rev.: Commit. Budget,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,9N,Bud.Incr.Rev.: Commit. Budget,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,9N,Bud.Incr.Rev.: Commit. Budget,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,9M,Bud.Incr.Rev.: Payment Budget,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,9M,Bud.Incr.Rev.: Payment Budget,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,9M,Bud.Incr.Rev.: Payment Budget,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,9M,Bud.Incr.Rev.: Payment Budget,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,9M,Bud.Incr.Rev.: Payment Budget,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,9M,Bud.Incr.Rev.: Payment Budget,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,0F,Cost of Sales Accounting Ldgr,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,0F,Cost of Sales Accounting Ldgr,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,0F,Cost of Sales Accounting Ldgr,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,0F,Cost of Sales Accounting Ldgr,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,0F,Cost of Sales Accounting Ldgr,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,0F,Cost of Sales Accounting Ldgr,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,1A,FI-LC: Direct Postng Bus.Area,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,1A,FI-LC: Direct Postng Bus.Area,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,1A,FI-LC: Direct Postng Bus.Area,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,1A,FI-LC: Direct Postng Bus.Area,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,1A,FI-LC: Direct Postng Bus.Area,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,1A,FI-LC: Direct Postng Bus.Area,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,9A,Funds Management Payment Bdgt,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,9A,Funds Management Payment Bdgt,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,9A,Funds Management Payment Bdgt,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,9A,Funds Management Payment Bdgt,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,9A,Funds Management Payment Bdgt,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,9A,Funds Management Payment Bdgt,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,00,G/L Accnt Transaction Figures,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,00,G/L Accnt Transaction Figures,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,00,G/L Accnt Transaction Figures,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,00,G/L Accnt Transaction Figures,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,00,G/L Accnt Transaction Figures,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,00,G/L Accnt Transaction Figures,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,G0,Globales Durchbuchungs-Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,G0,Globales Durchbuchungs-Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,G0,Globales Durchbuchungs-Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,G0,Globales Durchbuchungs-Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,G0,Globales Durchbuchungs-Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,G0,Globales Durchbuchungs-Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,3K,ISSR: Meldewesen DE Forderung,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,3K,ISSR: Meldewesen DE Forderung,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,3K,ISSR: Meldewesen DE Forderung,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,3K,ISSR: Meldewesen DE Forderung,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,3K,ISSR: Meldewesen DE Forderung,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,3K,ISSR: Meldewesen DE Forderung,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,9B,Verpflichtungsb.Haushaltsmgm.,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,9B,Verpflichtungsb.Haushaltsmgm.,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,9B,Verpflichtungsb.Haushaltsmgm.,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,9B,Verpflichtungsb.Haushaltsmgm.,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,9B,Verpflichtungsb.Haushaltsmgm.,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,9B,Verpflichtungsb.Haushaltsmgm.,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,9N,BEE Ledger: Verpflichtungsbdgt,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,9N,BEE Ledger: Verpflichtungsbdgt,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,9N,BEE Ledger: Verpflichtungsbdgt,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,9N,BEE Ledger: Verpflichtungsbdgt,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,9N,BEE Ledger: Verpflichtungsbdgt,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,9N,BEE Ledger: Verpflichtungsbdgt,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,3B,Export Ledger for Recon.Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,3B,Export Ledger for Recon.Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,3B,Export Ledger for Recon.Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,3B,Export Ledger for Recon.Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,3B,Export Ledger for Recon.Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,3B,Export Ledger for Recon.Ledger,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,3B,Exportledger zum Abstimmledger,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,3B,Exportledger zum Abstimmledger,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,3B,Exportledger zum Abstimmledger,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,3B,Exportledger zum Abstimmledger,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,3B,Exportledger zum Abstimmledger,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,3B,Exportledger zum Abstimmledger,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,1B,FI-LC: Dir.Pstng Bus.Ar.Rollup,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,1B,FI-LC: Dir.Pstng Bus.Ar.Rollup,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,1B,FI-LC: Dir.Pstng Bus.Ar.Rollup,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,1B,FI-LC: Dir.Pstng Bus.Ar.Rollup,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,1B,FI-LC: Dir.Pstng Bus.Ar.Rollup,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,1B,FI-LC: Dir.Pstng Bus.Ar.Rollup,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,1A,FI-LC: dir. Durchbuchung Gsber,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,1A,FI-LC: dir. Durchbuchung Gsber,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,1A,FI-LC: dir. Durchbuchung Gsber,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,1A,FI-LC: dir. Durchbuchung Gsber,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,1A,FI-LC: dir. Durchbuchung Gsber,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,1A,FI-LC: dir. Durchbuchung Gsber,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,1B,FI-LC: dir.Durch. Gsber Rollup,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,1B,FI-LC: dir.Durch. Gsber Rollup,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,1B,FI-LC: dir.Durch. Gsber Rollup,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,1B,FI-LC: dir.Durch. Gsber Rollup,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,1B,FI-LC: dir.Durch. Gsber Rollup,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,1B,FI-LC: dir.Durch. Gsber Rollup,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,9B,Funds Management Commit.Budget,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,9B,Funds Management Commit.Budget,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,9B,Funds Management Commit.Budget,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,9B,Funds Management Commit.Budget,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,9B,Funds Management Commit.Budget,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,9B,Funds Management Commit.Budget,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,9K,GM ZB Verfügbarkeitskontrolle,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,9K,GM ZB Verfügbarkeitskontrolle,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,9K,GM ZB Verfügbarkeitskontrolle,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,9K,GM ZB Verfügbarkeitskontrolle,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,9K,GM ZB Verfügbarkeitskontrolle,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,9K,GM ZB Verfügbarkeitskontrolle,L,False,2022-01-31 20:43:51.102548+00:00
+000,E,3J,ISSR: Reporting DE Profit&Loss,L,False,2022-01-31 20:43:51.102548+00:00
+001,E,3J,ISSR: Reporting DE Profit&Loss,L,False,2022-01-31 20:43:51.102548+00:00
+050,E,3J,ISSR: Reporting DE Profit&Loss,L,False,2022-01-31 20:43:51.102548+00:00
+100,E,3J,ISSR: Reporting DE Profit&Loss,L,False,2022-01-31 20:43:51.102548+00:00
+200,E,3J,ISSR: Reporting DE Profit&Loss,L,False,2022-01-31 20:43:51.102548+00:00
+250,E,3J,ISSR: Reporting DE Profit&Loss,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,9I,HHM VB Verfügbarkeitskontrolle,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,9I,HHM VB Verfügbarkeitskontrolle,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,9I,HHM VB Verfügbarkeitskontrolle,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,9I,HHM VB Verfügbarkeitskontrolle,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,9I,HHM VB Verfügbarkeitskontrolle,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,9I,HHM VB Verfügbarkeitskontrolle,L,False,2022-01-31 20:43:51.102548+00:00
+000,D,9H,HHM ZB Verfügbarkeitskontrolle,L,False,2022-01-31 20:43:51.102548+00:00
+001,D,9H,HHM ZB Verfügbarkeitskontrolle,L,False,2022-01-31 20:43:51.102548+00:00
+050,D,9H,HHM ZB Verfügbarkeitskontrolle,L,False,2022-01-31 20:43:51.102548+00:00
+100,D,9H,HHM ZB Verfügbarkeitskontrolle,L,False,2022-01-31 20:43:51.102548+00:00
+200,D,9H,HHM ZB Verfügbarkeitskontrolle,L,False,2022-01-31 20:43:51.102548+00:00
+250,D,9H,HHM ZB Verfügbarkeitskontrolle,L,False,2022-01-31 20:43:51.102548+00:00
+800,J,T,テスト対象,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,T,Teste,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,00,Pääkirjatili-tapahtumatiedot,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,00,Artskonto-periodetal,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,00,Pozycje trans. księg. konta KG,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,00,Omsättningsuppg. HB-konto,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,00,Obraty na účte hlavnej knihy,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,00,Saldos mensais Conta do Razão,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,00,Grootboekrek.periodecijfers,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,00,G/L 勘定取引金額,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,00,Sachkonto-Verkehrszahlen,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,00,G/L Accnt Transaction Figures,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,00,Αξίες Κινήσεων Λογιστικής Γ/Λ,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,00,Brojke transakcije konta GK,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,00,總帳科目交易額,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,00,G/L खाता लेनदेन आंकड़े,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,00,Ana hesap işlem rakamları,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,00,Данни операции - сметки Гл.кн.,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,00,Данные оборотов ОСч,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,00,Saldi dare/avere conto Co.Ge.,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,00,Prometni znesek-konto GK,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,00,G/L 계정 거래수치,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,00,Brojke transakcije računa GK,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,00,Cont CM  cifre tranzacţii,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,00,Fők.szla-Forgalmi számok,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,00,Cifras movimientos cta.mayor,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,00,أرقام معاملة حساب أستاذ عام,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,00,Obraty na účtu hlavní knihy,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,00,G/L 科目交易指标,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,00,Soldes mensuels cpte général,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,00,ตัวเลขรายการบ/ชแยกประเภททั่วไป,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,00,נתוני עסקת חשבון רווח/הפסד,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,00,Artskonto - omsetningstall,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,01,記帳テスト,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,01,Teste de lançamento,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,01,Probar contab.,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,01,Тест проводки,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,01,Test de comptabilisation,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,01,Buchungstest,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,08,テスト,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,08,Teste,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,08,Тест,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,09,अतिरिक्त समेकन लेजर,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,09,Tilläggsledger konsolidering,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,09,Additnal consolidation ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,09,Πρόσθετη Λογιστική Ενοποίησης,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,09,Dodatna knjiga konsolidacije,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,09,追加連結元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,09,Ledger adic.consolidación,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,09,Additnal Consolidation Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,09,Extra ledger consolidatie,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,09,Zusatzledger Konsolidierung,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,09,Konszolidálás Kiegészítő Fők-e,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,09,Tilleggs-ledger konsolidering,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,09,Registru consolidare suplim.,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,09,Ek konsolidasyon defterleri,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,09,附加合併分類帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,09,Dodatna knjiga konsolidacije,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,09,Dodatna knjiga usklađenja,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,09,Konsolidointilisäpääkirja,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,09,Ledger supplementare consolid.,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,09,Дополнит. регистр консолидации,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,09,Ledger suppl. consolidation,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,09,ספר חשבון של איחוד נוסף,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,09,Dodatkowa księga konsolidacji,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,09,Tillægsledger konsolidering,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,09,Doplňk. konsolidační ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,09,دفتر أستاذ دمج إضافي,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,09,แยกประเภทงบการเงินรวมเพิ่มเติม,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,09,附加合并分类帐,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,09,Doplnk.konsolidačná úč.kniha,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,09,추가연결원장,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,09,Допълн.журнал за консолидация,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,09,Ledger adicional consolidação,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,0A,Verkehrszahlen: Landessicht,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,0A,ตัวเลขรายการ : ประเทศ,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,0A,Movimentação período: vis.int.,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,0A,Данные оборотов: ракурс страны,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,0A,Cifras movimientos: Vista país,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,0A,İşlem rakamları: Ülke görünümü,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,0A,取引金額: 国,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,0A,Transaksjonstall: Landpersp.,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,0A,Saldi in dare/avere:view paese,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,0A,Obroty na kontach: Wgląd kraju,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,0A,거래수치: 국가,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,0A,Periode-omsætn.tal: Landeview,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,0A,Transaction figures: Country,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,0A,Obraty na účte: View štátu,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,0A,Omsättn.uppgifter: Landpersp.,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,0A,Periodecijfers: landview,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,0A,交易額：國家,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,0A,交易指标: 国家,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,0A,Forgalmi adatok: országnézet,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,0A,Liikevaihtotiedot: maanäkymä,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,0A,Obraty na účtu: View státu,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,0A,Soldes mensuels : vue du pays,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,0B,Liikevaihtotiedot: maanäkymä,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,0B,Cifras movimientos: Vista país,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,0B,Obraty na účte: View štátu,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,0B,交易指标: 国家,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,0B,Saldi in dare/avere:view paese,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,0B,Obroty na kontach: Wgląd kraju,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,0B,Periode-omsætn.tal: Landeview,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,0B,Transaction figures: Country,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,0B,Omsättn.uppgifter: Landpersp.,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,0B,거래수치: 국가,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,0B,İşlem rakamları: Ülke görünümü,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,0B,Verkehrszahlen: Landessicht,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,0B,Данные оборотов: ракурс страны,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,0B,Soldes mensuels : vue du pays,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,0B,Movimentação período: vis.int.,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,0B,Obraty na účtu: View státu,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,0B,ตัวเลขรายการ : ประเทศ,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,0B,Transaksjonstall: Landpersp.,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,0B,Forgalmi adatok: országnézet,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,0B,交易額：國家,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,0B,Periodecijfers: landview,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,0B,取引金額: 国,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,0F,Funktionsopdelt ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,0F,銷售會計分類帳成本,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,0F,Umsatzkostenverfahren-Buch,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,0F,Računovod.knjiga trošk.prodaje,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,0F,Forgalmi-költség módszer,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,0F,Metoda nákladů na obrat-kniha,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,0F,Metóda nákladov na obrat-kniha,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,0F,Книга учета затрат по обороту,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,0F,销售成本会计分类帐,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,0F,Solgte varers kostmet. - bokf.,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,0F,עלות ספר חשבונאות למכירות,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,0F,Libro proced. costi venduto,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,0F,Cost of sales accountng-ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,0F,Журнал отчитане разходи оборот,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,0F,War. kalk. RZiS - księga,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,0F,Livre compte rés.ana.ventes,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,0F,Knjiga metode prodaj. stroškov,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,0F,Καθολ.λογιστικ.Κόστ.Πωλήσεων,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,0F,บัญชีแยกประเภทต้นทุนขาย,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,0F,Custeio por custo de venda,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,0F,Cost of Sales Accounting Ldgr,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,0F,Libro de método costes ventas,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,0F,매출 원가 회계 원장,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,0F,Bokning funktionsindelad,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,0F,Cost-of-sales-account.-ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,0F,Katetuottoanalyysi-pääkirja,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,0F,Registru contab.costuri vânz.,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,0F,売上原価会計元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,0F,Satış msf.prosedürü-defter,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,0F,विक्रय लेखांकन लेजर की लागत,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,0F,Računovod.knjiga trošk.prodaje,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,0F,تكلفة دفتر أستاذ محاسبة مبيعات,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,0G,交易額：群組檢視,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,0G,Transactn Figures: Group View,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,0G,Дан. оборотов: ракурс концерна,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,0G,Transactn Figures: Group View,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,0G,Soldes mensuels: vue groupe,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,0G,Verkehrszahlen: Konzernsicht,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,0G,Transactn Figures: Group View,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,0G,Obraty na účtu: View koncernu,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,0G,İşlem rakamları: ŞT görünümü,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,0G,取引金額: グループビュー,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,0G,Transactn Figures: Group View,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,0G,Forgalmi számok: konszernnézet,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,0G,Tapahtumatiedot: konserninäk.,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,0G,Transactn figures: group view,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,0G,Sld. in dare e avere: view gr.,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,0G,Transactn Figures: Group View,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,0G,Periodecijfers: concernview,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,0G,Omsättn.uppg.: Koncernvy,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,0G,Obraty na účte: View koncernu,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,0G,Trans.tall: Konsernperspektiv,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,0G,交易指标: 组视图,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,0G,Movim.período: visão do grupo,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,0G,Periodetal: Koncernview,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,0G,ตัวเลขรายการ: มุมมองกลุ่ม,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,0G,Cifras movimient.: Vista grupo,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,0G,Pozycje trans.księg.: Wgl.GrKp,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,0G,Transactn Figures: Group View,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,0G,거래수치: 그룹뷰,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,0G,Transactn Figures: Group View,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,0L,führendes Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,0L,Ledger principal,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,0L,Ledger principal,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,0L,Vodeća knjiga,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,0L,Algemeen grootboek,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,0L,دفتر أستاذ رئيسي,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,0L,Johtava pääkirja,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,0L,Førende ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,0L,Vezető ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,0L,Ledande ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,0L,Hlavní ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,0L,主分类帐,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,0L,Vodilna knjiga,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,0L,Transactn figures: legal view,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,0L,Ведущий регистр,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,0L,主要分類帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,0L,Ledende ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,0L,ledger principal,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,0L,Ledger principale,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,0L,Ana defter,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,0L,Księga wiodąca,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,0L,Vodeća knjiga,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,0L,주요 원장,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,0L,Hlavná účtovná kniha,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,0L,บัญชีแยกประเภทหลัก,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,0L,Водещ журнал,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,0L,अग्रणी लेजर,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,0L,Βασικό Καθολικό,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,0L,Registru principal,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,0L,リーディング元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,0L,ספר חשבונות ראשי,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,0L,Leading Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,0M,Export ledger to 0G,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,0M,Export-účt.kniha pre 0G,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,0M,Ledger di esport. per 0G,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,0M,匯出分類帳至 0G,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,0M,Eksport-ledger til 0G,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,0M,Export-Ledger k 0G,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,0M,Export ledger to 0G,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,0M,Export-ledger 0G-hez,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,0M,Ledger export. pour 0G,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,0M,Ledger de exportação p/0G,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,0M,Ledger de exportación para OG,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,0M,输出分类帐到 0G,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,0M,Vientipääkirja - 0G,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,0M,Export ledger to 0G,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,0M,Export ledger to 0G,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,0M,ส่งออกข้อมูลแยกประเภทไป 0G,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,0M,0G로 원장 엑스포트,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,0M,Eksport-Ledger for 0G,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,0M,Export-ledger voor 0G,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,0M,Export ledger to 0G,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,0M,Księga-eksport do 0G,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,0M,元帳を 0G へエクスポート,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,0M,Регистр экспорта для 0G,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,0M,Export ledger to 0G,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,0M,Export ledger to 0G,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,0M,Export ledger to 0G,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,0N,Ledger di esport. per 0L,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,0N,Регистр экспорта для 0L,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,0N,Export ledger to 0L,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,0N,Ledger de exportación para OL,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,0N,0L로 원장 엑스포트,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,0N,Export-účt.kniha pre 0L,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,0N,Export-ledger 0L-hez,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,0N,Export ledger to 0L,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,0N,ส่งออกข้อมูลแยกประเภทไป 0L,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,0N,Ledger export. pour 0L,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,0N,Export ledger to 0L,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,0N,匯出分類帳至 0L,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,0N,Export ledger to 0L,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,0N,Export ledger to 0L,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,0N,Ledger de exportação p/0L,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,0N,Export ledger to 0L,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,0N,Export-Ledger k 0L,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,0N,Export ledger to 0L,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,0N,Eksport-Ledger for 0L,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,0N,Eksport-ledger til 0L,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,0N,输出分类帐到 0L,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,0N,Export ledger to 0L,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,0N,Księga-eksport do 0L,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,0N,Vientipääkirja - 0L,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,0N,元帳を 0L へエクスポート,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,0N,Export-ledger voor 0L,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,0O,Export-účt.kniha pre 0P,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,0O,Export ledger to 0P,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,0O,Ledger di esport. per 0P,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,0O,匯出分類帳至 0P,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,0O,ส่งออกข้อมูลแยกประเภทไป 0P,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,0O,Ledger export. pour 0P,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,0O,Export-ledger voor 0P,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,0O,Export ledger to 0P,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,0O,Ledger de exportação p/0P,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,0O,输出分类帐到 0P,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,0O,Vientipääkirja - 0P,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,0O,Export-ledger 0P-hez,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,0O,0P로 원장 엑스포트,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,0O,Eksport-Ledger for 0P,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,0O,Export ledger to 0P,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,0O,Export ledger to 0P,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,0O,Регистр экспорта для 0P,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,0O,Export ledger to 0P,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,0O,Export ledger to 0P,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,0O,Export-Ledger k 0P,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,0O,Eksport-ledger til 0P,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,0O,元帳を 0P へエクスポート,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,0O,Export ledger to 0P,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,0O,Księga-eksport do 0P,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,0O,Export ledger to 0P,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,0O,Ledger de exportación para OP,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,0P,Tapahtumatiedot: johdon näkymä,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,0P,Soldes mensuels : vue gestion,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,0P,Cifras mov.: Vista gestión,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,0P,Obraty na účtu: View managm.,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,0P,ตัวเลขรายการ:มุมมองการจัดการ,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,0P,交易額：管理檢視,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,0P,Obraty na účte: View manažmen.,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,0P,Omsättn.uppg.: Ledningspersp.,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,0P,Forg. számok: menedzsmentnézet,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,0P,交易指标: 管理视图,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,0P,Trnsactn Figures: Mangmnt View,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,0P,Sld. dare/avere: view gestione,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,0P,Trnsactn Figures: Mangmnt View,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,0P,Trnsactn figures: mangmnt view,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,0P,Verkehrszahl.: Managementsicht,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,0P,取引金額: 管理ビュー,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,0P,Trnsactn Figures: Mangmnt View,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,0P,Periodecijfers: managementview,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,0P,Trnsactn Figures: Mangmnt View,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,0P,Movim.período: visão administ.,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,0P,Trnsactn Figures: Mangmnt View,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,0P,Periodetal: Managementview,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,0P,Trnsactn Figures: Mangmnt View,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,0P,Дан. оборотов: ракурс менеджм.,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,0P,Trans.tall: Styringspersp.,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,0P,Pozycje trans.księg.:Wgl.zarz.,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,0P,거래수치: 관리뷰,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,0P,Trnsactn Figures: Mangmnt View,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,0P,İşlem rkm.: Yöbetim görünümü,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,0R,Knjiga izvoza za knjigu 0,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,0R,Defter 0 için ihracat defteri,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,0R,دفتر أستاذ صادر لدفتر أستاذ 0,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,0R,लेजर 0 हेतु लेजर निर्यात करें,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,0R,Εξαγ.Καθολικού για Καθολικό 0,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,0R,Eksport-ledger for ledger 0,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,0R,分类帐 0 的输出分类帐,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,0R,Export účt.knihy pre účt.kn.0,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,0R,Eksport-ledger for ledger 0,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,0R,Export ledger for ledger 0,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,0R,Export-ledger för ledger 0,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,0R,Knjiga eksporta za knjigu 0,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,0R,Журнал на експорт за журнал 0,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,0R,원장 0에 대한 엑스포트 원장,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,0R,Export Ledger for Ledger 0,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,0R,元帳 0 のエクスポート元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,0R,Knjiga izvoza za knjigo 0,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,0R,Export-ledger 0.ledger számára,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,0R,แยกประเภทส่งออกของแยกประเภท0,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,0R,Export-Ledger für Ledger 0,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,0R,Ledger di esport. per ledger 0,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,0R,РегистрЭкспорт для регистра 0,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,0R,Siirtopk pk 0:aa varten,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,0R,ספר ח-ן יצוא עבור ספר ח-ן 0,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,0R,Ledger de export.p/ledger 0,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,0R,Exportledger voor ledger 0,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,0R,Ledger export.para ledger 0,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,0R,Księga-export dla księgi 0,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,0R,匯出分類帳至分類帳 0,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,0R,Registru export pt. registru 0,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,0R,Ledger exportu pro ledger 0.,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,0R,Ledger export. pour ledger 0,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,10,Konsolidointipääkirja,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,10,Ledger di consolidamento,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,10,समेकन लेजर,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,10,Konsolideringsledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,10,Księga konsolidacji,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,10,연결원장,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,10,Konsolideringsledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,10,連結元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,10,ספר חשבונות מאוחד,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,10,Ledger konsolidace,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,10,Ledger consolidación,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,10,Knjiga konsolidacije,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,10,دمج لدفتر الأستاذ,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,10,Konsolidasyon defteri,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,10,Consolidatieledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,10,Účt.kniha konsolidácie,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,10,Ledger de consolidation,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,10,合併分類帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,10,Registru consolidare,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,10,Ledger de consolidação,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,10,แยกประเภทการทำงบการเงินรวม,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,10,Λογιστική Ενοποίησης,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,10,Knjiga konsolidacije,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,10,合并分类帐,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,10,Knjiga konsalidacije,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,10,Konsolideringsledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,10,Konszolidálási ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,10,Konsolidierungsledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,10,Регистр консолидации,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,10,Журнал на консолидация,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,11,テスト,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,11,Teste,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,11,Тест,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,12,Ledger de consolidação,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,12,Регистры консолидации,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,12,Ledger de consolidation,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,12,Konsolidierungsledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,12,Ledger consolidación,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,12,連結元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,13,FI-LC : zones suppl. origine,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,13,FI-LC Herkunft Zusatzfelder,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,13,FI-LC campos adic.procedencia,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,13,FI-LC 追加元項目,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,13,FI-LC campos adicionais origem,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,13,FI-LC: ДопПоля/происхождение,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,1A,FI-LC: direct postng bus.area,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,1A,FI-LC: 직접전기 사업영역,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,1A,FI-LC: Direkt.ažur.podr.posl.,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,1A,FI-LC:直接记帐业务范围,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,1A,FI-LC: เขตธุรกิจผ่านรายการตรง,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,1A,FI-LC: директно осчет.биз.обл.,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,1A,FI-LC: Přímé účt. prac. úseku,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,1A,FI-LC: reg. dir. sett. cont.,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,1A,FI-LC: suora autom. kirj.- Lta,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,1A,FI-LC: Act.directa división,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,1A,FI-LC: dir.doorboeking bus.ar.,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,1A,FI-LC: direct postng bus.area,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,1A,FI-LC: Doğrudan kyt.iş alanı,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,1A,FI-LC: dir. aut.kontering AO,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,1A,FI-LC: منطقة أعمال ترحيل مباشر,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,1A,FI-LC: Direk.knjiž.poslov.obl.,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,1A,FI-LC：直接過帳業務範圍,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,1A,FI-LC: ÜzlÁg direkt átkönyvel.,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,1A,FI-LC: Αμεσ.Καταχ.σε Επιχ.Περ.,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,1A,FI-LC: Dir. kontering FO,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,1A,FI-LC: Dir. kontering - FOmr.,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,1A,FI-LC: Bezp.przen.ks. DziałuGs,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,1A,FI-LC: ПрямСквПроводка БзСф,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,1A,FI-LC: Direct Postng Bus.Area,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,1A,FI-LC: comptab. directe DomAct,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,1A,FI-LC: תחום עסקי לרישום ישיר,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,1A,FI-LC: dir. Durchbuchung Gsber,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,1A,FI-LC: Priame účt.prac.úseku,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,1A,FI-LC: izr. knjiž. posl. podr.,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,1A,FI-LC: 直接転記 事業領域,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,1A,FI-LC: प्रत्यक्ष पो. व्य.क्षे.,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,1A,FI-LC: contabiliz.direta divs.,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,1B,FI-LC: SuorAutKirj-Lta-summaus,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,1B,FI-LC: Dir.Pstng Bus.Ar.Rollup,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,1B,FI-LC: Dir.Pstng Bus.Ar.Rollup,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,1B,FI-LC:ÜzlÁg Rollup DirÁtkönyv,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,1B,FI-LC: dir.pstng bus.ar.rollup,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,1B,FI-LC: Dir.knj.prol.posl.obl.,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,1B,FI-LC: Bezp.rol.przen.ks. DzGs,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,1B,FI-LC: înreg.dir.domn.comercl.,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,1B,FI-LC: PřÚčtPracÚseku Rollup,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,1B,FI-LC: Actual.dir.div.rollup,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,1B,FI-LC:rollup izr.knjiž.ps.pod.,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,1B,FI-LC:直接记帐业务范围的汇总,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,1B,FI-LC:סיכום תחום עסקי לרי.ישיר,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,1B,FI-LC: प्र.पो.व्य.क्षे. रोलअप,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,1B,FI-LC: dir.aut.bokn. AO rollup,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,1B,FI-LC: dir.Durch. Gsber Rollup,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,1B,FI-LC:直接転記 事業領域 Rollup,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,1B,FI-LC: Дирек.осч.БизОбл.обобщ.,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,1B,FI-LC: comptab.dir.DomA Rollup,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,1B,FI-LC: Dir. kont. FOmr. rollup,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,1B,FI-LC: contb.dirt.divs.rollup,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,1B,FI-LC: 직접전기 사업영역롤업,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,1B,FI-LC: Dir.Pstng Bus.Ar.Rollup,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,1B,FI-LC:Dir.ažur.podr.pos.Rollup,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,1B,FI-LC: Doğ.kyt.iş alanı öztl.,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,1B,FI-LC：直接過帳業務範圍累加,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,1B,FI-LC: Dir.Kontering FO Rollup,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,1B,FI-LC: ПрямСквПроводкаБзСфСвед,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,1B,FI-LC: Ανακλ.Αμ.Κατ.Επιχ.Περ.,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,1B,FI-LC: reg.dir.SettCont.rollup,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,1B,FI-LC: dir.doorb. BA rollup,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,1B,FI-LC: Priam.účtPrac.ús.rollup,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,1C,Ledger de consolidación,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,1C,Журнал на консолидация,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,1C,Księga konsolidacji,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,1C,合併分類帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,1C,Consolidatieledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,1C,समेकन लेजर,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,1C,Knjiga konsalidacije,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,1C,Konsolidierungsledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,1C,Регистр консолидации,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,1C,แยกประเภทการทำงบการเงินรวม,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,1C,Konsolideringsledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,1C,Registru consolidare,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,1C,Konszolidálási ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,1C,連結元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,1C,Ledger konsolidace,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,1C,연결원장,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,1C,Účt.kniha konsolidácie,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,1C,دمج لدفتر الأستاذ,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,1C,Konsolidasyon defteri,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,1C,Knjiga konsolidacije,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,1C,Konsolidointipääkirja,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,1C,Ledger de consolidation,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,1C,Ledger de consolidação,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,1C,Ledger di consolidamento,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,1C,Konsolideringsledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,1C,合并分类帐,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,1C,Konsolideringsledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,1C,ספר חשבונות מאוחד,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,1C,Knjiga konsolidacije,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,1C,Λογιστική Ενοποίησης,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,1L,دفتر أستاذ رئيسي,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,1L,Księga wiodąca,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,1L,주요 원장,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,1L,Ledende ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,1L,Vodeća knjiga,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,1L,Ledger principal,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,1L,主要分類帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,1L,บัญชีแยกประเภทหลัก,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,1L,Vezető ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,1L,Ana defter,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,1L,Ведущий регистр,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,1L,主分类帐,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,1L,Johtava pääkirja,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,1L,Algemeen grootboek,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,1L,führendes Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,1L,Ledger principale,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,1L,Leading Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,1L,Överordnad ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,1L,Førende ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,1L,Vodilna knjiga,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,1L,Hlavná účtovná kniha,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,1L,Hlavní ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,1L,Ledger principal,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,1L,Ledger principal,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,1L,ספר חשבונות מוביל,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,1L,Glavna knjiga,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,1L,Водещ журнал,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,1L,リーディング元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,1L,Registru principal,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,1L,Βασικό Καθολικό,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,1L,अग्रणी लेजर,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,1M,Consolidation de Gestion,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,1M,Consolidatie,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,1M,دمج الإدارة,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,1M,प्रबंध समेकन,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,1M,Konsolidacja zarządcza,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,1M,Ενοποίηση διαχείρισης,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,1M,관리 연결,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,1M,Intern konsolidering,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,1M,Consolidamento di gestione,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,1M,Management-konsolidacija,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,1M,Konsolidácia manažmentu,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,1M,管理合并,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,1M,Management-konsolidace,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,1M,Sisäinen konsolidointi,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,1M,Konsolidacija upravljanja,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,1M,Management-konsolidering,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,1M,איחוד ניהול,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,1M,Консолидация на управлението,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,1M,管理連結決算,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,1M,Consolidação de administração,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,1M,Management-Konsolidierung,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,1M,管理合併,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,1M,Menedzsment-konszolidálás,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,1M,การทำงบรวมเพื่อการจัดการ,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,1M,Management consolidation,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,1M,Management-konsolidering,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,1M,Менеджмент-консолидация,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,1M,Gestión-consolidación,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,1M,Yönetim konsolidasyonu,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,1M,Konsolidacija upravljanja,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,1M,Consolidare gestiune,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,1M,Management consolidation,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,3A,Контрольный регистр,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,3A,Ledger di riconciliazione,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,3A,Avstämningsfunktion CO/FI,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,3A,Reconciliation Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,3A,Kontrolná účt.kniha,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,3A,조정 원장,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,3A,Księga uzgodnień,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,3A,Λογιστική Συμφωνίας,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,3A,บัญชีแยกประเภทกระทบยอด,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,3A,统驭明细账,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,3A,Avstemmingsledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,3A,Контролен регистър,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,3A,Knjiga usklađenja,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,3A,समाधान लेजर,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,3A,調節帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,3A,照合元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,3A,Afstemningsledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,3A,ספר התאמות,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,3A,Ledger de reconciliación,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,3A,Ledger de rapprochement,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,3A,Egyeztető ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,3A,Täsmäytyspääkirja,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,3A,أستاذ عام التوفيق,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,3A,Knjiga uskladitve,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,3A,Mutabakat defteri,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,3A,Ledger de reconciliação,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,3A,Knjiga usklađivanja,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,3A,Kontrolní ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,3A,Reconciliation ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,3A,Registru reconciliere,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,3A,Abstimmledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,3A,Afstemledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,3B,Export.ledger pro kontrol.led.,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,3B,Export-ledger för avst.fkt,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,3B,ייצא ספר חשב.לספר חשבונ.להתאמה,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,3B,Eksportledger t. kontrolledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,3B,Exportledg.egyezt.ledg.számára,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,3B,समा. लेजर हेतु लेजर का नि.करें,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,3B,Export.účt.kn.pre kontr.úč.kn.,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,3B,Siirtopääkirja-täsmäytyspääk.,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,3B,조정 원장에 대한 엑스포트 원장,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,3B,Ledger exp.p.ledger reconcil.,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,3B,Ledger esp. per ledger ricon.,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,3B,匯出調節分類帳的分類帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,3B,Εξαγ.Καθολ.για Καθορ.Συμφωνίας,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,3B,Exportledger v. afstemledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,3B,Knjiga izvoza za knjigu uskl.,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,3B,Exportledger zum Abstimmledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,3B,Журнал за експ.за журн.съглас.,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,3B,Księga-export dla księgi uzg.,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,3B,统驭明细账的输出分类账,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,3B,РегистрЭкспорт для КонтРегистр,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,3B,Eksport-ledger til avst.ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,3B,Mutabakat dft.için ihracat dft,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,3B,Export Ledger for Recon.Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,3B,Export ldgr for rcncltn ldgr,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,3B,Ledger export.p/ledger reconc.,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,3B,Knjiga eksp. za knjigu usklađ.,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,3B,照合元帳のエクスポート元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,3B,Ledger exp. pr ledger rappr.,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,3B,تصديردفترأستاذلدفترأستاذ توفيق,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,3B,Reg.export pt.reg.reconciliere,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,3B,Export Ledger for Recon.Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,3B,Knj. izvoza za knj. uskladitve,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,3I,ISSR: отчетность DE: наличие,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,3I,ISSR: Indberetning DE beholdn.,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,3I,ISSR: DE शेष राशि रिपोर्टिंग,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,3I,ISSR: DE 残高レポート,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,3I,ISSR: إعداد تقرير رصيد DE,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,3I,ISSR: Reporting DE Balance,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,3I,ISSR: Meldewesen DE Bestand,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,3I,ISSR: Sprawozdawczość DE-poz.,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,3I,ISSR: Bakiye DE raporlama,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,3I,ISSR: relatório DE saldo,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,3I,ISSR: izvještaj o stanju DE,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,3I,ISSR: Reporting DE inventario,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,3I,ISSR: 报表 DE 余额,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,3I,ISSR: Αναφορά για Υπόλοιπο DE,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,3I,ISSR: verslaglegging DE-saldo,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,3I,ISSR : reporting DE Solde,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,3I,ISSR: Mynd.rapporter. DE saldo,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,3I,ISSR: Reporting DE Balance,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,3I,ISSR: ilm.järj. DE - saldo,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,3I,ISSR: דיווח יתרת DE,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,3I,ISSR: Mynd.rapp. DE beholdning,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,3I,ISSR: Raportare sold DE,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,3I,ISSR: Hlásenia - DE zásoba,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,3I,ISSR：報表 DE 餘額,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,3I,ISSR: Poročanje DE stanje,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,3I,ISSR: Izveštavanje o stanju DE,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,3I,ISSR: reporting saldo DE,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,3I,ISSR: beszámolók - DE mérleg,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,3I,ISSR: DE 잔액 레포팅,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,3I,ISSR: Výkaznictví DE stav,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,3I,ISSR: รายงานยอดคงเหลือของ DE,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,3I,ISSR: Отчитане на DE салдо,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,3J,ISSR: Poročanje DE uspeh,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,3J,ISSR: Mynd.rapp. DE resultat,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,3J,ISSR: Reporting DE beneficio,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,3J,ISSR: إعداد تقرير DE ربح&خسارة,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,3J,ISSR: Reporting DE Profit&Loss,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,3J,ISSR：報表 DE 損益,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,3J,ISSR: Hlásenia - DE výsledok,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,3J,ISSR: ilmoitusjärj. DE - tulos,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,3J,ISSR : reporting DE Résultat,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,3J,ISSR: Sprawozdawczość DE-wynik,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,3J,ISSR: Indberetning DE resultat,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,3J,ISSR: Raportare P&P DE,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,3J,ISSR: DE 손익레포팅,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,3J,ISSR: Reporting DE Profit&Loss,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,3J,ISSR: דיווח רווח&הפסד DE,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,3J,ISSR: 报表 DE 损益,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,3J,ISSR: K/Z DE raporlama,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,3J,ISSR: отчетность DE: результ.,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,3J,ISSR: relatório DE êxito,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,3J,ISSR: Izveš.o DE prof.&gubitku,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,3J,ISSR: beszámolók - DE eredmény,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,3J,ISSR: reporting risulato DE,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,3J,ISSR: M.rapporter. DE resultat,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,3J,ISSR: DE 損益レポート,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,3J,ISSR: DE लाभ और हानि रिपो.,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,3J,ISSR: รายงานงบกำไรขาดทุนของ DE,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,3J,ISSR: Meldewesen DE Erfolg,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,3J,ISSR: verslaglegging DE-V&W,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,3J,ISSR: Výkaznictví DE výsledek,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,3J,ISSR: izvještaj o D&G DE,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,3J,ISSR: Отчит. DE Печалба&Загуба,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,3J,ISSR: Αναφ.για Κέρδη&Ζημίες DE,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,3K,ISSR: देय DE रिपोर्टिंग,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,3K,ISSR: Reporting DE crédito,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,3K,ISSR: M.rapporter. DE fordran,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,3K,ISSR: إعداد تقرير مستحقات DE,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,3K,ISSR: รายงานบัญชีเจ้าหนี้ของDE,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,3K,ISSR: reporting credito DE,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,3K,ISSR: Meldewesen DE Forderung,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,3K,ISSR: Výkaznictví DE pohledáv.,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,3K,ISSR: DE 채무 레포팅,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,3K,ISSR: דיווח חייב DE,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,3K,ISSR: отчетность DE: ДебЗадолж,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,3K,ISSR: ilm.järj. DE - saatava,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,3K,ISSR: beszámolók - DE követ.,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,3K,ISSR: Αναφορά για Πληρωτέα DE,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,3K,ISSR: Poročanje DE terjatev,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,3K,ISSR: Indberetning DE tilgHav.,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,3K,ISSR: DE 買掛金 レポート,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,3K,ISSR : reporting DE Créance,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,3K,ISSR: verslagl. DE-vordering,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,3K,ISSR: Raportare sold DE creanţ,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,3K,ISSR: Alacak DE raporlama,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,3K,ISSR: Reporting DE Payable,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,3K,ISSR: Hlásenia - DE pohľadávka,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,3K,ISSR: Sprawozdawczość DE-nal.,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,3K,ISSR: Izveštav.o DE dugovanju,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,3K,ISSR: Reporting DE Payable,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,3K,ISSR: Отчит. DE задължения,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,3K,ISSR: 报表 DE 应付项,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,3K,ISSR: izvještaj o potraž. DE,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,3K,ISSR: Mynd.rapp. DE fordring,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,3K,ISSR: relatório DE cta.a rec.,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,3K,ISSR：報表 DE 應付,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,4A,JVA 표준원장,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,4A,JVA Księga standardowa,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,4A,JVA standardní ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,4A,JVA Štandardná účt.kniha,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,4A,JVA standart defter,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,4A,JVA 標準元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,4A,JVA standard-ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,4A,JVA ledger standard,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,4A,Стандартный регистр JVA,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,4A,JVA: vakiopääkirja,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,4A,JVA standaardledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,4A,JVA standardledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,4A,RFKV standard-ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,4A,JVA 标准分类帐,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,4A,JVA บัญชีแยกประเภทมาตรฐาน,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,4A,JVA Ledger standard,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,4A,JVA 標準分類帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,4B,JVA facturatieledges,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,4B,JVA afregningsledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,4B,JVA 开票分类帐,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,4B,JVA 대금청구원장,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,4B,Регистр фактурирования JVA,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,4B,JVA บัญชีแยกประเภทของบิล,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,4B,JVA ledger faturamento,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,4B,JVA Fakt.účtovná kniha,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,4B,JVA Ledger facturation,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,4B,JVA: laskutuspääkirja,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,4B,JVA faturalama defteri,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,4B,JVA ledger fakturace,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,4B,JVA faktureringsledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,4B,RFKV avregnings-ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,4B,JVA 請求元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,4B,JVA 請款分類帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,4C,JVA ytterlig. standard-ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,4C,JVA บัญชียปภ.มาตรฐานเพิ่มเติม,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,4C,JVA 추가표준원장,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,4C,JVA: vakio-PK:n lisäkirja,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,4C,JVA doplňk.standardní ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,4C,RFKV tilleggs-standard-ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,4C,JVA ledger standard adicional,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,4C,JVA Doplnková štand.účt.kniha,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,4C,JVA 附加标准分类帐,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,4C,JVA 附加標準分類帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,4C,JVA ek standart defter,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,4C,JVA 追加標準元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,4C,Доп. стандартный регистр JVA,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,4C,JVA yderligere standardledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,4C,JVA extra standaardledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,4C,JVA Ledger standard supplém.,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,4D,JVA extra facturatieledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,4D,JVA ledger fatmto.adicional,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,4D,JVA yderl. afregningsledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,4D,JVA 追加請求元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,4D,JVA ek faturalama defteri,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,4D,JVA 추가대금청구원장,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,4D,JVA: laskutus-PK:n lisäkirja,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,4D,JVA บัญชีแยกประเภทบิลเพิ่มเติม,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,4D,JVA Ledger facturation suppl.,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,4D,JVA 附加开票分类帐,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,4D,JVA Doplnková fakt.účt.kniha,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,4D,RFKV tilleggs-avr.-ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,4D,JVA doplň.ledger fakturace,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,4D,Доп.регистр фактурирования JVA,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,4D,JVA 附加請款分類帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,4D,JVA ytterl. faktureringsledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,4E,JVA Znížené súčty,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,4E,JVA totalen vermindering,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,4E,JVA cutback-totaler,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,4E,JVA cutback-summor,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,4E,JVA 減少總計,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,4E,JVA Totals compression,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,4E,JVA ตัดยอดผลรวม,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,4E,JVA totais cutback,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,4E,JVA 削減合計,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,4E,RFKV cutback-summer,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,4E,JVA - kesinti toplamı,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,4E,JVA - vähennysten kok.summat,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,4E,JVA 减少总计,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,4E,JVA 총삭감,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,4E,JVA Součty pro cutback,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,4F,JVA doplň.součty pro cut back,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,4F,JVA 追加削減合計,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,4F,JVA totais cutback adicionais,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,4F,RFKV tilleggs-cutback-summer,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,4F,JVA 附加減少總計,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,4F,JVA ผลรวมการดัดยอดเพิ่มเติม,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,4F,JVA yderligere cutback-totaler,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,4F,JVA extra totalen vermindering,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,4F,JVA Totals compressions suppl.,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,4F,JVA Dodatočné znížené súčty,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,4F,JVA ytterligare cutback-summor,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,4F,JVA 총추가삭감,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,4F,JVA - Ek kesinti toplamı,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,4F,JVA 附加减少总计,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,4F,JVA - lisävähenn. kok.summat,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,4P,PSC standard-ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,4P,PSC - vakiopääkirja,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,4P,PSC standard-ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,4P,Стандартный регистр PSC,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,4P,PSC 표준원장,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,4P,PSC standardní ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,4P,PSC 標準元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,4P,PSC 标准分类帐,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,4P,PSC ledger standard,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,4P,PSC Ledger standard,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,4P,PSC บัญชีแยกประเภทมาตรฐาน,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,4P,PSC standaardledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,4P,PSC standardledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,4P,PSC Štandardná účt.kniha,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,4P,PSC standart defter,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,4P,PSC 標準分類帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,4Q,JVA extra standaardledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,4Q,JVA ledger standard adicional,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,4Q,JVA Doplnková štand.účt.kniha,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,4Q,JVA 附加標準分類帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,4Q,JVA ytterlig. standard-ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,4Q,JVA 追加標準元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,4Q,JVA 附加标准分类帐,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,4Q,JVA: vakio-PK:n lisäkirja,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,4Q,JVA doplňk.standardní ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,4Q,Доп. стандартный регистр JVA,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,4Q,JVA ek standart defter,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,4Q,JVA Ledger standard supplém.,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,4Q,JVA บัญชียปภ.มาตรฐานเพิ่มเติม,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,4Q,JVA yderligere standardledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,4Q,RFKV tilleggs-standard-ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,4Q,JVA 추가표준원장,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,7R,खुदरा लेजर,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,7R,Mağazacılık defteri,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,7R,บัญชีแยกประเภทค้าปลีก,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,7R,Retail-ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,7R,Ledger de retail,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,7R,Knjiga maloprodaje,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,7R,Retail-ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,7R,Knjiga maloprodaje,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,7R,Księga handlowa,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,7R,Retail Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,7R,Retailledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,7R,Λογιστική Λιανικής Πώλησης,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,7R,Retail Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,7R,Vähittäiskauppa - pääkirja,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,7R,Retail - účtovná kniha,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,7R,دفتر أستاذ البيع بالتجزئة,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,7R,소매 원장,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,7R,Knjiga maloprodaje,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,7R,Retail Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,7R,Retail-ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,7R,Торговый регистр,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,7R,Registru retail,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,7R,零售分类帐,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,7R,Retail Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,7R,零售分類帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,7R,Retail Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,7R,Retail Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,7R,Detaljhandels-ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,7R,Retail Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,7R,ספר חשבון קמעונאות,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,7R,Журнал търговия на дребно,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,7R,小売元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,8A,Računovodstvo profitnog centra,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,8A,Учет по МВП,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,8A,Profit-center-számítás,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,8A,Účetnictví profit center,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,8A,การบัญชีศูนย์กำไร,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,8A,Kâr merkezi muhasebesi,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,8A,Contabilitate centru profit,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,8A,Profit center accounting,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,8A,Profit center-regnskap,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,8A,Računov.profit.centra,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,8A,Contabilità profit center,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,8A,Resultatenhetsanalys,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,8A,Profit Center Accounting,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,8A,Comptabilité centres de profit,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,8A,손익 센터 회계,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,8A,Účtovn.zisk.strediska,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,8A,Contabilidade centro lucro,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,8A,Profitcenterregnskab,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,8A,लाभ केंद्र लेखांकन,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,8A,Računovodstvo profitnog centra,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,8A,Счетоводство по прих. центрове,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,8A,利潤中心會計,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,8A,Profit-centeradministratie,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,8A,Contabilidad CeBe,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,8A,Λογιστική Κέντρου Κέρδους,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,8A,חשבונאות מרכז רווח,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,8A,利润中心会计,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,8A,利益センタ会計,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,8A,Rachunek centrów zysku,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,8A,محاسبة مركز الربح,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,8A,Tulosyksikkölaskenta,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,8A,Profit-Center-Rechnung,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,8C,Rollup zisk.strediska,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,8C,Rollup profit center,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,8C,Rollup profitnog centra,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,8C,Rollup profit center,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,8C,Rollup profit center,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,8C,Rollup profitcenter,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,8C,रोलअप लाभ केंद्र,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,8C,Rolowanie centrów zysku,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,8C,손익센터롤업,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,8C,סיכום מרכז רווח,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,8C,Rollup ctre profit,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,8C,累计利润中心,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,8C,Rollup Profit Center,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,8C,Сведение/приходен център,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,8C,Tulosyksikön summaus,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,8C,累加利潤中心,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,8C,Rollup profit center,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,8C,Rulare centru de profit,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,8C,Profitni centar prolongiranja,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,8C,مركز ربح الأدوار,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,8C,利益センタロールアップ,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,8C,Rollup Profit Center,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,8C,Rollup profit center,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,8C,Rollup centro benef.,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,8C,สรุปยอดศูนย์กำไร,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,8C,Rollup centro lucro,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,8C,Kâr mkz.özetlemesi,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,8C,Сведение / МВП,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,8C,Roll-up prof.-centr.,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,8C,Rollup resultatenhet,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,8C,Rollup profitni center,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,8C,Rollup για Κέντρο Κέρδους,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,8E, Eksportledger til 8A,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,8E, Ledger de export para 8A,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,8E, Exportledger voor 8A,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,8E, Export -ledger för 8A,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,8E,匯出 8A 分類帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,8E, Księga-eksport dla 8A,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,8E,יצוא ספר חשבונות עבור 8A,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,8E,Registru export pt. 8A,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,8E,输出8A分类帐,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,8E, Ledger di esport. per 8A,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,8E,8A 엑스포트 원장,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,8E, Export - účt.kniha pre 8A,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,8E,دفتر أستاذ الصادر لـ 8A,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,8E, Izvoz - knjiga za 8A,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,8E, Регистр экспорта для 8А,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,8E, Ledger export. pour 8A,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,8E,8A のエクスポート元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,8E, 8A için ihracat defteri,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,8E, Eksport-ledger for 8A,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,8E,Export ledger for 8A,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,8E,8A हेतु निर्यात लेजर,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,8E, Export -Ledger für 8A,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,8E,แยกประเภทส่งออกสำหรับ 8A,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,8E, Ledger exportu pro 8A,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,8E, Ledger exportação para 8A,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,8E, Siirtopääkirja - 8A,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,8E,Export Ledger for 8A,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,8E,Εξαγ.Καθολικού για 8Α,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,8E,Журнал на експорт за 8A,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,8E,Knjiga izvoza za 8A,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,8E,Eksportna knjiga za 8A,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,8E,Export ledger 8A számára,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,90,Gestiune subvenţii,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,90,Upravljanja odobrenjima,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,90,Управление на субсидии,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,90,補助金管理,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,90,Управление грантами,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,90,Tukien hallinta,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,90,Manažment grantov,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,90,Gestión de subvenciones,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,90,Upravljanje grantovima,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,90,Ödenek yönetimi,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,90,ניהול מענקים,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,90,Διαχείριση Επιχορηγήσεων,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,90,补贴管理,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,90,إدارة المِنح,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,90,Admin.subídios públicos,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,90,Gestion des subventions,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,90,贊助金管理,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,90,Zarządzanie dotacjami,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,90,Grant Management,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,90,Bidragsförvaltning,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,90,अनुदान प्रबंधन,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,90,보조금 관리,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,9A,Budgetstyrning betaln.budget,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,9A,Budget de paiement CB,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,9A,Maksubudjetti - määrärahalask.,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,9A,Funds Management Payment Bdgt,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,9A,Rozpočet platieb riad.rozpočtu,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,9A,Budżet płatności Rach.budżet.,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,9A,निधि प्रबंधन भुगतान बजट,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,9A,Fiz. költségkeret KVM,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,9A,Rozp.plateb - říz.rozpočtu,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,9A,Zahlungsbudget Haushaltsmgm.,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,9A,תקציב תשלום ניהול קרנות,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,9A,Budžet plać.za upravlj.fondov.,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,9A,Betalingenbudget begr.mngm.,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,9A,Funds Management payment bdgt,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,9A,Orçamento pgto.administr.orç.,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,9A,Proračun plać.za uprav.sredst.,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,9A,Платеж.бюджет/упр.на средства,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,9A,基金管理支付预算,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,9A,基金管理付款預算,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,9A,Betalingsbev. disp.regnskap,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,9A,Bütçe yönetimi ödemeler btç.,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,9A,Prorač.plačil upravlj.prorač.,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,9A,펀드관리 지급예산,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,9A,Budget pagamenti gest. fondi,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,9A,予算管理 支払予算,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,9A,Betalingsbudget BS,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,9A,งบประมาณจ่ายการจัดการกองทุน,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,9A,موازنة دفع إدارة الأموال,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,9A,Adminstr.fonduri buget plată,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,9A,Presup.control presupuestario,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,9A,Платежный бюджет УБ,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,9A,Διαχ.Κεφαλ.για Προϋπ.Πληρωμών,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,9B,Verplicht.budg.begrotingsmngm.,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,9B,Budget d'engagement CB,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,9B,Presup.comprom.ctrl.presup.,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,9B,Funds Management commit. bdgt,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,9B,Forplikt.bud. disp.regnskap,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,9B,Funds Management Commit.Budget,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,9B,Orç.obrigações administr.orç.,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,9B,งบประมาณผูกพันการจัดการเงินทุน,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,9B,Köt. költségkeret KVM,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,9B,Sitoumusbudjetti - määrärahal.,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,9B,Finans.budžet upravlj.fond.,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,9B,Rozpočet záväzk.riad.rozpočtu,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,9B,Διαχείρ.Κεφαλ.Προϋπολ.Δέσμευσ.,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,9B,Buget angajament gest.fonduri,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,9B,Verpflichtungsb.Haushaltsmgm.,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,9B,Бюджет обязательств УБ,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,9B,निधि प्रबंधन प्रतिबद्धता बजट,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,9B,Forpligt.bev. bevill.styring,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,9B,予算管理 支出予算,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,9B,Budgetstyrning åtagandebudget,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,9B,Бюджет задълж./управл.средства,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,9B,תקציב התחייבות לניהול קרנות,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,9B,자금 관리 약정 예산,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,9B,Budżet zobowiązań Rach.budżet.,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,9B,Bütçe yönetimi yükümlülük btç.,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,9B,Financ.proračun za uprav.pror.,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,9B,Rozp.závazků - říz.rozpočtu,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,9B,ميزانية إلتزام إدارة التمويل,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,9B,Prorač.obvez. upravlj.prorač.,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,9B,资金管理承诺预算,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,9B,Budget p/vincoli gest. fondi,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,9B,基金管理承約預算,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,9C,Контролинг/управл.на средст,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,9C,基金管理控制,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,9C,펀드관리 관리회계,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,9C,Controlling ctrl.presupuestar.,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,9C,تحكم إدارة الأموال,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,9C,Controlling administr.orçamen.,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,9C,फंड प्रबंधन नियंत्रण,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,9C,Kontroling upravlj. proračuna,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,9C,Controlling Haushaltsmgm.,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,9C,基金管理成本控制,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,9C,Controlling Rach.budżet.,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,9C,Controlling begrotingsmngm.,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,9C,Funds Management Controlling,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,9C,Funds Management Controlling,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,9C,Controlling BS,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,9C,Bütçe yönetimi CO,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,9C,Controlling riad.rozpočtu,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,9C,Controlling disp.regnskap,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,9C,予算管理 管理会計,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,9C,Kontroling-upravlj.fondovima,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,9C,Sis. laskenta - määrärahalask.,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,9C,Controlling gestione fondi,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,9C,Budgetstyrning controlling,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,9C,Controlling költségvetés-men.,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,9C,Controlling - říz.rozpočtu,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,9C,בקרת ניהול קרנות,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,9C,Ελεγκτική Διαχ.Κεφαλαίων,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,9C,Adminstr.fonduri control,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,9C,Контроллинг УБ,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,9C,การควบคุมการจัดการกองทุน,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,9C,Contrôle de gestion CB,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,9C,Kontroling - Uprav.sredstvima,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,9D,Knjiga toka rada uprav.fondov.,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,9D,Registru workflow gest.fonduri,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,9D,Workflowledger Haushaltsmgm.,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,9D,Журнал ПО/управл.средства,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,9D,دفترأستاذ تدفق عمل إدارة أموال,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,9D,Budg.styrn. - workflow-ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,9D,Διαχείρ.Κεφαλ.Καθολ.Ροής Εργ.,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,9D,บ/ชแยกปภ.ผังงานก.จัดการเงินทุน,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,9D,Workflowledge r- říz.rozpočtu,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,9D,İş akışı defteri-bütçe yntm.,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,9D,基金管理工作流分类账,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,9D,Knj. delov. tok uprav. prorač.,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,9D,Регистр потока операций УБ,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,9D,Asianohj.pk - määrärahalask.,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,9D,자금 관리 워크플로우 원장,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,9D,Ledger workflow CB,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,9D,Účt.kniha workflow riad.rozp.,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,9D,Funds Mgmt Workflow Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,9D,Ledger workflow administr.orç.,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,9D,予算管理 ワークフロー元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,9D,Ledger workflow gest. fondi,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,9D,ספר חשב.ש.תהל.עבו.לניהול קרנות,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,9D,Workflowledger KVM,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,9D,Knjiga work.za upravlj.pror.,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,9D,Ledger workflow ctrl.presup.,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,9D,Księga Workflow Rach.budżet.,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,9D,Workflowledger disp.regnskap,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,9D,निधि प्रबंधन वर्कफ़्लो लेजर,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,9D,基金管理工作流程分類帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,9D,Workflow-ledger bevill.styring,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,9D,Begrot.mngm. workflowledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,9D,Fnds Management Workflowledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,9F,Bütçe yntm.ödemeler bütçesi,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,9F,Rozpočet platieb RR,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,9F,Rozpočet plateb ŘR,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,9F,FI-FM Budżet płatności,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,9F,УБ: Платежный бюджет,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,9F,BS betalingsbudget,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,9F,CP presupuesto,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,9F,FM - maksubudjetti,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,9F,Buget plată MF,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,9F,FM 支付预算,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,9F,Orçamento de pagamento AdO,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,9F,FM Payment Budget,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,9F,FM Προϋπολογισμός Πληρωμών,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,9F,FM Payment Budget,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,9F,DR betalingsbevilgning,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,9F,งบประมาณชำระเงิน FM,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,9F,BM betalingenbudget,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,9F,Budget paiement compt. budg.,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,9F,FM 付款預算,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,9F,UP proračun plačil,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,9F,FM платежен бюджет,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,9F,HHM Zahlungsbudget,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,9F,KVM fizetési költségkeret,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,9F,BS betalningsbudget,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,9F,FM भुगतान बजट,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,9F,תקציב תשלום ניהול קרנות,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,9F,FM 支払予算,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,9F,Budget pagamenti GF,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,9F,FM 지급예산,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,9F,UF Budžet plaćanja,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,9F,ميزانية دفع إدارة التمويل,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,9F,FM proračun plaćanja,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,9G,FM 약정예산,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,9G,BS åtagandebudget,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,9G,Rozpočet záväzkov RR,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,9G,ميزانية التزام إدارة التمويل,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,9G,FM бюджет на задължения,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,9G,FM Commitment Budget,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,9G,CP presupuesto de comprometido,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,9G,תקציב הסכם ניהול קרנות,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,9G,FM proračun obveza,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,9G,FM Commitment Budget,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,9G,УБ: Бюджет обязательств,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,9G,Orçamento de obrigações AdO,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,9G,Budget per vincoli GF,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,9G,UF budžet obaveze,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,9G,งบประมาณภาระผูกพันของ FM,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,9G,Buget angajament MF,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,9G,Rozpočet závazků ŘR,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,9G,VS forpligtelsesbevilling,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,9G,KVM kötelezettségi költségker.,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,9G,FM 承約預算,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,9G,FM 承付款预算,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,9G,FM Προϋπολογισμός Δεσμεύσεων,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,9G,FM 支出予算,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,9G,BM verplichtingenbudget,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,9G,UP proračun obveznosti,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,9G,HHM Verpflichtungsbudget,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,9G,FI-FM Budżet zobowiązań,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,9G,Bütçe yntm.yükümlülük bütçesi,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,9G,FM - sitoumusbudjetti,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,9G,Budget d'engagmt compt. budg.,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,9G,FM प्रतिबद्धता बजट,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,9G,DR forpliktelsesbudsjett,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,9H,FIFM PP Kontrola dostępności,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,9H,FM PB उपलब्धता नियंत्रण,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,9H,UP prorač.plačil kontr.razpol.,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,9H,BY ÖdmB kullanılabilirlik kntr,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,9H,BM BB beschikbaarheidscontrole,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,9H,Kontrola disponibility RP ŘR,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,9H,BS BB disponibilitetskontrol,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,9H,FM PB 有效性控制,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,9H,УБ: Контроль наличия в ПлБ,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,9H,Control disponibilitate BP MF,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,9H,Ctrle disponib. budg. pmt CB,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,9H,ควบคุมการใช้เงินทุนของ PB ในFM,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,9H,FM PB Availability Control,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,9H,FM PB 利用可能管理,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,9H,تحكم في التوفر لـ FM PB,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,9H,HHM ZB Verfügbarkeitskontrolle,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,9H,FM ПБ Контрол на наличността,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,9H,FM: maksubudj. saatavuustark.,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,9H,FM PB Ελεγχος Διαθεσιμότητας,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,9H,FM PB 可用度控制,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,9H,BS BB kontr. disponibla medel,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,9H,בקרת זמינות PB ניהול קרנות,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,9H,FM PB 가용성 관리,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,9H,CP Pr/P control disponibilidad,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,9H,Ctrl.disponibilidade OrçP AdO,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,9H,KVM FK rendelk.állás-ellenőrz.,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,9H,DR BB disponibilitetskontroll,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,9H,Controllo disponibilità BP GF,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,9H,Kontrola disponibility RP RR,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,9H,UF BP kontrola dostupnosti,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,9H,FM PB Availability Control,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,9H,FM PP kontrola raspoloživosti,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,9I,FM CB उपलब्धता नियंत्रण,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,9I,CP PC/C control disponibilidad,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,9I,FM: sit.budj. saatavuustark.,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,9I,BM VB beschikbaarheidscontrole,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,9I,FM БЗ Контрол на наличността,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,9I,Kontrola disponibility RP RR,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,9I,בקרת זמינות PB ניהול קרנות,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,9I,FM CB 利用可能管理,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,9I,FM CB Availability Control,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,9I,Control disponibilitate BA MF,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,9I,FM PO kontrola raspoloživosti,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,9I,BY YkmB kullanılabilirlik kntr,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,9I,FM CB Ελεγχος Διαθεσιμότητας,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,9I,FM CB 가용성 관리,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,9I,UP PO kontr. razpoložljivosti,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,9I,FM CB 可用度控制,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,9I,Ctrl.disponibilidade OO AdO,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,9I,BS ÅB kontr. disponibla medel,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,9I,FM CB 有效性控制,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,9I,Controllo disponibilità BV GF,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,9I,ควบคุมการใช้เงินทุนของ PB ในFM,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,9I,Kontrola disponibility RZ ŘR,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,9I,HHM VB Verfügbarkeitskontrolle,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,9I,DR FB disponibilitetskontroll,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,9I,BS FB disponibilitetskontrol,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,9I,تحكم في التوفر لـ FM CB,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,9I,FIFM PR Kontrola dostępności,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,9I,УБ: Контроль наличия в БОб,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,9I,Ctrle dispon. budg. engag. CB,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,9I,FM CB Availability Control,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,9I,FM PO kontrola raspoloživosti,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,9I,KVM KK rendelk.állás-ellenőrz.,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,9J,HHM Finanzplan,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,9J,FM Financial Budget,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,9J,FM वित्तीय बजट,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,9J,FM 재무 예산,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,9J,Piano finanziario GF,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,9J,FM งบประมาณการเงิน,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,9J,Uprav. prorač. finančni plan,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,9J,FM buget financiar,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,9J,תקציב פיננסי FM,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,9J,AdO pl.financeiro,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,9J,BS - likviditetsbudget,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,9J,FM 财务预算,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,9J,CB budget financier,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,9J,Finančný plán RR,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,9J,DR finansbudsjett,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,9J,FM financijski proračun,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,9J,FM - rahoitussuunnitelma,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,9J,Plan finansowy FM,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,9J,KVM pénzügyi terv,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,9J,BY mali planı,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,9J,BM: financieel plan,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,9J,ŘR: Finanční plán,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,9J,FM Финансов бюджет,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,9J,ميزانية مالية لإدارة التمويل,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,9J,FM Οικονομικός Προϋπολογισμός,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,9J,BS likviditetsplan,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,9J,UF finansijski plan,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,9J,Финансовый план УБ,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,9J,FM 財務予算,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,9J,FM Financial Budget,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,9J,Plan presupuestario CP,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,9J,FM 財務預算,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,9K,Controllo disponibilità GM CC,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,9K,GM ZB Verfügbarkeitskontrolle,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,9K,GM PB Control disponibilitate,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,9K,GM BB disponibilitetskontroll,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,9K,GM PB 利用可能予算管理,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,9K,ÖY ÖB kullanılabilirlik kntr.,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,9K,GM PB Контрол наличности,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,9K,GM BP Contrôle disponibilités,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,9K,GM PB Ελεγχος Διαθεσιμότητας,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,9K,GM BB tillgängl.kontroll,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,9K,GM PP Kontrola raspoloživosti,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,9K,GM PB 資金用度控制,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,9K,Контроль наличия ПлБ УГ,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,9K,GM PB उपलब्धता नियंत्रण,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,9K,补贴管理付款预算有效控制,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,9K,GM RP Kontrola disponibility,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,9K,BM BB beschikbaarheidscontrole,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,9K,GM PP kontrola razpoložljiv.,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,9K,GS CntrlDisponibil presupuesto,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,9K,GM: maksubudj. saatavuustark.,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,9K,GM PB 가용성 관리,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,9K,GM PB בקרת זמינות,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,9K,GM FK rend.állás-ellenrőrzés,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,9K,GM OrçP ctrl.disponibilidade,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,9K,GM PP Kontrola raspoloživosti,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,9K,GM PB Availability Control,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,9K,RR RP Kontrola disponibility,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,9K,การควบคุมความพร้อมของ GM PB,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,9K,GM PB Availability Control,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,9K,GM ZB Kontrola dostępności,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,9K,التحكم في التوفر لـ GM PB,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,9K,GM BB Disponibilitetskontrol,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,9M,תקציב תשלום,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,9M,预算工具应收: 付款预算,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,9M,आय वृद्धि बजट: भुगतान लेजर,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,9M,PrihodiPovBudž: BudžetPlaćanja,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,9M,BEE Ledger: Zahlungsbudget,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,9M,예산 증가 수익: 지급 예산,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,9M,Ledger BEE: orçamento pgto.,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,9M,BI-ledger: Betalingsbudget,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,9M,BVI-ledger: betalingsbudget,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,9M,BEE defter: Ödemeler bütçesi,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,9M,Bud.Incr.Rev.: Payment Budget,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,9M,預算增加收入：付款預算,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,9M,KKNB ledger: fiz. ktg.keret,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,9M,収入増加時予算調整: 支払予算,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,9M,BhI-ledger: Betalningsbudget,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,9M,Ledger IIP: Presupuesto,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,9M,BEE Księga: Budżet płatn.,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,9M,Bud.Incr.Rev.: Payment Budget,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,9M,Registru VMB: buget de plăţi,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,9M,Бюдж.увел.прих.: платеж.бюджет,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,9M,งบเพิ่มรายได้: งบประมาณรายจ่าย,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,9M,LedgerRecAugmentBudg:budgetPmt,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,9M,Εσοδ.Αύξ.Προϋπ.: Προϋπ.Πληρ.,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,9M,إيراد زيادةميزانية:ميزانية دفع,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,9M,Ledger EIB: budget pagamenti,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,9M,BØM ledger: Betalingsbevilgn.,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,9M,ÚčKn.PrZvRozp.: Rozp.platieb,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,9M,Ledger PZR: Rozpočet plateb,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,9M,BEE knjiga: Proračun plačil,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,9M,Prih.koji uveć.pr.:pror.plać.,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,9M,BLT pääkirja: maksubudjetti,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,9M,РегПовышБюджПостп: ПлатБюджет,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,9N,BI-ledger: Forpligt.bevilling,I,False,2021-03-31 05:00:43.587054+00:00
+800,Q,9N,ÚčKn.PrZvRozp.: Rozp.záväzkov,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,9N,Ledger IIP: Presup.comprom.,I,False,2021-03-31 05:00:43.587054+00:00
+800,묩,9N,आय वृद्धि बजट: प्रतिबद्धता बजट,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,9N,Ledger PZR: Rozpočet závazků,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,9N,Registru VMB: buget de angaj.,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,9N,Prih.koji uveć.pr.:pror.obveza,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,9N,Εσοδ.Αύξ.Προϋπ.: Προϋπ.Δέσμ.,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,9N,BØM ledger: Forpliktelsesbud.,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,9N,РегПовышБюджПостп: БюджОбязат.,I,False,2021-03-31 05:00:43.587054+00:00
+800,B,9N,תקציב התחייבות,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,9N,BEE Ledger: Verpflichtungsbdgt,I,False,2021-03-31 05:00:43.587054+00:00
+800,U,9N,BLT pääkirja: sitoumusbudjetti,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,9N,Ledger BEE: orçmto.obrigações,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,9N,งบเพิ่มรายได้: งบประมาณผูกพัน,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,9N,Bud.Incr.Rev.: Commit. Budget,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,9N,Бюдж.увел.прих.: бюдж.задълж.,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,9N,KKNB ledger: köt.-ktg.keret,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,9N,BEE knjiga: Proračun obveznos.,I,False,2021-03-31 05:00:43.587054+00:00
+800,A,9N,إيراد زيادة: ميزانية التزام,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,9N,LedgRecAugmBudg:budgetEngagmt,I,False,2021-03-31 05:00:43.587054+00:00
+800,T,9N,BEE defter: Yükümlülük bütçesi,I,False,2021-03-31 05:00:43.587054+00:00
+800,M,9N,預算增加收入：承約預算,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,9N,BVI-ledger: obligobudget,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,9N,Ledger EIB: budget vincoli,I,False,2021-03-31 05:00:43.587054+00:00
+800,V,9N,BhI-ledger: Åtagandebudget,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,9N,预算工具应收: 付款预算,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,9N,예산 증가 수익: 약정 예싼,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,9N,収入増加時調整: 未確定債務予算,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,9N,PrihodiPovBudž: Budžet obaveze,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,9N,Bud.Incr.Rev.: Commit. Budget,I,False,2021-03-31 05:00:43.587054+00:00
+800,L,9N,BEE Księga: Budżet zobowiąz.,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,B1,Bank Konsolidierung Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,BR,Ledger BRGAAP,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,BW,BW Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,BZ,巴西,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,BZ,Brésil,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,BZ,Brazil,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,BZ,Ledger Brasil,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,BZ,Brazil,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,BZ,Бразилия,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,BZ,Brazil,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,CS,連結元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,CS,Demo Consolidation Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,CS,Ledger de consolidação,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,CS,Ledger de consolidación,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,CS,Ledger de consolidation,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,G0,Ledger contab.directa global,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,G0,Globales Durchbuchungs-Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,G0,グローバル直接転記元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,G0,Ledger de contab.direta global,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,G0,Ledger global comptab. dir.,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,GF,demo,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,GF,demo,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,GF,demo,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,GF,demo,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,GF,demo,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,GF,demo,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,GF,demo,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,GF,demo,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,GF,demo,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,J1,Ledger teste p/Report Writer,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,J1,Ledger test pour Report writer,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,J1,Ledger test p. Report Writer,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,J1,レポートライタテスト元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,J1,Test-Ledger für Report Writer,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,L0,Ledger local comptab. dir.,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,L0,Ledger de contab.direta local,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,L0,Ledger contab.directa local,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,L0,Lokales Durchbuchungs-Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,L0,ローカル直接転記元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,L1,Sachkonto-Verkehrszahlen,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,L1,総勘定元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,L1,Cifras movimientos cta.mayor,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,L1,Saldos mensais Conta do Razão,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,L1,Soldes mensuels cpte général,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,L2,Sachkonto-Verkehrszahlen,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,L2,Soldes mensuels cpte général,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,L2,総勘定元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,L2,Cifras movimientos cta.mayor,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,L2,Saldos mensais Conta do Razão,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,L3,Sako-Verkehrz. PrCtr-Sicht,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LA,BW Ledger LA,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LB,BW Ledger LB,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LC,BW Ledger LC,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LD,BW Ledger LD,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LE,BW Ledger LE,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LF,BW Ledger LF,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LG,BW Ledger LG,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LH,BW Ledger LH,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LI,BW Ledger LI,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LJ,BW Ledger LJ,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LK,BW Ledger LK,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LL,BW Ledger LL,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LM,BW Ledger LM,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LN,BW Ledger LN,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LO,BW Ledger LO,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LP,BW Ledger LP,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LQ,BW Ledger LQ,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LR,BW Ledger LR,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LS,BW Ledger LS,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LT,BW Ledger LT,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LU,BW Ledger LU,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LV,BW Ledger LV,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LW,BW Ledger LW,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LX,BW Ledger LX,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LY,BW Ledger LY,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,LZ,BW Ledger LZ,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,P1,Public Services,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,P1,Public Services,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,P1,Public Services,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,P1,Public Services,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,P1,Public Services,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,P1,Public Services,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,P1,Public Services,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,P1,Public Services,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,P1,Public Services,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,R0,Rollup ledger  (GLFUNCT),I,False,2021-03-31 05:00:43.587054+00:00
+800,J,R0,ローカルロールアップ元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,R0,Ledger rollup (GLFUNCT),I,False,2021-03-31 05:00:43.587054+00:00
+800,S,R0,Ledger rollup (GLFUNCT),I,False,2021-03-31 05:00:43.587054+00:00
+800,D,R0,Rollup-Ledger  (GLFUNCT),I,False,2021-03-31 05:00:43.587054+00:00
+800,J,R1,ロールアップ元帳 1 (GLFUNCT),I,False,2021-03-31 05:00:43.587054+00:00
+800,S,R1,Ledger de rollup 1 (GLFUNCT),I,False,2021-03-31 05:00:43.587054+00:00
+800,P,R1,Ledger rollup 1 (GLFUNCT),I,False,2021-03-31 05:00:43.587054+00:00
+800,D,R1,Rollup-Ledger 1 (GLFUNCT),I,False,2021-03-31 05:00:43.587054+00:00
+800,F,R1,Ledger synth. 1 (GLFUNCT),I,False,2021-03-31 05:00:43.587054+00:00
+800,J,R2,ロールアップ元帳 (GLT1) HIER,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,R2,Ledger rollup (GLT1) HIER,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,R2,Ledger de rollup (GLT1) HIER,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,R2,Rollup-Ledger  (GLT1) HIER,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,R2,Ledger synth. (GLT1) HIER,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,RW,Exmpl.demonstr.->Report Writer,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,RW,Demo-Beispiele-> Report Writer,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,RW,レポートライタ用表示ケース,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,RW,Ejemplos demo -> Report Writer,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,RW,Ex. de démonstr. Report Writer,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,SP,Split-Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,U1,BW Ledger U1,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,UK,Ledger UKGAAP,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,US,Ledger USGAAP,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,US,Konsolidierungsledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,V1,Joint venture,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,V1,ジョイントベンチャ,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,V2,Joint Venture con objetos,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,V2,Joint venture com objetos,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,V2,対象付ジョイントベンチャ,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,V2,Joint venture avec objets,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,V2,Joint Venture mit Objekten,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,Z1,Tagesledger Banking,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,Z2,Lokales Ledger Banking,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,Z3,Reconcile A/R and A/P,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,Z3,Reconcile A/R and A/P,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,Z3,Reconcile A/R and A/P,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,Z3,Reconcile A/R and A/P,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,Z3,Reconcile A/R and A/P,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,Z3,Reconcile A/R and A/P,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,Z3,Reconcile A/R and A/P,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,Z3,Reconcile A/R and A/P,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,Z3,Reconcile A/R and A/P,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,Z4,Reconcile Open Items,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,Z4,Reconcile Open Items,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,Z4,Reconcile Open Items,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,Z4,Reconcile Open Items,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,Z4,Reconcile Open Items,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,Z4,Reconcile Open Items,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,Z4,Reconcile Open Items,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,Z4,Reconcile Open Items,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,Z4,Reconcile Open Items,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,Z5,Reconcile GL Accounts,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,Z5,Reconcile GL Accounts,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,Z5,Reconcile GL Accounts,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,Z5,Reconcile GL Accounts,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,Z5,Reconcile GL Accounts,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,Z5,Reconcile GL Accounts,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,Z5,Reconcile GL Accounts,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,Z5,Reconcile GL Accounts,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,Z5,Reconcile GL Accounts,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,ZA,Tages-Durchschnitt Buchungsdat,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,ZB,Periodischer Durchschnitt  Val,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,ZR,Ledger Brasil,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,ZS,ZZSPECT の元帳,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,ZS,Ledger zu ZZSPECT,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,ZS,Ledger para ZZSPECT,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,ZS,Ledger pour ZZSPECT,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,ZS,Ledger de ZZSPECT,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,0M,,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,0N,,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,0O,,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,ZR,,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,ZR,,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,ZR,,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,ZR,,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,ZR,,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,ZR,,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,ZR,,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,BW,BW,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,BW,BW,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,BW,BW,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,BW,BW,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,BW,BW,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,BW,BW,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,BW,BW,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,BW,BW,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,BW,BW,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,BW,BW,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,BW,BW,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,BW,BW,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,BW,BW,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,BW,BW,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,BW,BW,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,U1,U1,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,U1,U1,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,U1,U1,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,U1,U1,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,U1,U1,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,U1,U1,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,U1,U1,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,U1,U1,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,U1,U1,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,U1,U1,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,U1,U1,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,U1,U1,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,U1,U1,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,U1,U1,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,U1,U1,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,L5,IAS,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,L5,IAS,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,L5,IAS,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,L5,IAS,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,L5,IAS,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,L5,IAS,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,L5,IAS,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,L5,IAS,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,L5,IAS,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,L5,IAS,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,L5,IAS,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,L5,IAS,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,L5,IAS,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,L5,IAS,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,L5,IAS,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,L5,IAS,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,ZR,IAS,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,T,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,T,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,T,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,T,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,T,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,T,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,T,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,T,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,T,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,T,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,T,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,T,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,T,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,T,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,08,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,08,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,08,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,08,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,08,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,08,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,08,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,08,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,08,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,08,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,08,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,08,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,08,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,11,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,11,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,11,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,11,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,11,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,11,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,11,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,11,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,11,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,11,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,11,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,11,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,11,Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,BZ,local,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,L6,local,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,L6,local,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,L6,local,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,L6,local,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,L6,local,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,L6,local,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,L6,local,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,L6,local,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,L6,local,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,L6,local,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,L6,local,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,L6,local,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,L6,local,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,L6,local,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,L6,local,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,L6,local,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,01,Posting Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,01,Posting Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,01,Posting Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,01,Posting Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,01,Posting Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,01,Posting Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,01,Posting Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,01,Posting Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,01,Posting Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,01,Posting Test,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,V1,Joint Venture,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,V1,Joint Venture,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,V1,Joint Venture,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,V1,Joint Venture,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,V1,Joint Venture,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,V1,Joint Venture,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,V1,Joint Venture,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,V1,Joint Venture,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,V1,Joint Venture,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,V1,Joint Venture,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,V1,Joint Venture,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,V1,Joint Venture,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,V1,Joint Venture,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,V1,Joint Venture,I,False,2021-03-31 05:00:43.587054+00:00
+800,C,90,Grants Management,I,False,2021-03-31 05:00:43.587054+00:00
+800,K,90,Grants Management,I,False,2021-03-31 05:00:43.587054+00:00
+800,N,90,Grants Management,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,90,Grants Management,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,90,Grants Management,I,False,2021-03-31 05:00:43.587054+00:00
+800,O,90,Grants Management,I,False,2021-03-31 05:00:43.587054+00:00
+800,2,90,Grants Management,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,90,Grants Management,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,90,Grants Management,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,90,Grants Management,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,4B,JVA Billing Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,4B,JVA Billing Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,4B,JVA Billing Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,4B,JVA Billing Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,4B,JVA Billing Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,4B,JVA Billing Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,4B,JVA Billing Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,4B,JVA Billing Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,4B,JVA Billing Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,4B,JVA Billing Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,4B,JVA Billing Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,4B,JVA Billing Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,4E,JVA Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,4E,JVA Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,4E,JVA Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,4E,JVA Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,4E,JVA Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,4E,JVA Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,4E,JVA Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,4E,JVA Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,4E,JVA Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,4E,JVA Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,4E,JVA Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,4E,JVA Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,4E,JVA Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,ZS,Ledger for ZZSPECT,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,ZS,Ledger for ZZSPECT,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,ZS,Ledger for ZZSPECT,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,ZS,Ledger for ZZSPECT,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,ZS,Ledger for ZZSPECT,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,ZS,Ledger for ZZSPECT,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,ZS,Ledger for ZZSPECT,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,ZS,Ledger for ZZSPECT,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,ZS,Ledger for ZZSPECT,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,ZS,Ledger for ZZSPECT,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,ZS,Ledger for ZZSPECT,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,4A,JVA Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,4A,JVA Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,4A,JVA Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,4A,JVA Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,4A,JVA Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,4A,JVA Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,4A,JVA Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,4A,JVA Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,4A,JVA Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,4A,JVA Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,4A,JVA Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,4A,JVA Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,LR,Local rollup ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,R0,Local rollup ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,R0,Local rollup ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,R0,Local rollup ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,R0,Local rollup ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,R0,Local rollup ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,R0,Local rollup ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,R0,Local rollup ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,R0,Local rollup ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,R0,Local rollup ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,R0,Local rollup ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,R0,Local rollup ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,4P,PSC Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,4P,PSC Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,4P,PSC Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,4P,PSC Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,4P,PSC Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,4P,PSC Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,4P,PSC Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,4P,PSC Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,4P,PSC Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,4P,PSC Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,4P,PSC Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,4P,PSC Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,ZC,Arrow Electrics Inc.,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,ZC,Arrow Electrics Inc.,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,ZC,Arrow Electrics Inc.,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,ZC,Arrow Electrics Inc.,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,ZC,Arrow Electrics Inc.,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,ZC,Arrow Electrics Inc.,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,ZC,Arrow Electrics Inc.,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,ZC,Arrow Electrics Inc.,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,ZC,Arrow Electrics Inc.,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,ZC,Arrow Electrics Inc.,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,ZC,Arrow Electrics Inc.,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,ZC,Arrow Electrics Inc.,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,ZC,Arrow Electrics Inc.,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,ZC,Arrow Electrics Inc.,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,ZC,Arrow Electrics Inc.,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,ZC,Arrow Electrics Inc.,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,10,Consolidation Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,12,Consolidation Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,12,Consolidation Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,12,Consolidation Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,12,Consolidation Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,12,Consolidation Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,12,Consolidation Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,12,Consolidation Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,12,Consolidation Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,12,Consolidation Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,12,Consolidation Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,1C,Consolidation Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,10,Consolidation ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,1C,Consolidation ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,CS,Consolidation ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,CS,Consolidation ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,CS,Consolidation ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,CS,Consolidation ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,CS,Consolidation ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,CS,Consolidation ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,CS,Consolidation ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,CS,Consolidation ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,CS,Consolidation ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,CS,Consolidation ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,CS,Consolidation ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,BP,SEM-BPS Demo 11 Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,BP,SEM-BPS Demo 11 Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,BP,SEM-BPS Demo 11 Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,BP,SEM-BPS Demo 11 Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,BP,SEM-BPS Demo 11 Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,BP,SEM-BPS Demo 11 Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,BP,SEM-BPS Demo 11 Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,BP,SEM-BPS Demo 11 Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,BP,SEM-BPS Demo 11 Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,BP,SEM-BPS Demo 11 Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,BP,SEM-BPS Demo 11 Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,BP,SEM-BPS Demo 11 Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,BP,SEM-BPS Demo 11 Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,BP,SEM-BPS Demo 11 Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,BP,SEM-BPS Demo 11 Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,BP,SEM-BPS Demo 11 Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,V2,Joint Venture with Object,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,V2,Joint Venture with Object,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,V2,Joint Venture with Object,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,V2,Joint Venture with Object,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,V2,Joint Venture with Object,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,V2,Joint Venture with Object,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,V2,Joint Venture with Object,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,V2,Joint Venture with Object,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,V2,Joint Venture with Object,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,V2,Joint Venture with Object,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,V2,Joint Venture with Object,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,J1,Report writer test ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,J1,Report writer test ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,J1,Report writer test ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,J1,Report writer test ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,J1,Report writer test ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,J1,Report writer test ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,J1,Report writer test ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,J1,Report writer test ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,J1,Report writer test ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,J1,Report writer test ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,J1,Report writer test ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,R1,Rollup ledger 1 (GLFUNCT),I,False,2021-03-31 05:00:43.587054+00:00
+800,6,R1,Rollup ledger 1 (GLFUNCT),I,False,2021-03-31 05:00:43.587054+00:00
+800,R,R1,Rollup ledger 1 (GLFUNCT),I,False,2021-03-31 05:00:43.587054+00:00
+800,G,R1,Rollup ledger 1 (GLFUNCT),I,False,2021-03-31 05:00:43.587054+00:00
+800,d,R1,Rollup ledger 1 (GLFUNCT),I,False,2021-03-31 05:00:43.587054+00:00
+800,E,R1,Rollup ledger 1 (GLFUNCT),I,False,2021-03-31 05:00:43.587054+00:00
+800,W,R1,Rollup ledger 1 (GLFUNCT),I,False,2021-03-31 05:00:43.587054+00:00
+800,3,R1,Rollup ledger 1 (GLFUNCT),I,False,2021-03-31 05:00:43.587054+00:00
+800,1,R1,Rollup ledger 1 (GLFUNCT),I,False,2021-03-31 05:00:43.587054+00:00
+800,5,R1,Rollup ledger 1 (GLFUNCT),I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,R1,Rollup ledger 1 (GLFUNCT),I,False,2021-03-31 05:00:43.587054+00:00
+800,W,13,FI-LC Addit. origin fields,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,13,FI-LC Addit. origin fields,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,13,FI-LC Addit. origin fields,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,13,FI-LC Addit. origin fields,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,13,FI-LC Addit. origin fields,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,13,FI-LC Addit. origin fields,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,13,FI-LC Addit. origin fields,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,13,FI-LC Addit. origin fields,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,13,FI-LC Addit. origin fields,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,13,FI-LC Addit. origin fields,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,R2,Rollup ledger  (GLT1) HIER,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,R2,Rollup ledger  (GLT1) HIER,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,R2,Rollup ledger  (GLT1) HIER,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,R2,Rollup ledger  (GLT1) HIER,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,R2,Rollup ledger  (GLT1) HIER,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,R2,Rollup ledger  (GLT1) HIER,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,R2,Rollup ledger  (GLT1) HIER,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,R2,Rollup ledger  (GLT1) HIER,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,R2,Rollup ledger  (GLT1) HIER,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,R2,Rollup ledger  (GLT1) HIER,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,R2,Rollup ledger  (GLT1) HIER,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,L0,Local direct posting ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,L0,Local direct posting ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,L0,Local direct posting ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,L0,Local direct posting ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,L0,Local direct posting ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,L0,Local direct posting ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,L0,Local direct posting ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,L0,Local direct posting ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,L0,Local direct posting ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,L0,Local direct posting ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,L0,Local direct posting ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,G0,Global direct posting ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,G0,Global direct posting ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,G0,Global direct posting ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,G0,Global direct posting ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,G0,Global direct posting ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,G0,Global direct posting ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,G0,Global direct posting ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,G0,Global direct posting ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,G0,Global direct posting ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,G0,Global direct posting ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,G0,Global direct posting ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,RW,Show cases for Report Writer,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,RW,Show cases for Report Writer,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,RW,Show cases for Report Writer,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,RW,Show cases for Report Writer,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,RW,Show cases for Report Writer,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,RW,Show cases for Report Writer,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,RW,Show cases for Report Writer,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,RW,Show cases for Report Writer,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,RW,Show cases for Report Writer,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,RW,Show cases for Report Writer,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,RW,Show cases for Report Writer,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,0A,Transaction Figures: Country,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,0A,Transaction Figures: Country,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,0A,Transaction Figures: Country,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,0A,Transaction Figures: Country,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,0A,Transaction Figures: Country,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,0A,Transaction Figures: Country,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,0A,Transaction Figures: Country,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,0B,Transaction Figures: Country,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,0B,Transaction Figures: Country,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,0B,Transaction Figures: Country,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,0B,Transaction Figures: Country,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,0B,Transaction Figures: Country,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,0B,Transaction Figures: Country,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,0B,Transaction Figures: Country,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,00,G/L accnt transaction figures,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,L1,G/L accnt transaction figures,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,L1,G/L accnt transaction figures,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,L1,G/L accnt transaction figures,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,L1,G/L accnt transaction figures,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,L1,G/L accnt transaction figures,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,L1,G/L accnt transaction figures,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,L1,G/L accnt transaction figures,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,L1,G/L accnt transaction figures,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,L1,G/L accnt transaction figures,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,L1,G/L accnt transaction figures,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,L1,G/L accnt transaction figures,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,L2,G/L accnt transaction figures,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,L2,G/L accnt transaction figures,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,L2,G/L accnt transaction figures,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,L2,G/L accnt transaction figures,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,L2,G/L accnt transaction figures,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,L2,G/L accnt transaction figures,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,L2,G/L accnt transaction figures,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,L2,G/L accnt transaction figures,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,L2,G/L accnt transaction figures,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,L2,G/L accnt transaction figures,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,L2,G/L accnt transaction figures,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,4D,JVA Additional Billing Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,4D,JVA Additional Billing Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,4D,JVA Additional Billing Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,4D,JVA Additional Billing Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,4D,JVA Additional Billing Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,4D,JVA Additional Billing Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,4D,JVA Additional Billing Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,4D,JVA Additional Billing Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,4D,JVA Additional Billing Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,4D,JVA Additional Billing Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,4D,JVA Additional Billing Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,4D,JVA Additional Billing Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,4F,JVA Additional Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,4F,JVA Additional Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,4F,JVA Additional Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,4F,JVA Additional Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,4F,JVA Additional Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,4F,JVA Additional Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,4F,JVA Additional Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,4F,JVA Additional Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,4F,JVA Additional Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,4F,JVA Additional Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,4F,JVA Additional Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,4F,JVA Additional Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,4F,JVA Additional Cutback Totals,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,ZA,Ledger w. User-Defined Fields,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,ZA,Ledger w. User-Defined Fields,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,ZA,Ledger w. User-Defined Fields,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,ZA,Ledger w. User-Defined Fields,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,ZA,Ledger w. User-Defined Fields,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,ZA,Ledger w. User-Defined Fields,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,ZA,Ledger w. User-Defined Fields,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,ZA,Ledger w. User-Defined Fields,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,ZA,Ledger w. User-Defined Fields,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,ZA,Ledger w. User-Defined Fields,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,ZA,Ledger w. User-Defined Fields,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,ZA,Ledger w. User-Defined Fields,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,ZA,Ledger w. User-Defined Fields,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,ZA,Ledger w. User-Defined Fields,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,ZA,Ledger w. User-Defined Fields,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,4C,JVA Additional Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,4C,JVA Additional Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,4C,JVA Additional Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,4C,JVA Additional Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,4C,JVA Additional Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,4C,JVA Additional Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,4C,JVA Additional Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,4C,JVA Additional Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,4C,JVA Additional Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,4C,JVA Additional Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,4C,JVA Additional Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,4C,JVA Additional Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,4Q,JVA Additional Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,4Q,JVA Additional Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,4Q,JVA Additional Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,4Q,JVA Additional Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,4Q,JVA Additional Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,4Q,JVA Additional Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,H,4Q,JVA Additional Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,4Q,JVA Additional Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,4Q,JVA Additional Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,4Q,JVA Additional Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,I,4Q,JVA Additional Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,4Q,JVA Additional Standard Ledger,I,False,2021-03-31 05:00:43.587054+00:00
+800,5,L4,Leg. Val./Glob. Curr/Grp. Curr,I,False,2021-03-31 05:00:43.587054+00:00
+800,J,L4,Leg. Val./Glob. Curr/Grp. Curr,I,False,2021-03-31 05:00:43.587054+00:00
+800,F,L4,Leg. Val./Glob. Curr/Grp. Curr,I,False,2021-03-31 05:00:43.587054+00:00
+800,3,L4,Leg. Val./Glob. Curr/Grp. Curr,I,False,2021-03-31 05:00:43.587054+00:00
+800,E,L4,Leg. Val./Glob. Curr/Grp. Curr,I,False,2021-03-31 05:00:43.587054+00:00
+800,4,L4,Leg. Val./Glob. Curr/Grp. Curr,I,False,2021-03-31 05:00:43.587054+00:00
+800,6,L4,Leg. Val./Glob. Curr/Grp. Curr,I,False,2021-03-31 05:00:43.587054+00:00
+800,P,L4,Leg. Val./Glob. Curr/Grp. Curr,I,False,2021-03-31 05:00:43.587054+00:00
+800,W,L4,Leg. Val./Glob. Curr/Grp. Curr,I,False,2021-03-31 05:00:43.587054+00:00
+800,R,L4,Leg. Val./Glob. Curr/Grp. Curr,I,False,2021-03-31 05:00:43.587054+00:00
+800,D,L4,Leg. Val./Glob. Curr/Grp. Curr,I,False,2021-03-31 05:00:43.587054+00:00
+800,Z,L4,Leg. Val./Glob. Curr/Grp. Curr,I,False,2021-03-31 05:00:43.587054+00:00
+800,G,L4,Leg. Val./Glob. Curr/Grp. Curr,I,False,2021-03-31 05:00:43.587054+00:00
+800,1,L4,Leg. Val./Glob. Curr/Grp. Curr,I,False,2021-03-31 05:00:43.587054+00:00
+800,S,L4,Leg. Val./Glob. Curr/Grp. Curr,I,False,2021-03-31 05:00:43.587054+00:00
+800,d,L4,Leg. Val./Glob. Curr/Grp. Curr,I,False,2021-03-31 05:00:43.587054+00:00
